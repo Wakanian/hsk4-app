@@ -500,6 +500,53 @@
     font-weight:700;
   }
   .choice-btn:disabled{ cursor:default; }
+  .choice-btn.zh{
+    font-family:'Noto Serif SC', serif;
+    font-size:1.25rem;
+    font-weight:600;
+    text-align:center;
+  }
+  .choice-btn .choice-py{
+    display:block;
+    font-family:'Noto Sans JP', sans-serif;
+    font-size:.78rem;
+    font-weight:500;
+    opacity:.8;
+    margin-top:2px;
+  }
+
+  /* ---------- 日⇒中 モード用 ---------- */
+  .card-front .hanzi.ja{
+    font-family:'Noto Sans JP', sans-serif;
+    font-weight:700;
+    font-size:clamp(1.3rem, 6vw, 1.8rem);
+    line-height:1.5;
+    padding:0 10px;
+  }
+  .card-back .meaning.zh{
+    font-family:'Noto Serif SC', serif;
+    font-weight:900;
+    font-size:clamp(2.2rem, 11vw, 3.2rem);
+    color:var(--enji);
+  }
+  .card-back .sub-meaning{
+    margin-top:10px;
+    font-size:.85rem;
+    color:var(--ink-soft);
+    text-align:center;
+  }
+  .quiz-question .hanzi.ja{
+    font-family:'Noto Sans JP', sans-serif;
+    font-weight:700;
+    font-size:1.5rem;
+    line-height:1.5;
+  }
+  .dir-label{
+    font-size:.72rem;
+    color:var(--ochre);
+    letter-spacing:.12em;
+    margin:0 0 6px 2px;
+  }
 
   .quiz-footer{
     margin-top:18px;
@@ -586,6 +633,11 @@
       <button class="level-btn" data-level="4">4級<span class="cnt" data-cnt="4"></span></button>
     </div>
 
+    <div class="mode-toggle" id="dirToggle">
+      <button class="mode-btn active" data-mode="zh2ja">中 ⇒ 日</button>
+      <button class="mode-btn" data-mode="ja2zh">日 ⇒ 中</button>
+    </div>
+
     <div class="tabs">
       <button class="tab-btn active" data-panel="card-panel">単語カード</button>
       <button class="tab-btn" data-panel="quiz-panel">4択クイズ</button>
@@ -619,6 +671,7 @@
               <span class="wrong-flag" id="backWrongFlag">要復習</span>
               <div class="pinyin" id="backPinyin">bǎ wò</div>
               <div class="meaning" id="backMeaning">把握する、確信を持つ</div>
+              <div class="sub-meaning" id="backSub" style="display:none;"></div>
               <button class="speak-btn" id="backSpeakBtn" title="発音を聞く">🔊</button>
             </div>
           </div>
@@ -648,7 +701,7 @@
         <div id="quizArea">
           <div class="quiz-count" id="quizCount">第 1 問 / 10</div>
           <div class="quiz-question">
-            <div class="label">この中国語の意味は？</div>
+            <div class="label" id="quizLabel">この中国語の意味は？</div>
             <div class="hanzi" id="quizHanzi">把握</div>
             <div class="pinyin" id="quizPinyin">bǎ wò</div>
           </div>
@@ -788,6 +841,11 @@ function setupModeToggle(containerEl, onChange){
   });
 }
 
+/* ===================== 出題方向（中⇒日／日⇒中） ===================== */
+const DIR_KEY = 'hsk4_direction';
+let direction = 'zh2ja';
+try{ if(localStorage.getItem(DIR_KEY) === 'ja2zh') direction = 'ja2zh'; }catch(e){}
+
 /* ===================== 単語カード機能 ===================== */
 let cardMode = 'all';
 let cardList = [];
@@ -802,6 +860,8 @@ const backWrongFlag = document.getElementById('backWrongFlag');
 const cardProgress = document.getElementById('cardProgress');
 const cardContent = document.getElementById('cardContent');
 const cardEmptyMessage = document.getElementById('cardEmptyMessage');
+const backSub = document.getElementById('backSub');
+const frontSpeakBtn = document.getElementById('frontSpeakBtn');
 
 /* ===================== 級フィルター ===================== */
 let currentLevel = 'all';
@@ -852,14 +912,32 @@ function renderCard(autoSpeak = true){
   if(cardList.length === 0) return;
   const w = cardList[cardIndex];
   flipCard.classList.remove('flipped');
-  frontHanzi.textContent = w.hanzi;
-  backHanzi.textContent  = w.hanzi;
+  const ja2zh = direction === 'ja2zh';
   backPinyin.textContent = w.pinyin;
-  backMeaning.textContent= w.definition;
+  if(ja2zh){
+    // 表：日本語訳 ／ 裏：中国語＋ピンイン
+    frontHanzi.textContent = w.definition;
+    frontHanzi.classList.add('ja');
+    backHanzi.textContent  = '';
+    backMeaning.textContent= w.hanzi;
+    backMeaning.classList.add('zh');
+    backSub.textContent    = w.definition;
+    backSub.style.display  = 'block';
+    frontSpeakBtn.style.display = 'none'; // 表で発音すると答えが分かってしまうため
+  }else{
+    // 表：中国語 ／ 裏：ピンイン＋日本語訳
+    frontHanzi.textContent = w.hanzi;
+    frontHanzi.classList.remove('ja');
+    backHanzi.textContent  = w.hanzi;
+    backMeaning.textContent= w.definition;
+    backMeaning.classList.remove('zh');
+    backSub.style.display  = 'none';
+    frontSpeakBtn.style.display = '';
+  }
   backWrongFlag.classList.toggle('show', isWrong(w.id));
   document.getElementById('frontLevel').textContent = `HSK ${w.level}級`;
   cardProgress.textContent = `${cardIndex+1} / ${cardList.length}`;
-  if(autoSpeak) speakChinese(w.hanzi);
+  if(autoSpeak && !ja2zh) speakChinese(w.hanzi);
 }
 
 flipCard.addEventListener('click', (e)=>{
@@ -889,6 +967,17 @@ document.getElementById('prevBtn').addEventListener('click', ()=>{
   if(cardList.length === 0) return;
   cardIndex = (cardIndex - 1 + cardList.length) % cardList.length;
   renderCard();
+});
+
+const dirToggle = document.getElementById('dirToggle');
+dirToggle.querySelectorAll('.mode-btn').forEach(b=>{
+  b.classList.toggle('active', b.dataset.mode === direction);
+});
+setupModeToggle(dirToggle, (mode)=>{
+  direction = mode;
+  try{ localStorage.setItem(DIR_KEY, mode); }catch(e){}
+  renderCard(false);
+  if(document.getElementById('quiz-panel').classList.contains('active')) renderQuizPanel();
 });
 
 setupModeToggle(document.getElementById('cardModeToggle'), (mode)=>{
@@ -958,30 +1047,41 @@ function renderQuizQuestion(){
   const wordIdx = quizOrder[quizIndex];
   const word = quizPool[wordIdx];
   quizCount.textContent = `第 ${quizIndex+1} 問 / ${quizOrder.length}`;
-  quizHanzi.textContent = word.hanzi;
-  quizPinyin.textContent = word.pinyin;
+  const ja2zh = direction === 'ja2zh';
+  document.getElementById('quizLabel').textContent = ja2zh ? 'この意味の中国語は？' : 'この中国語の意味は？';
+  if(ja2zh){
+    quizHanzi.textContent = word.definition;
+    quizHanzi.classList.add('ja');
+    quizPinyin.textContent = '';
+  }else{
+    quizHanzi.textContent = word.hanzi;
+    quizHanzi.classList.remove('ja');
+    quizPinyin.textContent = word.pinyin;
+  }
   quizScoreEl.textContent = `正解数：${quizScore}`;
 
   // ダミー選択肢はなるべく同じ級から選ぶ（足りなければ全体から補う）
-  const notSame = w => w.id !== word.id && w.definition !== word.definition;
+  // 意味・漢字のどちらも正解と重ならない語だけを使う
+  const notSame = w => w.id !== word.id && w.definition !== word.definition && w.hanzi !== word.hanzi;
   let dummies = shuffle(VOCAB.filter(w => notSame(w) && w.level === word.level)).slice(0,3);
   if(dummies.length < 3){
     const rest = shuffle(VOCAB.filter(w => notSame(w) && w.level !== word.level));
     dummies = dummies.concat(rest.slice(0, 3 - dummies.length));
   }
-  dummies = dummies.map(w=>w.definition);
-  const options = shuffle([word.definition, ...dummies]);
+  const options = shuffle([word, ...dummies]);
 
   quizChoices.innerHTML = '';
   options.forEach(opt=>{
     const btn = document.createElement('button');
-    btn.className = 'choice-btn';
-    btn.textContent = opt;
+    btn.className = 'choice-btn' + (ja2zh ? ' zh' : '');
+    btn.dataset.id = opt.id;
+    btn.dataset.pinyin = opt.pinyin;
+    btn.textContent = ja2zh ? opt.hanzi : opt.definition;
     btn.addEventListener('click', ()=>handleChoice(btn, opt, word));
     quizChoices.appendChild(btn);
   });
 
-  speakChinese(word.hanzi);
+  if(!ja2zh) speakChinese(word.hanzi); // 日⇒中では答えになるので読み上げない
 }
 
 function handleChoice(btn, chosen, word){
@@ -990,7 +1090,18 @@ function handleChoice(btn, chosen, word){
   const buttons = quizChoices.querySelectorAll('.choice-btn');
   buttons.forEach(b=>b.disabled = true);
 
-  if(chosen === word.definition){
+  // 日⇒中：解答後に各選択肢のピンインと、問題欄に正解のピンインを表示
+  if(direction === 'ja2zh'){
+    buttons.forEach(b=>{
+      const py = document.createElement('span');
+      py.className = 'choice-py';
+      py.textContent = b.dataset.pinyin;
+      b.appendChild(py);
+    });
+    quizPinyin.textContent = `${word.hanzi}（${word.pinyin}）`;
+  }
+
+  if(chosen.id === word.id){
     btn.classList.add('correct');
     quizScore++;
     speakChinese(word.hanzi); // 正解時に発音を再生
@@ -998,9 +1109,10 @@ function handleChoice(btn, chosen, word){
   }else{
     btn.classList.add('wrong');
     buttons.forEach(b=>{
-      if(b.textContent === word.definition) b.classList.add('correct');
+      if(Number(b.dataset.id) === word.id) b.classList.add('correct');
     });
     addWrong(word.id);
+    speakChinese(word.hanzi); // 不正解時も正しい発音を再生
   }
   quizScoreEl.textContent = `正解数：${quizScore}`;
   nextQBtn.classList.add('show');
