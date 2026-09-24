@@ -1,0 +1,8402 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "hanzi": "爱",
+    "pinyin": "ài",
+    "definition": "愛する、好む"
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "hanzi": "八",
+    "pinyin": "bā",
+    "definition": "8、八"
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "hanzi": "爸爸",
+    "pinyin": "bà ba",
+    "definition": "お父さん、パパ"
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "hanzi": "杯子",
+    "pinyin": "bēi zi",
+    "definition": "コップ、湯のみ"
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "hanzi": "北京",
+    "pinyin": "Běi jīng",
+    "definition": "北京（ペキン）"
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "hanzi": "本",
+    "pinyin": "běn",
+    "definition": "（量詞）～冊"
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "hanzi": "不客气",
+    "pinyin": "bù kè qi",
+    "definition": "どういたしまして"
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "hanzi": "不",
+    "pinyin": "bù",
+    "definition": "～しない、～ではない"
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "hanzi": "菜",
+    "pinyin": "cài",
+    "definition": "料理、おかず；野菜"
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "hanzi": "茶",
+    "pinyin": "chá",
+    "definition": "お茶"
+  },
+  {
+    "id": 11,
+    "level": 1,
+    "hanzi": "吃",
+    "pinyin": "chī",
+    "definition": "食べる"
+  },
+  {
+    "id": 12,
+    "level": 1,
+    "hanzi": "出租车",
+    "pinyin": "chū zū chē",
+    "definition": "タクシー"
+  },
+  {
+    "id": 13,
+    "level": 1,
+    "hanzi": "打电话",
+    "pinyin": "dǎ diàn huà",
+    "definition": "電話をかける"
+  },
+  {
+    "id": 14,
+    "level": 1,
+    "hanzi": "大",
+    "pinyin": "dà",
+    "definition": "大きい"
+  },
+  {
+    "id": 15,
+    "level": 1,
+    "hanzi": "的",
+    "pinyin": "de",
+    "definition": "～の（連体修飾の助詞）"
+  },
+  {
+    "id": 16,
+    "level": 1,
+    "hanzi": "点",
+    "pinyin": "diǎn",
+    "definition": "～時（時刻）；少し；点"
+  },
+  {
+    "id": 17,
+    "level": 1,
+    "hanzi": "电脑",
+    "pinyin": "diàn nǎo",
+    "definition": "パソコン、コンピューター"
+  },
+  {
+    "id": 18,
+    "level": 1,
+    "hanzi": "电视",
+    "pinyin": "diàn shì",
+    "definition": "テレビ"
+  },
+  {
+    "id": 19,
+    "level": 1,
+    "hanzi": "电影",
+    "pinyin": "diàn yǐng",
+    "definition": "映画"
+  },
+  {
+    "id": 20,
+    "level": 1,
+    "hanzi": "东西",
+    "pinyin": "dōng xi",
+    "definition": "物、品物"
+  },
+  {
+    "id": 21,
+    "level": 1,
+    "hanzi": "都",
+    "pinyin": "dōu",
+    "definition": "みな、すべて"
+  },
+  {
+    "id": 22,
+    "level": 1,
+    "hanzi": "读",
+    "pinyin": "dú",
+    "definition": "（声に出して）読む；学ぶ"
+  },
+  {
+    "id": 23,
+    "level": 1,
+    "hanzi": "对不起",
+    "pinyin": "duì bu qǐ",
+    "definition": "すみません、ごめんなさい"
+  },
+  {
+    "id": 24,
+    "level": 1,
+    "hanzi": "多",
+    "pinyin": "duō",
+    "definition": "多い"
+  },
+  {
+    "id": 25,
+    "level": 1,
+    "hanzi": "多少",
+    "pinyin": "duō shao",
+    "definition": "いくつ、どのくらい"
+  },
+  {
+    "id": 26,
+    "level": 1,
+    "hanzi": "儿子",
+    "pinyin": "ér zi",
+    "definition": "息子"
+  },
+  {
+    "id": 27,
+    "level": 1,
+    "hanzi": "二",
+    "pinyin": "èr",
+    "definition": "2、二"
+  },
+  {
+    "id": 28,
+    "level": 1,
+    "hanzi": "饭馆",
+    "pinyin": "fàn guǎn",
+    "definition": "レストラン、料理店"
+  },
+  {
+    "id": 29,
+    "level": 1,
+    "hanzi": "飞机",
+    "pinyin": "fēi jī",
+    "definition": "飛行機"
+  },
+  {
+    "id": 30,
+    "level": 1,
+    "hanzi": "分钟",
+    "pinyin": "fēn zhōng",
+    "definition": "～分間"
+  },
+  {
+    "id": 31,
+    "level": 1,
+    "hanzi": "高兴",
+    "pinyin": "gāo xìng",
+    "definition": "うれしい、楽しい"
+  },
+  {
+    "id": 32,
+    "level": 1,
+    "hanzi": "个",
+    "pinyin": "gè",
+    "definition": "（量詞）～個、～人"
+  },
+  {
+    "id": 33,
+    "level": 1,
+    "hanzi": "工作",
+    "pinyin": "gōng zuò",
+    "definition": "仕事；働く"
+  },
+  {
+    "id": 34,
+    "level": 1,
+    "hanzi": "狗",
+    "pinyin": "gǒu",
+    "definition": "犬"
+  },
+  {
+    "id": 35,
+    "level": 1,
+    "hanzi": "汉语",
+    "pinyin": "Hàn yǔ",
+    "definition": "中国語"
+  },
+  {
+    "id": 36,
+    "level": 1,
+    "hanzi": "好",
+    "pinyin": "hǎo",
+    "definition": "よい、元気だ"
+  },
+  {
+    "id": 37,
+    "level": 1,
+    "hanzi": "喝",
+    "pinyin": "hē",
+    "definition": "飲む"
+  },
+  {
+    "id": 38,
+    "level": 1,
+    "hanzi": "和",
+    "pinyin": "hé",
+    "definition": "～と"
+  },
+  {
+    "id": 39,
+    "level": 1,
+    "hanzi": "很",
+    "pinyin": "hěn",
+    "definition": "とても"
+  },
+  {
+    "id": 40,
+    "level": 1,
+    "hanzi": "后面",
+    "pinyin": "hòu mian",
+    "definition": "後ろ、後方"
+  },
+  {
+    "id": 41,
+    "level": 1,
+    "hanzi": "回",
+    "pinyin": "huí",
+    "definition": "帰る、戻る"
+  },
+  {
+    "id": 42,
+    "level": 1,
+    "hanzi": "会",
+    "pinyin": "huì",
+    "definition": "（習得して）～できる；～するだろう"
+  },
+  {
+    "id": 43,
+    "level": 1,
+    "hanzi": "火车站",
+    "pinyin": "huǒ chē zhàn",
+    "definition": "駅（鉄道の）"
+  },
+  {
+    "id": 44,
+    "level": 1,
+    "hanzi": "几",
+    "pinyin": "jǐ",
+    "definition": "いくつ（10以下の数を尋ねる）"
+  },
+  {
+    "id": 45,
+    "level": 1,
+    "hanzi": "家",
+    "pinyin": "jiā",
+    "definition": "家、家庭；（量詞）～軒"
+  },
+  {
+    "id": 46,
+    "level": 1,
+    "hanzi": "叫",
+    "pinyin": "jiào",
+    "definition": "（名前を）～という；呼ぶ"
+  },
+  {
+    "id": 47,
+    "level": 1,
+    "hanzi": "今天",
+    "pinyin": "jīn tiān",
+    "definition": "今日"
+  },
+  {
+    "id": 48,
+    "level": 1,
+    "hanzi": "九",
+    "pinyin": "jiǔ",
+    "definition": "9、九"
+  },
+  {
+    "id": 49,
+    "level": 1,
+    "hanzi": "开",
+    "pinyin": "kāi",
+    "definition": "開ける；（車を）運転する；（スイッチを）入れる"
+  },
+  {
+    "id": 50,
+    "level": 1,
+    "hanzi": "看",
+    "pinyin": "kàn",
+    "definition": "見る、読む"
+  },
+  {
+    "id": 51,
+    "level": 1,
+    "hanzi": "看见",
+    "pinyin": "kàn jiàn",
+    "definition": "見える、目に入る"
+  },
+  {
+    "id": 52,
+    "level": 1,
+    "hanzi": "块",
+    "pinyin": "kuài",
+    "definition": "（量詞）～元（お金）；～個（塊状のもの）"
+  },
+  {
+    "id": 53,
+    "level": 1,
+    "hanzi": "来",
+    "pinyin": "lái",
+    "definition": "来る"
+  },
+  {
+    "id": 54,
+    "level": 1,
+    "hanzi": "老师",
+    "pinyin": "lǎo shī",
+    "definition": "先生、教師"
+  },
+  {
+    "id": 55,
+    "level": 1,
+    "hanzi": "了",
+    "pinyin": "le",
+    "definition": "（完了・変化を表す助詞）"
+  },
+  {
+    "id": 56,
+    "level": 1,
+    "hanzi": "冷",
+    "pinyin": "lěng",
+    "definition": "寒い、冷たい"
+  },
+  {
+    "id": 57,
+    "level": 1,
+    "hanzi": "里",
+    "pinyin": "lǐ",
+    "definition": "中、内側"
+  },
+  {
+    "id": 58,
+    "level": 1,
+    "hanzi": "零",
+    "pinyin": "líng",
+    "definition": "ゼロ、零"
+  },
+  {
+    "id": 59,
+    "level": 1,
+    "hanzi": "六",
+    "pinyin": "liù",
+    "definition": "6、六"
+  },
+  {
+    "id": 60,
+    "level": 1,
+    "hanzi": "妈妈",
+    "pinyin": "mā ma",
+    "definition": "お母さん、ママ"
+  },
+  {
+    "id": 61,
+    "level": 1,
+    "hanzi": "吗",
+    "pinyin": "ma",
+    "definition": "～か？（疑問の助詞）"
+  },
+  {
+    "id": 62,
+    "level": 1,
+    "hanzi": "买",
+    "pinyin": "mǎi",
+    "definition": "買う"
+  },
+  {
+    "id": 63,
+    "level": 1,
+    "hanzi": "猫",
+    "pinyin": "māo",
+    "definition": "猫"
+  },
+  {
+    "id": 64,
+    "level": 1,
+    "hanzi": "没",
+    "pinyin": "méi",
+    "definition": "～していない、ない"
+  },
+  {
+    "id": 65,
+    "level": 1,
+    "hanzi": "没关系",
+    "pinyin": "méi guān xi",
+    "definition": "大丈夫です、かまいません"
+  },
+  {
+    "id": 66,
+    "level": 1,
+    "hanzi": "米饭",
+    "pinyin": "mǐ fàn",
+    "definition": "ご飯、ライス"
+  },
+  {
+    "id": 67,
+    "level": 1,
+    "hanzi": "明天",
+    "pinyin": "míng tiān",
+    "definition": "明日"
+  },
+  {
+    "id": 68,
+    "level": 1,
+    "hanzi": "名字",
+    "pinyin": "míng zi",
+    "definition": "名前"
+  },
+  {
+    "id": 69,
+    "level": 1,
+    "hanzi": "哪",
+    "pinyin": "nǎ",
+    "definition": "どれ、どの"
+  },
+  {
+    "id": 70,
+    "level": 1,
+    "hanzi": "那",
+    "pinyin": "nà",
+    "definition": "あれ、それ、あの"
+  },
+  {
+    "id": 71,
+    "level": 1,
+    "hanzi": "呢",
+    "pinyin": "ne",
+    "definition": "～は？（疑問・持続の助詞）"
+  },
+  {
+    "id": 72,
+    "level": 1,
+    "hanzi": "能",
+    "pinyin": "néng",
+    "definition": "（能力・条件的に）～できる"
+  },
+  {
+    "id": 73,
+    "level": 1,
+    "hanzi": "你",
+    "pinyin": "nǐ",
+    "definition": "あなた、君"
+  },
+  {
+    "id": 74,
+    "level": 1,
+    "hanzi": "年",
+    "pinyin": "nián",
+    "definition": "年、～年"
+  },
+  {
+    "id": 75,
+    "level": 1,
+    "hanzi": "女儿",
+    "pinyin": "nǚ ér",
+    "definition": "娘"
+  },
+  {
+    "id": 76,
+    "level": 1,
+    "hanzi": "朋友",
+    "pinyin": "péng you",
+    "definition": "友達"
+  },
+  {
+    "id": 77,
+    "level": 1,
+    "hanzi": "漂亮",
+    "pinyin": "piào liang",
+    "definition": "きれいだ、美しい"
+  },
+  {
+    "id": 78,
+    "level": 1,
+    "hanzi": "苹果",
+    "pinyin": "píng guǒ",
+    "definition": "りんご"
+  },
+  {
+    "id": 79,
+    "level": 1,
+    "hanzi": "七",
+    "pinyin": "qī",
+    "definition": "7、七"
+  },
+  {
+    "id": 80,
+    "level": 1,
+    "hanzi": "钱",
+    "pinyin": "qián",
+    "definition": "お金"
+  },
+  {
+    "id": 81,
+    "level": 1,
+    "hanzi": "前面",
+    "pinyin": "qián miàn",
+    "definition": "前、前方"
+  },
+  {
+    "id": 82,
+    "level": 1,
+    "hanzi": "请",
+    "pinyin": "qǐng",
+    "definition": "どうぞ～してください；招待する、ごちそうする"
+  },
+  {
+    "id": 83,
+    "level": 1,
+    "hanzi": "去",
+    "pinyin": "qù",
+    "definition": "行く"
+  },
+  {
+    "id": 84,
+    "level": 1,
+    "hanzi": "热",
+    "pinyin": "rè",
+    "definition": "暑い、熱い"
+  },
+  {
+    "id": 85,
+    "level": 1,
+    "hanzi": "人",
+    "pinyin": "rén",
+    "definition": "人"
+  },
+  {
+    "id": 86,
+    "level": 1,
+    "hanzi": "认识",
+    "pinyin": "rèn shi",
+    "definition": "（人を）知っている、見知る"
+  },
+  {
+    "id": 87,
+    "level": 1,
+    "hanzi": "日",
+    "pinyin": "rì",
+    "definition": "日、～日"
+  },
+  {
+    "id": 88,
+    "level": 1,
+    "hanzi": "三",
+    "pinyin": "sān",
+    "definition": "3、三"
+  },
+  {
+    "id": 89,
+    "level": 1,
+    "hanzi": "商店",
+    "pinyin": "shāng diàn",
+    "definition": "店、商店"
+  },
+  {
+    "id": 90,
+    "level": 1,
+    "hanzi": "上",
+    "pinyin": "shàng",
+    "definition": "上；（時間的に）前の；乗る"
+  },
+  {
+    "id": 91,
+    "level": 1,
+    "hanzi": "上午",
+    "pinyin": "shàng wǔ",
+    "definition": "午前"
+  },
+  {
+    "id": 92,
+    "level": 1,
+    "hanzi": "少",
+    "pinyin": "shǎo",
+    "definition": "少ない"
+  },
+  {
+    "id": 93,
+    "level": 1,
+    "hanzi": "谁",
+    "pinyin": "shéi",
+    "definition": "誰"
+  },
+  {
+    "id": 94,
+    "level": 1,
+    "hanzi": "什么",
+    "pinyin": "shén me",
+    "definition": "何、どんな"
+  },
+  {
+    "id": 95,
+    "level": 1,
+    "hanzi": "十",
+    "pinyin": "shí",
+    "definition": "10、十"
+  },
+  {
+    "id": 96,
+    "level": 1,
+    "hanzi": "时候",
+    "pinyin": "shí hou",
+    "definition": "時、～のとき"
+  },
+  {
+    "id": 97,
+    "level": 1,
+    "hanzi": "是",
+    "pinyin": "shì",
+    "definition": "～である"
+  },
+  {
+    "id": 98,
+    "level": 1,
+    "hanzi": "书",
+    "pinyin": "shū",
+    "definition": "本"
+  },
+  {
+    "id": 99,
+    "level": 1,
+    "hanzi": "水",
+    "pinyin": "shuǐ",
+    "definition": "水"
+  },
+  {
+    "id": 100,
+    "level": 1,
+    "hanzi": "水果",
+    "pinyin": "shuǐ guǒ",
+    "definition": "果物"
+  },
+  {
+    "id": 101,
+    "level": 1,
+    "hanzi": "睡觉",
+    "pinyin": "shuì jiào",
+    "definition": "寝る、眠る"
+  },
+  {
+    "id": 102,
+    "level": 1,
+    "hanzi": "说话",
+    "pinyin": "shuō huà",
+    "definition": "話す、しゃべる"
+  },
+  {
+    "id": 103,
+    "level": 1,
+    "hanzi": "四",
+    "pinyin": "sì",
+    "definition": "4、四"
+  },
+  {
+    "id": 104,
+    "level": 1,
+    "hanzi": "岁",
+    "pinyin": "suì",
+    "definition": "～歳"
+  },
+  {
+    "id": 105,
+    "level": 1,
+    "hanzi": "他",
+    "pinyin": "tā",
+    "definition": "彼"
+  },
+  {
+    "id": 106,
+    "level": 1,
+    "hanzi": "她",
+    "pinyin": "tā",
+    "definition": "彼女"
+  },
+  {
+    "id": 107,
+    "level": 1,
+    "hanzi": "太",
+    "pinyin": "tài",
+    "definition": "あまりにも～すぎる"
+  },
+  {
+    "id": 108,
+    "level": 1,
+    "hanzi": "天气",
+    "pinyin": "tiān qì",
+    "definition": "天気"
+  },
+  {
+    "id": 109,
+    "level": 1,
+    "hanzi": "听",
+    "pinyin": "tīng",
+    "definition": "聞く"
+  },
+  {
+    "id": 110,
+    "level": 1,
+    "hanzi": "同学",
+    "pinyin": "tóng xué",
+    "definition": "同級生、クラスメート"
+  },
+  {
+    "id": 111,
+    "level": 1,
+    "hanzi": "喂",
+    "pinyin": "wèi",
+    "definition": "もしもし；おい"
+  },
+  {
+    "id": 112,
+    "level": 1,
+    "hanzi": "我",
+    "pinyin": "wǒ",
+    "definition": "私"
+  },
+  {
+    "id": 113,
+    "level": 1,
+    "hanzi": "我们",
+    "pinyin": "wǒ men",
+    "definition": "私たち"
+  },
+  {
+    "id": 114,
+    "level": 1,
+    "hanzi": "五",
+    "pinyin": "wǔ",
+    "definition": "5、五"
+  },
+  {
+    "id": 115,
+    "level": 1,
+    "hanzi": "喜欢",
+    "pinyin": "xǐ huan",
+    "definition": "好きだ、好む"
+  },
+  {
+    "id": 116,
+    "level": 1,
+    "hanzi": "下",
+    "pinyin": "xià",
+    "definition": "下；（時間的に）次の；降りる"
+  },
+  {
+    "id": 117,
+    "level": 1,
+    "hanzi": "下午",
+    "pinyin": "xià wǔ",
+    "definition": "午後"
+  },
+  {
+    "id": 118,
+    "level": 1,
+    "hanzi": "下雨",
+    "pinyin": "xià yǔ",
+    "definition": "雨が降る"
+  },
+  {
+    "id": 119,
+    "level": 1,
+    "hanzi": "先生",
+    "pinyin": "xiān sheng",
+    "definition": "～さん（男性への敬称）；夫"
+  },
+  {
+    "id": 120,
+    "level": 1,
+    "hanzi": "现在",
+    "pinyin": "xiàn zài",
+    "definition": "今、現在"
+  },
+  {
+    "id": 121,
+    "level": 1,
+    "hanzi": "想",
+    "pinyin": "xiǎng",
+    "definition": "～したい；考える、思う"
+  },
+  {
+    "id": 122,
+    "level": 1,
+    "hanzi": "小",
+    "pinyin": "xiǎo",
+    "definition": "小さい"
+  },
+  {
+    "id": 123,
+    "level": 1,
+    "hanzi": "小姐",
+    "pinyin": "xiǎo jie",
+    "definition": "お嬢さん、～さん（若い女性への敬称）"
+  },
+  {
+    "id": 124,
+    "level": 1,
+    "hanzi": "些",
+    "pinyin": "xiē",
+    "definition": "いくつか、少し"
+  },
+  {
+    "id": 125,
+    "level": 1,
+    "hanzi": "写",
+    "pinyin": "xiě",
+    "definition": "書く"
+  },
+  {
+    "id": 126,
+    "level": 1,
+    "hanzi": "谢谢",
+    "pinyin": "xiè xie",
+    "definition": "ありがとう"
+  },
+  {
+    "id": 127,
+    "level": 1,
+    "hanzi": "星期",
+    "pinyin": "xīng qī",
+    "definition": "週、曜日"
+  },
+  {
+    "id": 128,
+    "level": 1,
+    "hanzi": "学生",
+    "pinyin": "xué sheng",
+    "definition": "学生、生徒"
+  },
+  {
+    "id": 129,
+    "level": 1,
+    "hanzi": "学习",
+    "pinyin": "xué xí",
+    "definition": "学ぶ、勉強する"
+  },
+  {
+    "id": 130,
+    "level": 1,
+    "hanzi": "学校",
+    "pinyin": "xué xiào",
+    "definition": "学校"
+  },
+  {
+    "id": 131,
+    "level": 1,
+    "hanzi": "一",
+    "pinyin": "yī",
+    "definition": "1、一"
+  },
+  {
+    "id": 132,
+    "level": 1,
+    "hanzi": "衣服",
+    "pinyin": "yī fu",
+    "definition": "服"
+  },
+  {
+    "id": 133,
+    "level": 1,
+    "hanzi": "医生",
+    "pinyin": "yī shēng",
+    "definition": "医者"
+  },
+  {
+    "id": 134,
+    "level": 1,
+    "hanzi": "医院",
+    "pinyin": "yī yuàn",
+    "definition": "病院"
+  },
+  {
+    "id": 135,
+    "level": 1,
+    "hanzi": "椅子",
+    "pinyin": "yǐ zi",
+    "definition": "椅子"
+  },
+  {
+    "id": 136,
+    "level": 1,
+    "hanzi": "有",
+    "pinyin": "yǒu",
+    "definition": "持っている；ある、いる"
+  },
+  {
+    "id": 137,
+    "level": 1,
+    "hanzi": "月",
+    "pinyin": "yuè",
+    "definition": "月、～月"
+  },
+  {
+    "id": 138,
+    "level": 1,
+    "hanzi": "在",
+    "pinyin": "zài",
+    "definition": "～にある、～にいる；～で"
+  },
+  {
+    "id": 139,
+    "level": 1,
+    "hanzi": "再见",
+    "pinyin": "zài jiàn",
+    "definition": "さようなら"
+  },
+  {
+    "id": 140,
+    "level": 1,
+    "hanzi": "怎么",
+    "pinyin": "zěn me",
+    "definition": "どのように、なぜ"
+  },
+  {
+    "id": 141,
+    "level": 1,
+    "hanzi": "怎么样",
+    "pinyin": "zěn me yàng",
+    "definition": "どうですか"
+  },
+  {
+    "id": 142,
+    "level": 1,
+    "hanzi": "这",
+    "pinyin": "zhè",
+    "definition": "これ、この"
+  },
+  {
+    "id": 143,
+    "level": 1,
+    "hanzi": "中国",
+    "pinyin": "Zhōng guó",
+    "definition": "中国"
+  },
+  {
+    "id": 144,
+    "level": 1,
+    "hanzi": "中午",
+    "pinyin": "zhōng wǔ",
+    "definition": "正午、昼"
+  },
+  {
+    "id": 145,
+    "level": 1,
+    "hanzi": "住",
+    "pinyin": "zhù",
+    "definition": "住む、泊まる"
+  },
+  {
+    "id": 146,
+    "level": 1,
+    "hanzi": "桌子",
+    "pinyin": "zhuō zi",
+    "definition": "机、テーブル"
+  },
+  {
+    "id": 147,
+    "level": 1,
+    "hanzi": "字",
+    "pinyin": "zì",
+    "definition": "字、文字"
+  },
+  {
+    "id": 148,
+    "level": 1,
+    "hanzi": "昨天",
+    "pinyin": "zuó tiān",
+    "definition": "昨日"
+  },
+  {
+    "id": 149,
+    "level": 1,
+    "hanzi": "坐",
+    "pinyin": "zuò",
+    "definition": "座る；（乗り物に）乗る"
+  },
+  {
+    "id": 150,
+    "level": 1,
+    "hanzi": "做",
+    "pinyin": "zuò",
+    "definition": "する、作る"
+  },
+  {
+    "id": 151,
+    "level": 2,
+    "hanzi": "吧",
+    "pinyin": "ba",
+    "definition": "～しましょう、～でしょう（提案・推量の助詞）"
+  },
+  {
+    "id": 152,
+    "level": 2,
+    "hanzi": "白",
+    "pinyin": "bái",
+    "definition": "白い"
+  },
+  {
+    "id": 153,
+    "level": 2,
+    "hanzi": "百",
+    "pinyin": "bǎi",
+    "definition": "百"
+  },
+  {
+    "id": 154,
+    "level": 2,
+    "hanzi": "帮助",
+    "pinyin": "bāng zhù",
+    "definition": "助ける、手伝う；援助"
+  },
+  {
+    "id": 155,
+    "level": 2,
+    "hanzi": "报纸",
+    "pinyin": "bào zhǐ",
+    "definition": "新聞"
+  },
+  {
+    "id": 156,
+    "level": 2,
+    "hanzi": "比",
+    "pinyin": "bǐ",
+    "definition": "～より（比較）；比べる"
+  },
+  {
+    "id": 157,
+    "level": 2,
+    "hanzi": "别",
+    "pinyin": "bié",
+    "definition": "～するな；別の"
+  },
+  {
+    "id": 158,
+    "level": 2,
+    "hanzi": "长",
+    "pinyin": "cháng",
+    "definition": "長い"
+  },
+  {
+    "id": 159,
+    "level": 2,
+    "hanzi": "唱歌",
+    "pinyin": "chàng gē",
+    "definition": "歌を歌う"
+  },
+  {
+    "id": 160,
+    "level": 2,
+    "hanzi": "出",
+    "pinyin": "chū",
+    "definition": "出る"
+  },
+  {
+    "id": 161,
+    "level": 2,
+    "hanzi": "穿",
+    "pinyin": "chuān",
+    "definition": "着る、履く"
+  },
+  {
+    "id": 162,
+    "level": 2,
+    "hanzi": "船",
+    "pinyin": "chuán",
+    "definition": "船"
+  },
+  {
+    "id": 163,
+    "level": 2,
+    "hanzi": "次",
+    "pinyin": "cì",
+    "definition": "（量詞）～回、～度"
+  },
+  {
+    "id": 164,
+    "level": 2,
+    "hanzi": "从",
+    "pinyin": "cóng",
+    "definition": "～から"
+  },
+  {
+    "id": 165,
+    "level": 2,
+    "hanzi": "错",
+    "pinyin": "cuò",
+    "definition": "間違っている；間違い"
+  },
+  {
+    "id": 166,
+    "level": 2,
+    "hanzi": "打篮球",
+    "pinyin": "dǎ lán qiú",
+    "definition": "バスケットボールをする"
+  },
+  {
+    "id": 167,
+    "level": 2,
+    "hanzi": "大家",
+    "pinyin": "dà jiā",
+    "definition": "みんな、皆さん"
+  },
+  {
+    "id": 168,
+    "level": 2,
+    "hanzi": "但是",
+    "pinyin": "dàn shì",
+    "definition": "しかし、けれども"
+  },
+  {
+    "id": 169,
+    "level": 2,
+    "hanzi": "到",
+    "pinyin": "dào",
+    "definition": "到着する；～まで"
+  },
+  {
+    "id": 170,
+    "level": 2,
+    "hanzi": "得",
+    "pinyin": "de",
+    "definition": "（様態補語を導く助詞）"
+  },
+  {
+    "id": 171,
+    "level": 2,
+    "hanzi": "得",
+    "pinyin": "děi",
+    "definition": "～しなければならない"
+  },
+  {
+    "id": 172,
+    "level": 2,
+    "hanzi": "弟弟",
+    "pinyin": "dì di",
+    "definition": "弟"
+  },
+  {
+    "id": 173,
+    "level": 2,
+    "hanzi": "第一",
+    "pinyin": "dì yī",
+    "definition": "第一、一番目"
+  },
+  {
+    "id": 174,
+    "level": 2,
+    "hanzi": "懂",
+    "pinyin": "dǒng",
+    "definition": "わかる、理解する"
+  },
+  {
+    "id": 175,
+    "level": 2,
+    "hanzi": "房间",
+    "pinyin": "fáng jiān",
+    "definition": "部屋"
+  },
+  {
+    "id": 176,
+    "level": 2,
+    "hanzi": "非常",
+    "pinyin": "fēi cháng",
+    "definition": "非常に、とても"
+  },
+  {
+    "id": 177,
+    "level": 2,
+    "hanzi": "服务员",
+    "pinyin": "fú wù yuán",
+    "definition": "店員、従業員、ウェイター"
+  },
+  {
+    "id": 178,
+    "level": 2,
+    "hanzi": "高",
+    "pinyin": "gāo",
+    "definition": "高い"
+  },
+  {
+    "id": 179,
+    "level": 2,
+    "hanzi": "告诉",
+    "pinyin": "gào su",
+    "definition": "知らせる、伝える"
+  },
+  {
+    "id": 180,
+    "level": 2,
+    "hanzi": "哥哥",
+    "pinyin": "gē ge",
+    "definition": "兄"
+  },
+  {
+    "id": 181,
+    "level": 2,
+    "hanzi": "给",
+    "pinyin": "gěi",
+    "definition": "与える、あげる；～に（～してあげる）"
+  },
+  {
+    "id": 182,
+    "level": 2,
+    "hanzi": "公共汽车",
+    "pinyin": "gōng gòng qì chē",
+    "definition": "バス"
+  },
+  {
+    "id": 183,
+    "level": 2,
+    "hanzi": "公斤",
+    "pinyin": "gōng jīn",
+    "definition": "キログラム"
+  },
+  {
+    "id": 184,
+    "level": 2,
+    "hanzi": "公司",
+    "pinyin": "gōng sī",
+    "definition": "会社"
+  },
+  {
+    "id": 185,
+    "level": 2,
+    "hanzi": "贵",
+    "pinyin": "guì",
+    "definition": "（値段が）高い；貴い"
+  },
+  {
+    "id": 186,
+    "level": 2,
+    "hanzi": "还",
+    "pinyin": "hái",
+    "definition": "まだ、さらに"
+  },
+  {
+    "id": 187,
+    "level": 2,
+    "hanzi": "孩子",
+    "pinyin": "hái zi",
+    "definition": "子供"
+  },
+  {
+    "id": 188,
+    "level": 2,
+    "hanzi": "好吃",
+    "pinyin": "hǎo chī",
+    "definition": "おいしい"
+  },
+  {
+    "id": 189,
+    "level": 2,
+    "hanzi": "号",
+    "pinyin": "hào",
+    "definition": "～日（日付）；番号"
+  },
+  {
+    "id": 190,
+    "level": 2,
+    "hanzi": "黑",
+    "pinyin": "hēi",
+    "definition": "黒い、暗い"
+  },
+  {
+    "id": 191,
+    "level": 2,
+    "hanzi": "红",
+    "pinyin": "hóng",
+    "definition": "赤い"
+  },
+  {
+    "id": 192,
+    "level": 2,
+    "hanzi": "欢迎",
+    "pinyin": "huān yíng",
+    "definition": "歓迎する；ようこそ"
+  },
+  {
+    "id": 193,
+    "level": 2,
+    "hanzi": "还",
+    "pinyin": "huán",
+    "definition": "返す、返却する"
+  },
+  {
+    "id": 194,
+    "level": 2,
+    "hanzi": "回答",
+    "pinyin": "huí dá",
+    "definition": "答える；答え"
+  },
+  {
+    "id": 195,
+    "level": 2,
+    "hanzi": "机场",
+    "pinyin": "jī chǎng",
+    "definition": "空港"
+  },
+  {
+    "id": 196,
+    "level": 2,
+    "hanzi": "鸡蛋",
+    "pinyin": "jī dàn",
+    "definition": "卵（鶏の）"
+  },
+  {
+    "id": 197,
+    "level": 2,
+    "hanzi": "件",
+    "pinyin": "jiàn",
+    "definition": "（量詞）～枚（服）、～件（事柄）"
+  },
+  {
+    "id": 198,
+    "level": 2,
+    "hanzi": "教室",
+    "pinyin": "jiào shì",
+    "definition": "教室"
+  },
+  {
+    "id": 199,
+    "level": 2,
+    "hanzi": "姐姐",
+    "pinyin": "jiě jie",
+    "definition": "姉"
+  },
+  {
+    "id": 200,
+    "level": 2,
+    "hanzi": "介绍",
+    "pinyin": "jiè shào",
+    "definition": "紹介する"
+  },
+  {
+    "id": 201,
+    "level": 2,
+    "hanzi": "进",
+    "pinyin": "jìn",
+    "definition": "入る"
+  },
+  {
+    "id": 202,
+    "level": 2,
+    "hanzi": "近",
+    "pinyin": "jìn",
+    "definition": "近い"
+  },
+  {
+    "id": 203,
+    "level": 2,
+    "hanzi": "就",
+    "pinyin": "jiù",
+    "definition": "すぐに；（まさに）～だ"
+  },
+  {
+    "id": 204,
+    "level": 2,
+    "hanzi": "觉得",
+    "pinyin": "jué de",
+    "definition": "～と思う、感じる"
+  },
+  {
+    "id": 205,
+    "level": 2,
+    "hanzi": "咖啡",
+    "pinyin": "kā fēi",
+    "definition": "コーヒー"
+  },
+  {
+    "id": 206,
+    "level": 2,
+    "hanzi": "开始",
+    "pinyin": "kāi shǐ",
+    "definition": "始める、始まる"
+  },
+  {
+    "id": 207,
+    "level": 2,
+    "hanzi": "考试",
+    "pinyin": "kǎo shì",
+    "definition": "試験；試験を受ける"
+  },
+  {
+    "id": 208,
+    "level": 2,
+    "hanzi": "可能",
+    "pinyin": "kě néng",
+    "definition": "～かもしれない；可能性"
+  },
+  {
+    "id": 209,
+    "level": 2,
+    "hanzi": "可以",
+    "pinyin": "kě yǐ",
+    "definition": "～してよい；～できる"
+  },
+  {
+    "id": 210,
+    "level": 2,
+    "hanzi": "课",
+    "pinyin": "kè",
+    "definition": "授業、課"
+  },
+  {
+    "id": 211,
+    "level": 2,
+    "hanzi": "快",
+    "pinyin": "kuài",
+    "definition": "速い；もうすぐ"
+  },
+  {
+    "id": 212,
+    "level": 2,
+    "hanzi": "快乐",
+    "pinyin": "kuài lè",
+    "definition": "楽しい、愉快だ"
+  },
+  {
+    "id": 213,
+    "level": 2,
+    "hanzi": "累",
+    "pinyin": "lèi",
+    "definition": "疲れている"
+  },
+  {
+    "id": 214,
+    "level": 2,
+    "hanzi": "离",
+    "pinyin": "lí",
+    "definition": "～から（隔たりを表す）"
+  },
+  {
+    "id": 215,
+    "level": 2,
+    "hanzi": "两",
+    "pinyin": "liǎng",
+    "definition": "2つ（量詞の前で）"
+  },
+  {
+    "id": 216,
+    "level": 2,
+    "hanzi": "路",
+    "pinyin": "lù",
+    "definition": "道、道路"
+  },
+  {
+    "id": 217,
+    "level": 2,
+    "hanzi": "旅游",
+    "pinyin": "lǚ yóu",
+    "definition": "旅行する、観光する"
+  },
+  {
+    "id": 218,
+    "level": 2,
+    "hanzi": "卖",
+    "pinyin": "mài",
+    "definition": "売る"
+  },
+  {
+    "id": 219,
+    "level": 2,
+    "hanzi": "慢",
+    "pinyin": "màn",
+    "definition": "遅い、ゆっくりだ"
+  },
+  {
+    "id": 220,
+    "level": 2,
+    "hanzi": "忙",
+    "pinyin": "máng",
+    "definition": "忙しい"
+  },
+  {
+    "id": 221,
+    "level": 2,
+    "hanzi": "每",
+    "pinyin": "měi",
+    "definition": "毎～、それぞれ"
+  },
+  {
+    "id": 222,
+    "level": 2,
+    "hanzi": "妹妹",
+    "pinyin": "mèi mei",
+    "definition": "妹"
+  },
+  {
+    "id": 223,
+    "level": 2,
+    "hanzi": "门",
+    "pinyin": "mén",
+    "definition": "ドア、門"
+  },
+  {
+    "id": 224,
+    "level": 2,
+    "hanzi": "男人",
+    "pinyin": "nán rén",
+    "definition": "男、男性"
+  },
+  {
+    "id": 225,
+    "level": 2,
+    "hanzi": "您",
+    "pinyin": "nín",
+    "definition": "あなた（丁寧な言い方）"
+  },
+  {
+    "id": 226,
+    "level": 2,
+    "hanzi": "牛奶",
+    "pinyin": "niú nǎi",
+    "definition": "牛乳"
+  },
+  {
+    "id": 227,
+    "level": 2,
+    "hanzi": "女人",
+    "pinyin": "nǚ rén",
+    "definition": "女、女性"
+  },
+  {
+    "id": 228,
+    "level": 2,
+    "hanzi": "旁边",
+    "pinyin": "páng biān",
+    "definition": "そば、隣"
+  },
+  {
+    "id": 229,
+    "level": 2,
+    "hanzi": "跑步",
+    "pinyin": "pǎo bù",
+    "definition": "ジョギングする、走る"
+  },
+  {
+    "id": 230,
+    "level": 2,
+    "hanzi": "便宜",
+    "pinyin": "pián yi",
+    "definition": "安い"
+  },
+  {
+    "id": 231,
+    "level": 2,
+    "hanzi": "票",
+    "pinyin": "piào",
+    "definition": "切符、チケット"
+  },
+  {
+    "id": 232,
+    "level": 2,
+    "hanzi": "妻子",
+    "pinyin": "qī zi",
+    "definition": "妻"
+  },
+  {
+    "id": 233,
+    "level": 2,
+    "hanzi": "起床",
+    "pinyin": "qǐ chuáng",
+    "definition": "起きる、起床する"
+  },
+  {
+    "id": 234,
+    "level": 2,
+    "hanzi": "千",
+    "pinyin": "qiān",
+    "definition": "千"
+  },
+  {
+    "id": 235,
+    "level": 2,
+    "hanzi": "晴",
+    "pinyin": "qíng",
+    "definition": "晴れている"
+  },
+  {
+    "id": 236,
+    "level": 2,
+    "hanzi": "去年",
+    "pinyin": "qù nián",
+    "definition": "去年"
+  },
+  {
+    "id": 237,
+    "level": 2,
+    "hanzi": "让",
+    "pinyin": "ràng",
+    "definition": "～させる；譲る"
+  },
+  {
+    "id": 238,
+    "level": 2,
+    "hanzi": "上班",
+    "pinyin": "shàng bān",
+    "definition": "出勤する、勤務する"
+  },
+  {
+    "id": 239,
+    "level": 2,
+    "hanzi": "身体",
+    "pinyin": "shēn tǐ",
+    "definition": "体；健康"
+  },
+  {
+    "id": 240,
+    "level": 2,
+    "hanzi": "生病",
+    "pinyin": "shēng bìng",
+    "definition": "病気になる"
+  },
+  {
+    "id": 241,
+    "level": 2,
+    "hanzi": "生日",
+    "pinyin": "shēng rì",
+    "definition": "誕生日"
+  },
+  {
+    "id": 242,
+    "level": 2,
+    "hanzi": "时间",
+    "pinyin": "shí jiān",
+    "definition": "時間"
+  },
+  {
+    "id": 243,
+    "level": 2,
+    "hanzi": "事情",
+    "pinyin": "shì qing",
+    "definition": "事柄、用事"
+  },
+  {
+    "id": 244,
+    "level": 2,
+    "hanzi": "手表",
+    "pinyin": "shǒu biǎo",
+    "definition": "腕時計"
+  },
+  {
+    "id": 245,
+    "level": 2,
+    "hanzi": "手机",
+    "pinyin": "shǒu jī",
+    "definition": "携帯電話"
+  },
+  {
+    "id": 246,
+    "level": 2,
+    "hanzi": "送",
+    "pinyin": "sòng",
+    "definition": "贈る；送る、届ける"
+  },
+  {
+    "id": 247,
+    "level": 2,
+    "hanzi": "所以",
+    "pinyin": "suǒ yǐ",
+    "definition": "だから、したがって"
+  },
+  {
+    "id": 248,
+    "level": 2,
+    "hanzi": "它",
+    "pinyin": "tā",
+    "definition": "それ（人以外）"
+  },
+  {
+    "id": 249,
+    "level": 2,
+    "hanzi": "踢",
+    "pinyin": "tī",
+    "definition": "蹴る；（サッカーを）する"
+  },
+  {
+    "id": 250,
+    "level": 2,
+    "hanzi": "题",
+    "pinyin": "tí",
+    "definition": "問題、題"
+  },
+  {
+    "id": 251,
+    "level": 2,
+    "hanzi": "跳舞",
+    "pinyin": "tiào wǔ",
+    "definition": "踊る、ダンスをする"
+  },
+  {
+    "id": 252,
+    "level": 2,
+    "hanzi": "外",
+    "pinyin": "wài",
+    "definition": "外、外側"
+  },
+  {
+    "id": 253,
+    "level": 2,
+    "hanzi": "完",
+    "pinyin": "wán",
+    "definition": "終わる、～し終える"
+  },
+  {
+    "id": 254,
+    "level": 2,
+    "hanzi": "玩",
+    "pinyin": "wán",
+    "definition": "遊ぶ"
+  },
+  {
+    "id": 255,
+    "level": 2,
+    "hanzi": "晚上",
+    "pinyin": "wǎn shang",
+    "definition": "夜、晩"
+  },
+  {
+    "id": 256,
+    "level": 2,
+    "hanzi": "为",
+    "pinyin": "wèi",
+    "definition": "～のために；～に（対象）"
+  },
+  {
+    "id": 257,
+    "level": 2,
+    "hanzi": "问",
+    "pinyin": "wèn",
+    "definition": "尋ねる、質問する"
+  },
+  {
+    "id": 258,
+    "level": 2,
+    "hanzi": "问题",
+    "pinyin": "wèn tí",
+    "definition": "問題、質問"
+  },
+  {
+    "id": 259,
+    "level": 2,
+    "hanzi": "西瓜",
+    "pinyin": "xī guā",
+    "definition": "すいか"
+  },
+  {
+    "id": 260,
+    "level": 2,
+    "hanzi": "希望",
+    "pinyin": "xī wàng",
+    "definition": "希望する、望む；希望"
+  },
+  {
+    "id": 261,
+    "level": 2,
+    "hanzi": "洗",
+    "pinyin": "xǐ",
+    "definition": "洗う"
+  },
+  {
+    "id": 262,
+    "level": 2,
+    "hanzi": "向",
+    "pinyin": "xiàng",
+    "definition": "～に向かって、～へ"
+  },
+  {
+    "id": 263,
+    "level": 2,
+    "hanzi": "小时",
+    "pinyin": "xiǎo shí",
+    "definition": "～時間"
+  },
+  {
+    "id": 264,
+    "level": 2,
+    "hanzi": "笑",
+    "pinyin": "xiào",
+    "definition": "笑う"
+  },
+  {
+    "id": 265,
+    "level": 2,
+    "hanzi": "新",
+    "pinyin": "xīn",
+    "definition": "新しい"
+  },
+  {
+    "id": 266,
+    "level": 2,
+    "hanzi": "姓",
+    "pinyin": "xìng",
+    "definition": "姓；～という姓である"
+  },
+  {
+    "id": 267,
+    "level": 2,
+    "hanzi": "休息",
+    "pinyin": "xiū xi",
+    "definition": "休む、休憩する"
+  },
+  {
+    "id": 268,
+    "level": 2,
+    "hanzi": "雪",
+    "pinyin": "xuě",
+    "definition": "雪"
+  },
+  {
+    "id": 269,
+    "level": 2,
+    "hanzi": "颜色",
+    "pinyin": "yán sè",
+    "definition": "色"
+  },
+  {
+    "id": 270,
+    "level": 2,
+    "hanzi": "眼睛",
+    "pinyin": "yǎn jing",
+    "definition": "目"
+  },
+  {
+    "id": 271,
+    "level": 2,
+    "hanzi": "羊肉",
+    "pinyin": "yáng ròu",
+    "definition": "羊肉、マトン"
+  },
+  {
+    "id": 272,
+    "level": 2,
+    "hanzi": "药",
+    "pinyin": "yào",
+    "definition": "薬"
+  },
+  {
+    "id": 273,
+    "level": 2,
+    "hanzi": "要",
+    "pinyin": "yào",
+    "definition": "～したい；～しなければならない；要る"
+  },
+  {
+    "id": 274,
+    "level": 2,
+    "hanzi": "也",
+    "pinyin": "yě",
+    "definition": "～も"
+  },
+  {
+    "id": 275,
+    "level": 2,
+    "hanzi": "已经",
+    "pinyin": "yǐ jīng",
+    "definition": "すでに、もう"
+  },
+  {
+    "id": 276,
+    "level": 2,
+    "hanzi": "一起",
+    "pinyin": "yī qǐ",
+    "definition": "一緒に"
+  },
+  {
+    "id": 277,
+    "level": 2,
+    "hanzi": "意思",
+    "pinyin": "yì si",
+    "definition": "意味；面白み"
+  },
+  {
+    "id": 278,
+    "level": 2,
+    "hanzi": "阴",
+    "pinyin": "yīn",
+    "definition": "曇っている"
+  },
+  {
+    "id": 279,
+    "level": 2,
+    "hanzi": "因为",
+    "pinyin": "yīn wèi",
+    "definition": "なぜなら、～なので"
+  },
+  {
+    "id": 280,
+    "level": 2,
+    "hanzi": "游泳",
+    "pinyin": "yóu yǒng",
+    "definition": "泳ぐ、水泳"
+  },
+  {
+    "id": 281,
+    "level": 2,
+    "hanzi": "右边",
+    "pinyin": "yòu bian",
+    "definition": "右、右側"
+  },
+  {
+    "id": 282,
+    "level": 2,
+    "hanzi": "鱼",
+    "pinyin": "yú",
+    "definition": "魚"
+  },
+  {
+    "id": 283,
+    "level": 2,
+    "hanzi": "元",
+    "pinyin": "yuán",
+    "definition": "元（中国の通貨単位）"
+  },
+  {
+    "id": 284,
+    "level": 2,
+    "hanzi": "远",
+    "pinyin": "yuǎn",
+    "definition": "遠い"
+  },
+  {
+    "id": 285,
+    "level": 2,
+    "hanzi": "运动",
+    "pinyin": "yùn dòng",
+    "definition": "運動、スポーツ"
+  },
+  {
+    "id": 286,
+    "level": 2,
+    "hanzi": "再",
+    "pinyin": "zài",
+    "definition": "再び、また"
+  },
+  {
+    "id": 287,
+    "level": 2,
+    "hanzi": "早上",
+    "pinyin": "zǎo shang",
+    "definition": "朝"
+  },
+  {
+    "id": 288,
+    "level": 2,
+    "hanzi": "张",
+    "pinyin": "zhāng",
+    "definition": "（量詞）～枚（紙・机など平面のもの）"
+  },
+  {
+    "id": 289,
+    "level": 2,
+    "hanzi": "长",
+    "pinyin": "zhǎng",
+    "definition": "成長する、育つ"
+  },
+  {
+    "id": 290,
+    "level": 2,
+    "hanzi": "丈夫",
+    "pinyin": "zhàng fu",
+    "definition": "夫"
+  },
+  {
+    "id": 291,
+    "level": 2,
+    "hanzi": "找",
+    "pinyin": "zhǎo",
+    "definition": "探す；（人を）訪ねる"
+  },
+  {
+    "id": 292,
+    "level": 2,
+    "hanzi": "着",
+    "pinyin": "zhe",
+    "definition": "～している（持続の助詞）"
+  },
+  {
+    "id": 293,
+    "level": 2,
+    "hanzi": "真",
+    "pinyin": "zhēn",
+    "definition": "本当に；本当の"
+  },
+  {
+    "id": 294,
+    "level": 2,
+    "hanzi": "正在",
+    "pinyin": "zhèng zài",
+    "definition": "ちょうど～している"
+  },
+  {
+    "id": 295,
+    "level": 2,
+    "hanzi": "知道",
+    "pinyin": "zhī dào",
+    "definition": "知っている"
+  },
+  {
+    "id": 296,
+    "level": 2,
+    "hanzi": "准备",
+    "pinyin": "zhǔn bèi",
+    "definition": "準備する；～するつもりだ"
+  },
+  {
+    "id": 297,
+    "level": 2,
+    "hanzi": "自行车",
+    "pinyin": "zì xíng chē",
+    "definition": "自転車"
+  },
+  {
+    "id": 298,
+    "level": 2,
+    "hanzi": "走",
+    "pinyin": "zǒu",
+    "definition": "歩く；出かける、去る"
+  },
+  {
+    "id": 299,
+    "level": 2,
+    "hanzi": "最",
+    "pinyin": "zuì",
+    "definition": "最も、いちばん"
+  },
+  {
+    "id": 300,
+    "level": 2,
+    "hanzi": "左边",
+    "pinyin": "zuǒ bian",
+    "definition": "左、左側"
+  },
+  {
+    "id": 301,
+    "level": 3,
+    "hanzi": "阿姨",
+    "pinyin": "ā yí",
+    "definition": "おばさん（よその年配女性）；家政婦"
+  },
+  {
+    "id": 302,
+    "level": 3,
+    "hanzi": "啊",
+    "pinyin": "a",
+    "definition": "（感嘆・肯定を表す語気助詞）～よ、～ね"
+  },
+  {
+    "id": 303,
+    "level": 3,
+    "hanzi": "矮",
+    "pinyin": "ǎi",
+    "definition": "（背が）低い"
+  },
+  {
+    "id": 304,
+    "level": 3,
+    "hanzi": "爱好",
+    "pinyin": "ài hào",
+    "definition": "趣味；好む"
+  },
+  {
+    "id": 305,
+    "level": 3,
+    "hanzi": "安静",
+    "pinyin": "ān jìng",
+    "definition": "静かだ、穏やかだ"
+  },
+  {
+    "id": 306,
+    "level": 3,
+    "hanzi": "把",
+    "pinyin": "bǎ",
+    "definition": "～を（目的語を前に出す介詞）；（量詞）～本（取っ手のあるもの）"
+  },
+  {
+    "id": 307,
+    "level": 3,
+    "hanzi": "搬",
+    "pinyin": "bān",
+    "definition": "運ぶ；引っ越す"
+  },
+  {
+    "id": 308,
+    "level": 3,
+    "hanzi": "班",
+    "pinyin": "bān",
+    "definition": "クラス、班；勤務"
+  },
+  {
+    "id": 309,
+    "level": 3,
+    "hanzi": "半",
+    "pinyin": "bàn",
+    "definition": "半分"
+  },
+  {
+    "id": 310,
+    "level": 3,
+    "hanzi": "办法",
+    "pinyin": "bàn fǎ",
+    "definition": "方法、やり方"
+  },
+  {
+    "id": 311,
+    "level": 3,
+    "hanzi": "办公室",
+    "pinyin": "bàn gōng shì",
+    "definition": "事務室、オフィス"
+  },
+  {
+    "id": 312,
+    "level": 3,
+    "hanzi": "帮忙",
+    "pinyin": "bāng máng",
+    "definition": "手伝う、手を貸す"
+  },
+  {
+    "id": 313,
+    "level": 3,
+    "hanzi": "包",
+    "pinyin": "bāo",
+    "definition": "包む；かばん、包み"
+  },
+  {
+    "id": 314,
+    "level": 3,
+    "hanzi": "饱",
+    "pinyin": "bǎo",
+    "definition": "満腹だ"
+  },
+  {
+    "id": 315,
+    "level": 3,
+    "hanzi": "北方",
+    "pinyin": "běi fāng",
+    "definition": "北方、北の地域"
+  },
+  {
+    "id": 316,
+    "level": 3,
+    "hanzi": "被",
+    "pinyin": "bèi",
+    "definition": "～される（受け身）"
+  },
+  {
+    "id": 317,
+    "level": 3,
+    "hanzi": "鼻子",
+    "pinyin": "bí zi",
+    "definition": "鼻"
+  },
+  {
+    "id": 318,
+    "level": 3,
+    "hanzi": "比较",
+    "pinyin": "bǐ jiào",
+    "definition": "比較的、わりと；比べる"
+  },
+  {
+    "id": 319,
+    "level": 3,
+    "hanzi": "比赛",
+    "pinyin": "bǐ sài",
+    "definition": "試合、競技"
+  },
+  {
+    "id": 320,
+    "level": 3,
+    "hanzi": "必须",
+    "pinyin": "bì xū",
+    "definition": "必ず～しなければならない"
+  },
+  {
+    "id": 321,
+    "level": 3,
+    "hanzi": "变化",
+    "pinyin": "biàn huà",
+    "definition": "変化；変化する"
+  },
+  {
+    "id": 322,
+    "level": 3,
+    "hanzi": "表示",
+    "pinyin": "biǎo shì",
+    "definition": "表す、示す"
+  },
+  {
+    "id": 323,
+    "level": 3,
+    "hanzi": "表演",
+    "pinyin": "biǎo yǎn",
+    "definition": "演じる、上演する；公演"
+  },
+  {
+    "id": 324,
+    "level": 3,
+    "hanzi": "别人",
+    "pinyin": "bié ren",
+    "definition": "他人、ほかの人"
+  },
+  {
+    "id": 325,
+    "level": 3,
+    "hanzi": "宾馆",
+    "pinyin": "bīn guǎn",
+    "definition": "ホテル"
+  },
+  {
+    "id": 326,
+    "level": 3,
+    "hanzi": "冰箱",
+    "pinyin": "bīng xiāng",
+    "definition": "冷蔵庫"
+  },
+  {
+    "id": 327,
+    "level": 3,
+    "hanzi": "才",
+    "pinyin": "cái",
+    "definition": "やっと、ようやく；～したばかり"
+  },
+  {
+    "id": 328,
+    "level": 3,
+    "hanzi": "菜单",
+    "pinyin": "cài dān",
+    "definition": "メニュー、献立表"
+  },
+  {
+    "id": 329,
+    "level": 3,
+    "hanzi": "参加",
+    "pinyin": "cān jiā",
+    "definition": "参加する"
+  },
+  {
+    "id": 330,
+    "level": 3,
+    "hanzi": "草",
+    "pinyin": "cǎo",
+    "definition": "草"
+  },
+  {
+    "id": 331,
+    "level": 3,
+    "hanzi": "层",
+    "pinyin": "céng",
+    "definition": "（量詞）～階、～層"
+  },
+  {
+    "id": 332,
+    "level": 3,
+    "hanzi": "差",
+    "pinyin": "chà",
+    "definition": "劣っている；不足している、足りない"
+  },
+  {
+    "id": 333,
+    "level": 3,
+    "hanzi": "超市",
+    "pinyin": "chāo shì",
+    "definition": "スーパーマーケット"
+  },
+  {
+    "id": 334,
+    "level": 3,
+    "hanzi": "衬衫",
+    "pinyin": "chèn shān",
+    "definition": "シャツ、ブラウス"
+  },
+  {
+    "id": 335,
+    "level": 3,
+    "hanzi": "成绩",
+    "pinyin": "chéng jì",
+    "definition": "成績"
+  },
+  {
+    "id": 336,
+    "level": 3,
+    "hanzi": "城市",
+    "pinyin": "chéng shì",
+    "definition": "都市、町"
+  },
+  {
+    "id": 337,
+    "level": 3,
+    "hanzi": "迟到",
+    "pinyin": "chí dào",
+    "definition": "遅刻する"
+  },
+  {
+    "id": 338,
+    "level": 3,
+    "hanzi": "出现",
+    "pinyin": "chū xiàn",
+    "definition": "現れる、出現する"
+  },
+  {
+    "id": 339,
+    "level": 3,
+    "hanzi": "除了",
+    "pinyin": "chú le",
+    "definition": "～を除いて、～のほかに"
+  },
+  {
+    "id": 340,
+    "level": 3,
+    "hanzi": "厨房",
+    "pinyin": "chú fáng",
+    "definition": "台所、キッチン"
+  },
+  {
+    "id": 341,
+    "level": 3,
+    "hanzi": "春",
+    "pinyin": "chūn",
+    "definition": "春"
+  },
+  {
+    "id": 342,
+    "level": 3,
+    "hanzi": "词语",
+    "pinyin": "cí yǔ",
+    "definition": "語句、ことば"
+  },
+  {
+    "id": 343,
+    "level": 3,
+    "hanzi": "聪明",
+    "pinyin": "cōng ming",
+    "definition": "賢い、聡明だ"
+  },
+  {
+    "id": 344,
+    "level": 3,
+    "hanzi": "打扫",
+    "pinyin": "dǎ sǎo",
+    "definition": "掃除する"
+  },
+  {
+    "id": 345,
+    "level": 3,
+    "hanzi": "打算",
+    "pinyin": "dǎ suàn",
+    "definition": "～するつもりだ；計画"
+  },
+  {
+    "id": 346,
+    "level": 3,
+    "hanzi": "带",
+    "pinyin": "dài",
+    "definition": "持つ、携帯する；連れる"
+  },
+  {
+    "id": 347,
+    "level": 3,
+    "hanzi": "担心",
+    "pinyin": "dān xīn",
+    "definition": "心配する"
+  },
+  {
+    "id": 348,
+    "level": 3,
+    "hanzi": "蛋糕",
+    "pinyin": "dàn gāo",
+    "definition": "ケーキ"
+  },
+  {
+    "id": 349,
+    "level": 3,
+    "hanzi": "当然",
+    "pinyin": "dāng rán",
+    "definition": "もちろん、当然"
+  },
+  {
+    "id": 350,
+    "level": 3,
+    "hanzi": "地",
+    "pinyin": "de",
+    "definition": "（連用修飾を作る助詞）～に、～く"
+  },
+  {
+    "id": 351,
+    "level": 3,
+    "hanzi": "灯",
+    "pinyin": "dēng",
+    "definition": "明かり、電灯"
+  },
+  {
+    "id": 352,
+    "level": 3,
+    "hanzi": "低",
+    "pinyin": "dī",
+    "definition": "低い"
+  },
+  {
+    "id": 353,
+    "level": 3,
+    "hanzi": "地方",
+    "pinyin": "dì fang",
+    "definition": "場所、ところ"
+  },
+  {
+    "id": 354,
+    "level": 3,
+    "hanzi": "地铁",
+    "pinyin": "dì tiě",
+    "definition": "地下鉄"
+  },
+  {
+    "id": 355,
+    "level": 3,
+    "hanzi": "地图",
+    "pinyin": "dì tú",
+    "definition": "地図"
+  },
+  {
+    "id": 356,
+    "level": 3,
+    "hanzi": "电梯",
+    "pinyin": "diàn tī",
+    "definition": "エレベーター"
+  },
+  {
+    "id": 357,
+    "level": 3,
+    "hanzi": "电子",
+    "pinyin": "diàn zǐ",
+    "definition": "電子"
+  },
+  {
+    "id": 358,
+    "level": 3,
+    "hanzi": "冬",
+    "pinyin": "dōng",
+    "definition": "冬"
+  },
+  {
+    "id": 359,
+    "level": 3,
+    "hanzi": "东",
+    "pinyin": "dōng",
+    "definition": "東"
+  },
+  {
+    "id": 360,
+    "level": 3,
+    "hanzi": "动物",
+    "pinyin": "dòng wù",
+    "definition": "動物"
+  },
+  {
+    "id": 361,
+    "level": 3,
+    "hanzi": "短",
+    "pinyin": "duǎn",
+    "definition": "短い"
+  },
+  {
+    "id": 362,
+    "level": 3,
+    "hanzi": "段",
+    "pinyin": "duàn",
+    "definition": "（量詞）～区切り、～段落"
+  },
+  {
+    "id": 363,
+    "level": 3,
+    "hanzi": "锻炼",
+    "pinyin": "duàn liàn",
+    "definition": "鍛える、体を鍛える"
+  },
+  {
+    "id": 364,
+    "level": 3,
+    "hanzi": "多么",
+    "pinyin": "duō me",
+    "definition": "なんと、どんなに"
+  },
+  {
+    "id": 365,
+    "level": 3,
+    "hanzi": "饿",
+    "pinyin": "è",
+    "definition": "空腹だ、おなかがすいた"
+  },
+  {
+    "id": 366,
+    "level": 3,
+    "hanzi": "而且",
+    "pinyin": "ér qiě",
+    "definition": "しかも、そのうえ"
+  },
+  {
+    "id": 367,
+    "level": 3,
+    "hanzi": "耳朵",
+    "pinyin": "ěr duo",
+    "definition": "耳"
+  },
+  {
+    "id": 368,
+    "level": 3,
+    "hanzi": "发烧",
+    "pinyin": "fā shāo",
+    "definition": "熱が出る"
+  },
+  {
+    "id": 369,
+    "level": 3,
+    "hanzi": "发现",
+    "pinyin": "fā xiàn",
+    "definition": "発見する、気づく"
+  },
+  {
+    "id": 370,
+    "level": 3,
+    "hanzi": "方便",
+    "pinyin": "fāng biàn",
+    "definition": "便利だ"
+  },
+  {
+    "id": 371,
+    "level": 3,
+    "hanzi": "放",
+    "pinyin": "fàng",
+    "definition": "置く、入れる；放つ"
+  },
+  {
+    "id": 372,
+    "level": 3,
+    "hanzi": "放心",
+    "pinyin": "fàng xīn",
+    "definition": "安心する"
+  },
+  {
+    "id": 373,
+    "level": 3,
+    "hanzi": "分",
+    "pinyin": "fēn",
+    "definition": "分ける；～分（時間・お金）"
+  },
+  {
+    "id": 374,
+    "level": 3,
+    "hanzi": "附近",
+    "pinyin": "fù jìn",
+    "definition": "付近、近所"
+  },
+  {
+    "id": 375,
+    "level": 3,
+    "hanzi": "复习",
+    "pinyin": "fù xí",
+    "definition": "復習する"
+  },
+  {
+    "id": 376,
+    "level": 3,
+    "hanzi": "干净",
+    "pinyin": "gān jìng",
+    "definition": "清潔だ、きれいだ"
+  },
+  {
+    "id": 377,
+    "level": 3,
+    "hanzi": "敢",
+    "pinyin": "gǎn",
+    "definition": "思い切って～する、～する勇気がある"
+  },
+  {
+    "id": 378,
+    "level": 3,
+    "hanzi": "感冒",
+    "pinyin": "gǎn mào",
+    "definition": "風邪；風邪をひく"
+  },
+  {
+    "id": 379,
+    "level": 3,
+    "hanzi": "刚才",
+    "pinyin": "gāng cái",
+    "definition": "さっき、先ほど"
+  },
+  {
+    "id": 380,
+    "level": 3,
+    "hanzi": "根据",
+    "pinyin": "gēn jù",
+    "definition": "～によれば、～に基づいて；根拠"
+  },
+  {
+    "id": 381,
+    "level": 3,
+    "hanzi": "跟",
+    "pinyin": "gēn",
+    "definition": "～と；ついて行く"
+  },
+  {
+    "id": 382,
+    "level": 3,
+    "hanzi": "更",
+    "pinyin": "gèng",
+    "definition": "さらに、もっと"
+  },
+  {
+    "id": 383,
+    "level": 3,
+    "hanzi": "公园",
+    "pinyin": "gōng yuán",
+    "definition": "公園"
+  },
+  {
+    "id": 384,
+    "level": 3,
+    "hanzi": "故事",
+    "pinyin": "gù shi",
+    "definition": "物語、お話"
+  },
+  {
+    "id": 385,
+    "level": 3,
+    "hanzi": "刮",
+    "pinyin": "guā",
+    "definition": "（風が）吹く；削る"
+  },
+  {
+    "id": 386,
+    "level": 3,
+    "hanzi": "关",
+    "pinyin": "guān",
+    "definition": "閉める、閉じる；（スイッチを）切る"
+  },
+  {
+    "id": 387,
+    "level": 3,
+    "hanzi": "关系",
+    "pinyin": "guān xì",
+    "definition": "関係"
+  },
+  {
+    "id": 388,
+    "level": 3,
+    "hanzi": "关心",
+    "pinyin": "guān xīn",
+    "definition": "関心を持つ、気にかける"
+  },
+  {
+    "id": 389,
+    "level": 3,
+    "hanzi": "关于",
+    "pinyin": "guān yú",
+    "definition": "～について、～に関して"
+  },
+  {
+    "id": 390,
+    "level": 3,
+    "hanzi": "国家",
+    "pinyin": "guó jiā",
+    "definition": "国家、国"
+  },
+  {
+    "id": 391,
+    "level": 3,
+    "hanzi": "果汁",
+    "pinyin": "guǒ zhī",
+    "definition": "果汁、ジュース"
+  },
+  {
+    "id": 392,
+    "level": 3,
+    "hanzi": "过去",
+    "pinyin": "guò qu",
+    "definition": "過去、以前"
+  },
+  {
+    "id": 393,
+    "level": 3,
+    "hanzi": "还是",
+    "pinyin": "hái shi",
+    "definition": "それとも；やはり"
+  },
+  {
+    "id": 394,
+    "level": 3,
+    "hanzi": "害怕",
+    "pinyin": "hài pà",
+    "definition": "怖がる、恐れる"
+  },
+  {
+    "id": 395,
+    "level": 3,
+    "hanzi": "河",
+    "pinyin": "hé",
+    "definition": "川"
+  },
+  {
+    "id": 396,
+    "level": 3,
+    "hanzi": "黑板",
+    "pinyin": "hēi bǎn",
+    "definition": "黒板"
+  },
+  {
+    "id": 397,
+    "level": 3,
+    "hanzi": "护照",
+    "pinyin": "hù zhào",
+    "definition": "パスポート"
+  },
+  {
+    "id": 398,
+    "level": 3,
+    "hanzi": "花",
+    "pinyin": "huā",
+    "definition": "花；（お金・時間を）使う"
+  },
+  {
+    "id": 399,
+    "level": 3,
+    "hanzi": "花园",
+    "pinyin": "huā yuán",
+    "definition": "花園、庭園"
+  },
+  {
+    "id": 400,
+    "level": 3,
+    "hanzi": "画",
+    "pinyin": "huà",
+    "definition": "描く；絵"
+  },
+  {
+    "id": 401,
+    "level": 3,
+    "hanzi": "坏",
+    "pinyin": "huài",
+    "definition": "悪い；壊れる"
+  },
+  {
+    "id": 402,
+    "level": 3,
+    "hanzi": "环境",
+    "pinyin": "huán jìng",
+    "definition": "環境"
+  },
+  {
+    "id": 403,
+    "level": 3,
+    "hanzi": "换",
+    "pinyin": "huàn",
+    "definition": "換える、交換する"
+  },
+  {
+    "id": 404,
+    "level": 3,
+    "hanzi": "黄",
+    "pinyin": "huáng",
+    "definition": "黄色い"
+  },
+  {
+    "id": 405,
+    "level": 3,
+    "hanzi": "会议",
+    "pinyin": "huì yì",
+    "definition": "会議"
+  },
+  {
+    "id": 406,
+    "level": 3,
+    "hanzi": "或者",
+    "pinyin": "huò zhě",
+    "definition": "あるいは、または"
+  },
+  {
+    "id": 407,
+    "level": 3,
+    "hanzi": "机会",
+    "pinyin": "jī huì",
+    "definition": "機会、チャンス"
+  },
+  {
+    "id": 408,
+    "level": 3,
+    "hanzi": "几乎",
+    "pinyin": "jī hū",
+    "definition": "ほとんど"
+  },
+  {
+    "id": 409,
+    "level": 3,
+    "hanzi": "极",
+    "pinyin": "jí",
+    "definition": "極めて、非常に"
+  },
+  {
+    "id": 410,
+    "level": 3,
+    "hanzi": "记得",
+    "pinyin": "jì de",
+    "definition": "覚えている"
+  },
+  {
+    "id": 411,
+    "level": 3,
+    "hanzi": "季节",
+    "pinyin": "jì jié",
+    "definition": "季節"
+  },
+  {
+    "id": 412,
+    "level": 3,
+    "hanzi": "检查",
+    "pinyin": "jiǎn chá",
+    "definition": "検査する、点検する"
+  },
+  {
+    "id": 413,
+    "level": 3,
+    "hanzi": "简单",
+    "pinyin": "jiǎn dān",
+    "definition": "簡単だ、単純だ"
+  },
+  {
+    "id": 414,
+    "level": 3,
+    "hanzi": "见面",
+    "pinyin": "jiàn miàn",
+    "definition": "会う、対面する"
+  },
+  {
+    "id": 415,
+    "level": 3,
+    "hanzi": "健康",
+    "pinyin": "jiàn kāng",
+    "definition": "健康；健康だ"
+  },
+  {
+    "id": 416,
+    "level": 3,
+    "hanzi": "讲",
+    "pinyin": "jiǎng",
+    "definition": "話す、説明する"
+  },
+  {
+    "id": 417,
+    "level": 3,
+    "hanzi": "教",
+    "pinyin": "jiāo",
+    "definition": "教える"
+  },
+  {
+    "id": 418,
+    "level": 3,
+    "hanzi": "脚",
+    "pinyin": "jiǎo",
+    "definition": "足（くるぶしから下）"
+  },
+  {
+    "id": 419,
+    "level": 3,
+    "hanzi": "角",
+    "pinyin": "jiǎo",
+    "definition": "角（かど）；角（つの）；角（貨幣単位）"
+  },
+  {
+    "id": 420,
+    "level": 3,
+    "hanzi": "接",
+    "pinyin": "jiē",
+    "definition": "迎える；受け取る、（電話に）出る"
+  },
+  {
+    "id": 421,
+    "level": 3,
+    "hanzi": "街道",
+    "pinyin": "jiē dào",
+    "definition": "大通り、街路"
+  },
+  {
+    "id": 422,
+    "level": 3,
+    "hanzi": "节目",
+    "pinyin": "jié mù",
+    "definition": "番組、プログラム"
+  },
+  {
+    "id": 423,
+    "level": 3,
+    "hanzi": "节日",
+    "pinyin": "jié rì",
+    "definition": "祝日、祭日"
+  },
+  {
+    "id": 424,
+    "level": 3,
+    "hanzi": "结婚",
+    "pinyin": "jié hūn",
+    "definition": "結婚する"
+  },
+  {
+    "id": 425,
+    "level": 3,
+    "hanzi": "结束",
+    "pinyin": "jié shù",
+    "definition": "終わる、終える"
+  },
+  {
+    "id": 426,
+    "level": 3,
+    "hanzi": "解决",
+    "pinyin": "jiě jué",
+    "definition": "解決する"
+  },
+  {
+    "id": 427,
+    "level": 3,
+    "hanzi": "借",
+    "pinyin": "jiè",
+    "definition": "借りる；貸す"
+  },
+  {
+    "id": 428,
+    "level": 3,
+    "hanzi": "经常",
+    "pinyin": "jīng cháng",
+    "definition": "いつも、しょっちゅう"
+  },
+  {
+    "id": 429,
+    "level": 3,
+    "hanzi": "经过",
+    "pinyin": "jīng guò",
+    "definition": "通る、経る；経過"
+  },
+  {
+    "id": 430,
+    "level": 3,
+    "hanzi": "经理",
+    "pinyin": "jīng lǐ",
+    "definition": "経営者、マネージャー"
+  },
+  {
+    "id": 431,
+    "level": 3,
+    "hanzi": "久",
+    "pinyin": "jiǔ",
+    "definition": "長い（時間）"
+  },
+  {
+    "id": 432,
+    "level": 3,
+    "hanzi": "旧",
+    "pinyin": "jiù",
+    "definition": "古い"
+  },
+  {
+    "id": 433,
+    "level": 3,
+    "hanzi": "举行",
+    "pinyin": "jǔ xíng",
+    "definition": "行う、開催する"
+  },
+  {
+    "id": 434,
+    "level": 3,
+    "hanzi": "句子",
+    "pinyin": "jù zi",
+    "definition": "文、センテンス"
+  },
+  {
+    "id": 435,
+    "level": 3,
+    "hanzi": "决定",
+    "pinyin": "jué dìng",
+    "definition": "決める；決定"
+  },
+  {
+    "id": 436,
+    "level": 3,
+    "hanzi": "渴",
+    "pinyin": "kě",
+    "definition": "のどが渇いている"
+  },
+  {
+    "id": 437,
+    "level": 3,
+    "hanzi": "可爱",
+    "pinyin": "kě ài",
+    "definition": "かわいい、愛らしい"
+  },
+  {
+    "id": 438,
+    "level": 3,
+    "hanzi": "刻",
+    "pinyin": "kè",
+    "definition": "15分；刻む"
+  },
+  {
+    "id": 439,
+    "level": 3,
+    "hanzi": "客人",
+    "pinyin": "kè rén",
+    "definition": "客、来客"
+  },
+  {
+    "id": 440,
+    "level": 3,
+    "hanzi": "空调",
+    "pinyin": "kōng tiáo",
+    "definition": "エアコン"
+  },
+  {
+    "id": 441,
+    "level": 3,
+    "hanzi": "口",
+    "pinyin": "kǒu",
+    "definition": "口；（量詞）～人（家族の人数）"
+  },
+  {
+    "id": 442,
+    "level": 3,
+    "hanzi": "哭",
+    "pinyin": "kū",
+    "definition": "泣く"
+  },
+  {
+    "id": 443,
+    "level": 3,
+    "hanzi": "裤子",
+    "pinyin": "kù zi",
+    "definition": "ズボン"
+  },
+  {
+    "id": 444,
+    "level": 3,
+    "hanzi": "筷子",
+    "pinyin": "kuài zi",
+    "definition": "箸"
+  },
+  {
+    "id": 445,
+    "level": 3,
+    "hanzi": "蓝",
+    "pinyin": "lán",
+    "definition": "青い"
+  },
+  {
+    "id": 446,
+    "level": 3,
+    "hanzi": "老",
+    "pinyin": "lǎo",
+    "definition": "年をとった；古い"
+  },
+  {
+    "id": 447,
+    "level": 3,
+    "hanzi": "离开",
+    "pinyin": "lí kāi",
+    "definition": "離れる、去る"
+  },
+  {
+    "id": 448,
+    "level": 3,
+    "hanzi": "礼物",
+    "pinyin": "lǐ wù",
+    "definition": "贈り物、プレゼント"
+  },
+  {
+    "id": 449,
+    "level": 3,
+    "hanzi": "历史",
+    "pinyin": "lì shǐ",
+    "definition": "歴史"
+  },
+  {
+    "id": 450,
+    "level": 3,
+    "hanzi": "脸",
+    "pinyin": "liǎn",
+    "definition": "顔"
+  },
+  {
+    "id": 451,
+    "level": 3,
+    "hanzi": "练习",
+    "pinyin": "liàn xí",
+    "definition": "練習する；練習"
+  },
+  {
+    "id": 452,
+    "level": 3,
+    "hanzi": "辆",
+    "pinyin": "liàng",
+    "definition": "（量詞）～台（車両）"
+  },
+  {
+    "id": 453,
+    "level": 3,
+    "hanzi": "了解",
+    "pinyin": "liǎo jiě",
+    "definition": "理解する、よく知る"
+  },
+  {
+    "id": 454,
+    "level": 3,
+    "hanzi": "邻居",
+    "pinyin": "lín jū",
+    "definition": "隣人、近所の人"
+  },
+  {
+    "id": 455,
+    "level": 3,
+    "hanzi": "楼",
+    "pinyin": "lóu",
+    "definition": "建物、ビル；～階"
+  },
+  {
+    "id": 456,
+    "level": 3,
+    "hanzi": "绿",
+    "pinyin": "lǜ",
+    "definition": "緑色の"
+  },
+  {
+    "id": 457,
+    "level": 3,
+    "hanzi": "马",
+    "pinyin": "mǎ",
+    "definition": "馬"
+  },
+  {
+    "id": 458,
+    "level": 3,
+    "hanzi": "马上",
+    "pinyin": "mǎ shàng",
+    "definition": "すぐに、ただちに"
+  },
+  {
+    "id": 459,
+    "level": 3,
+    "hanzi": "满意",
+    "pinyin": "mǎn yì",
+    "definition": "満足する"
+  },
+  {
+    "id": 460,
+    "level": 3,
+    "hanzi": "帽子",
+    "pinyin": "mào zi",
+    "definition": "帽子"
+  },
+  {
+    "id": 461,
+    "level": 3,
+    "hanzi": "米",
+    "pinyin": "mǐ",
+    "definition": "米；メートル"
+  },
+  {
+    "id": 462,
+    "level": 3,
+    "hanzi": "面包",
+    "pinyin": "miàn bāo",
+    "definition": "パン"
+  },
+  {
+    "id": 463,
+    "level": 3,
+    "hanzi": "面条",
+    "pinyin": "miàn tiáo",
+    "definition": "麺類、うどん"
+  },
+  {
+    "id": 464,
+    "level": 3,
+    "hanzi": "明白",
+    "pinyin": "míng bai",
+    "definition": "わかる、理解する；明らかだ"
+  },
+  {
+    "id": 465,
+    "level": 3,
+    "hanzi": "拿",
+    "pinyin": "ná",
+    "definition": "手に取る、持つ"
+  },
+  {
+    "id": 466,
+    "level": 3,
+    "hanzi": "奶奶",
+    "pinyin": "nǎi nai",
+    "definition": "おばあさん（父方の祖母）"
+  },
+  {
+    "id": 467,
+    "level": 3,
+    "hanzi": "南",
+    "pinyin": "nán",
+    "definition": "南"
+  },
+  {
+    "id": 468,
+    "level": 3,
+    "hanzi": "难",
+    "pinyin": "nán",
+    "definition": "難しい"
+  },
+  {
+    "id": 469,
+    "level": 3,
+    "hanzi": "难过",
+    "pinyin": "nán guò",
+    "definition": "つらい、悲しい"
+  },
+  {
+    "id": 470,
+    "level": 3,
+    "hanzi": "年级",
+    "pinyin": "nián jí",
+    "definition": "学年、～年生"
+  },
+  {
+    "id": 471,
+    "level": 3,
+    "hanzi": "年轻",
+    "pinyin": "nián qīng",
+    "definition": "若い"
+  },
+  {
+    "id": 472,
+    "level": 3,
+    "hanzi": "鸟",
+    "pinyin": "niǎo",
+    "definition": "鳥"
+  },
+  {
+    "id": 473,
+    "level": 3,
+    "hanzi": "努力",
+    "pinyin": "nǔ lì",
+    "definition": "努力する"
+  },
+  {
+    "id": 474,
+    "level": 3,
+    "hanzi": "爬山",
+    "pinyin": "pá shān",
+    "definition": "山に登る、登山"
+  },
+  {
+    "id": 475,
+    "level": 3,
+    "hanzi": "盘子",
+    "pinyin": "pán zi",
+    "definition": "皿、大皿"
+  },
+  {
+    "id": 476,
+    "level": 3,
+    "hanzi": "胖",
+    "pinyin": "pàng",
+    "definition": "太っている"
+  },
+  {
+    "id": 477,
+    "level": 3,
+    "hanzi": "啤酒",
+    "pinyin": "pí jiǔ",
+    "definition": "ビール"
+  },
+  {
+    "id": 478,
+    "level": 3,
+    "hanzi": "葡萄",
+    "pinyin": "pú tao",
+    "definition": "ぶどう"
+  },
+  {
+    "id": 479,
+    "level": 3,
+    "hanzi": "普通话",
+    "pinyin": "pǔ tōng huà",
+    "definition": "標準語（中国語の共通語）"
+  },
+  {
+    "id": 480,
+    "level": 3,
+    "hanzi": "骑",
+    "pinyin": "qí",
+    "definition": "（またがって）乗る"
+  },
+  {
+    "id": 481,
+    "level": 3,
+    "hanzi": "其实",
+    "pinyin": "qí shí",
+    "definition": "実は、実際は"
+  },
+  {
+    "id": 482,
+    "level": 3,
+    "hanzi": "其他",
+    "pinyin": "qí tā",
+    "definition": "その他、ほかの"
+  },
+  {
+    "id": 483,
+    "level": 3,
+    "hanzi": "奇怪",
+    "pinyin": "qí guài",
+    "definition": "不思議だ、おかしい"
+  },
+  {
+    "id": 484,
+    "level": 3,
+    "hanzi": "铅笔",
+    "pinyin": "qiān bǐ",
+    "definition": "鉛筆"
+  },
+  {
+    "id": 485,
+    "level": 3,
+    "hanzi": "清楚",
+    "pinyin": "qīng chu",
+    "definition": "はっきりしている；よくわかっている"
+  },
+  {
+    "id": 486,
+    "level": 3,
+    "hanzi": "秋",
+    "pinyin": "qiū",
+    "definition": "秋"
+  },
+  {
+    "id": 487,
+    "level": 3,
+    "hanzi": "裙子",
+    "pinyin": "qún zi",
+    "definition": "スカート"
+  },
+  {
+    "id": 488,
+    "level": 3,
+    "hanzi": "然后",
+    "pinyin": "rán hòu",
+    "definition": "それから、その後"
+  },
+  {
+    "id": 489,
+    "level": 3,
+    "hanzi": "热情",
+    "pinyin": "rè qíng",
+    "definition": "心がこもっている、親切だ；熱意"
+  },
+  {
+    "id": 490,
+    "level": 3,
+    "hanzi": "认为",
+    "pinyin": "rèn wéi",
+    "definition": "～と考える、～と認める"
+  },
+  {
+    "id": 491,
+    "level": 3,
+    "hanzi": "认真",
+    "pinyin": "rèn zhēn",
+    "definition": "真面目だ、真剣だ"
+  },
+  {
+    "id": 492,
+    "level": 3,
+    "hanzi": "容易",
+    "pinyin": "róng yì",
+    "definition": "容易だ、簡単だ"
+  },
+  {
+    "id": 493,
+    "level": 3,
+    "hanzi": "如果",
+    "pinyin": "rú guǒ",
+    "definition": "もし～ならば"
+  },
+  {
+    "id": 494,
+    "level": 3,
+    "hanzi": "伞",
+    "pinyin": "sǎn",
+    "definition": "傘"
+  },
+  {
+    "id": 495,
+    "level": 3,
+    "hanzi": "上网",
+    "pinyin": "shàng wǎng",
+    "definition": "インターネットに接続する"
+  },
+  {
+    "id": 496,
+    "level": 3,
+    "hanzi": "生气",
+    "pinyin": "shēng qì",
+    "definition": "怒る、腹を立てる"
+  },
+  {
+    "id": 497,
+    "level": 3,
+    "hanzi": "声音",
+    "pinyin": "shēng yīn",
+    "definition": "音、声"
+  },
+  {
+    "id": 498,
+    "level": 3,
+    "hanzi": "使",
+    "pinyin": "shǐ",
+    "definition": "～させる；使う"
+  },
+  {
+    "id": 499,
+    "level": 3,
+    "hanzi": "世界",
+    "pinyin": "shì jiè",
+    "definition": "世界"
+  },
+  {
+    "id": 500,
+    "level": 3,
+    "hanzi": "瘦",
+    "pinyin": "shòu",
+    "definition": "痩せている"
+  },
+  {
+    "id": 501,
+    "level": 3,
+    "hanzi": "舒服",
+    "pinyin": "shū fu",
+    "definition": "気分がよい、心地よい"
+  },
+  {
+    "id": 502,
+    "level": 3,
+    "hanzi": "叔叔",
+    "pinyin": "shū shu",
+    "definition": "おじさん（父の弟；年上の男性への呼称）"
+  },
+  {
+    "id": 503,
+    "level": 3,
+    "hanzi": "树",
+    "pinyin": "shù",
+    "definition": "木"
+  },
+  {
+    "id": 504,
+    "level": 3,
+    "hanzi": "数学",
+    "pinyin": "shù xué",
+    "definition": "数学"
+  },
+  {
+    "id": 505,
+    "level": 3,
+    "hanzi": "刷",
+    "pinyin": "shuā",
+    "definition": "（ブラシで）磨く、塗る"
+  },
+  {
+    "id": 506,
+    "level": 3,
+    "hanzi": "双",
+    "pinyin": "shuāng",
+    "definition": "（量詞）～足、～組（対のもの）"
+  },
+  {
+    "id": 507,
+    "level": 3,
+    "hanzi": "水平",
+    "pinyin": "shuǐ píng",
+    "definition": "水準、レベル"
+  },
+  {
+    "id": 508,
+    "level": 3,
+    "hanzi": "司机",
+    "pinyin": "sī jī",
+    "definition": "運転手"
+  },
+  {
+    "id": 509,
+    "level": 3,
+    "hanzi": "虽然",
+    "pinyin": "suī rán",
+    "definition": "～ではあるけれども"
+  },
+  {
+    "id": 510,
+    "level": 3,
+    "hanzi": "太阳",
+    "pinyin": "tài yáng",
+    "definition": "太陽"
+  },
+  {
+    "id": 511,
+    "level": 3,
+    "hanzi": "糖",
+    "pinyin": "táng",
+    "definition": "砂糖；あめ"
+  },
+  {
+    "id": 512,
+    "level": 3,
+    "hanzi": "特别",
+    "pinyin": "tè bié",
+    "definition": "特に；特別だ"
+  },
+  {
+    "id": 513,
+    "level": 3,
+    "hanzi": "疼",
+    "pinyin": "téng",
+    "definition": "痛い"
+  },
+  {
+    "id": 514,
+    "level": 3,
+    "hanzi": "提高",
+    "pinyin": "tí gāo",
+    "definition": "高める、向上させる"
+  },
+  {
+    "id": 515,
+    "level": 3,
+    "hanzi": "体育",
+    "pinyin": "tǐ yù",
+    "definition": "体育、スポーツ"
+  },
+  {
+    "id": 516,
+    "level": 3,
+    "hanzi": "甜",
+    "pinyin": "tián",
+    "definition": "甘い"
+  },
+  {
+    "id": 517,
+    "level": 3,
+    "hanzi": "条",
+    "pinyin": "tiáo",
+    "definition": "（量詞）～本（細長いもの）、～匹（魚など）"
+  },
+  {
+    "id": 518,
+    "level": 3,
+    "hanzi": "同事",
+    "pinyin": "tóng shì",
+    "definition": "同僚"
+  },
+  {
+    "id": 519,
+    "level": 3,
+    "hanzi": "同意",
+    "pinyin": "tóng yì",
+    "definition": "同意する、賛成する"
+  },
+  {
+    "id": 520,
+    "level": 3,
+    "hanzi": "头发",
+    "pinyin": "tóu fa",
+    "definition": "髪の毛"
+  },
+  {
+    "id": 521,
+    "level": 3,
+    "hanzi": "突然",
+    "pinyin": "tū rán",
+    "definition": "突然、急に"
+  },
+  {
+    "id": 522,
+    "level": 3,
+    "hanzi": "图书馆",
+    "pinyin": "tú shū guǎn",
+    "definition": "図書館"
+  },
+  {
+    "id": 523,
+    "level": 3,
+    "hanzi": "腿",
+    "pinyin": "tuǐ",
+    "definition": "脚（もも・すね）"
+  },
+  {
+    "id": 524,
+    "level": 3,
+    "hanzi": "完成",
+    "pinyin": "wán chéng",
+    "definition": "完成する、成し遂げる"
+  },
+  {
+    "id": 525,
+    "level": 3,
+    "hanzi": "碗",
+    "pinyin": "wǎn",
+    "definition": "茶碗、お椀"
+  },
+  {
+    "id": 526,
+    "level": 3,
+    "hanzi": "万",
+    "pinyin": "wàn",
+    "definition": "万"
+  },
+  {
+    "id": 527,
+    "level": 3,
+    "hanzi": "忘记",
+    "pinyin": "wàng jì",
+    "definition": "忘れる"
+  },
+  {
+    "id": 528,
+    "level": 3,
+    "hanzi": "为了",
+    "pinyin": "wèi le",
+    "definition": "～のために"
+  },
+  {
+    "id": 529,
+    "level": 3,
+    "hanzi": "为什么",
+    "pinyin": "wèi shén me",
+    "definition": "なぜ、どうして"
+  },
+  {
+    "id": 530,
+    "level": 3,
+    "hanzi": "位",
+    "pinyin": "wèi",
+    "definition": "（量詞）～名、～方（敬意を込めて）"
+  },
+  {
+    "id": 531,
+    "level": 3,
+    "hanzi": "文化",
+    "pinyin": "wén huà",
+    "definition": "文化"
+  },
+  {
+    "id": 532,
+    "level": 3,
+    "hanzi": "西",
+    "pinyin": "xī",
+    "definition": "西"
+  },
+  {
+    "id": 533,
+    "level": 3,
+    "hanzi": "习惯",
+    "pinyin": "xí guàn",
+    "definition": "習慣；慣れる"
+  },
+  {
+    "id": 534,
+    "level": 3,
+    "hanzi": "洗手间",
+    "pinyin": "xǐ shǒu jiān",
+    "definition": "トイレ、化粧室"
+  },
+  {
+    "id": 535,
+    "level": 3,
+    "hanzi": "洗澡",
+    "pinyin": "xǐ zǎo",
+    "definition": "入浴する、シャワーを浴びる"
+  },
+  {
+    "id": 536,
+    "level": 3,
+    "hanzi": "夏",
+    "pinyin": "xià",
+    "definition": "夏"
+  },
+  {
+    "id": 537,
+    "level": 3,
+    "hanzi": "先",
+    "pinyin": "xiān",
+    "definition": "先に、まず"
+  },
+  {
+    "id": 538,
+    "level": 3,
+    "hanzi": "香蕉",
+    "pinyin": "xiāng jiāo",
+    "definition": "バナナ"
+  },
+  {
+    "id": 539,
+    "level": 3,
+    "hanzi": "相同",
+    "pinyin": "xiāng tóng",
+    "definition": "同一である、同じだ"
+  },
+  {
+    "id": 540,
+    "level": 3,
+    "hanzi": "相信",
+    "pinyin": "xiāng xìn",
+    "definition": "信じる"
+  },
+  {
+    "id": 541,
+    "level": 3,
+    "hanzi": "像",
+    "pinyin": "xiàng",
+    "definition": "似ている；～のようだ"
+  },
+  {
+    "id": 542,
+    "level": 3,
+    "hanzi": "小心",
+    "pinyin": "xiǎo xīn",
+    "definition": "気をつける、注意する"
+  },
+  {
+    "id": 543,
+    "level": 3,
+    "hanzi": "校长",
+    "pinyin": "xiào zhǎng",
+    "definition": "校長、学長"
+  },
+  {
+    "id": 544,
+    "level": 3,
+    "hanzi": "鞋",
+    "pinyin": "xié",
+    "definition": "靴"
+  },
+  {
+    "id": 545,
+    "level": 3,
+    "hanzi": "新闻",
+    "pinyin": "xīn wén",
+    "definition": "ニュース"
+  },
+  {
+    "id": 546,
+    "level": 3,
+    "hanzi": "新鲜",
+    "pinyin": "xīn xiān",
+    "definition": "新鮮だ"
+  },
+  {
+    "id": 547,
+    "level": 3,
+    "hanzi": "信",
+    "pinyin": "xìn",
+    "definition": "手紙；信じる"
+  },
+  {
+    "id": 548,
+    "level": 3,
+    "hanzi": "行李箱",
+    "pinyin": "xíng li xiāng",
+    "definition": "スーツケース"
+  },
+  {
+    "id": 549,
+    "level": 3,
+    "hanzi": "兴趣",
+    "pinyin": "xìng qù",
+    "definition": "興味"
+  },
+  {
+    "id": 550,
+    "level": 3,
+    "hanzi": "熊猫",
+    "pinyin": "xióng māo",
+    "definition": "パンダ"
+  },
+  {
+    "id": 551,
+    "level": 3,
+    "hanzi": "需要",
+    "pinyin": "xū yào",
+    "definition": "必要とする；需要"
+  },
+  {
+    "id": 552,
+    "level": 3,
+    "hanzi": "选择",
+    "pinyin": "xuǎn zé",
+    "definition": "選ぶ；選択"
+  },
+  {
+    "id": 553,
+    "level": 3,
+    "hanzi": "眼镜",
+    "pinyin": "yǎn jìng",
+    "definition": "眼鏡"
+  },
+  {
+    "id": 554,
+    "level": 3,
+    "hanzi": "要求",
+    "pinyin": "yāo qiú",
+    "definition": "要求する；要求"
+  },
+  {
+    "id": 555,
+    "level": 3,
+    "hanzi": "爷爷",
+    "pinyin": "yé ye",
+    "definition": "おじいさん（父方の祖父）"
+  },
+  {
+    "id": 556,
+    "level": 3,
+    "hanzi": "一定",
+    "pinyin": "yī dìng",
+    "definition": "きっと、必ず"
+  },
+  {
+    "id": 557,
+    "level": 3,
+    "hanzi": "一共",
+    "pinyin": "yī gòng",
+    "definition": "全部で、合わせて"
+  },
+  {
+    "id": 558,
+    "level": 3,
+    "hanzi": "一会儿",
+    "pinyin": "yī huìr",
+    "definition": "しばらく、ちょっとの間"
+  },
+  {
+    "id": 559,
+    "level": 3,
+    "hanzi": "一样",
+    "pinyin": "yī yàng",
+    "definition": "同じだ"
+  },
+  {
+    "id": 560,
+    "level": 3,
+    "hanzi": "以后",
+    "pinyin": "yǐ hòu",
+    "definition": "以後、～の後"
+  },
+  {
+    "id": 561,
+    "level": 3,
+    "hanzi": "以前",
+    "pinyin": "yǐ qián",
+    "definition": "以前、～の前"
+  },
+  {
+    "id": 562,
+    "level": 3,
+    "hanzi": "以为",
+    "pinyin": "yǐ wéi",
+    "definition": "～と思い込む（事実と異なる場合に多い）"
+  },
+  {
+    "id": 563,
+    "level": 3,
+    "hanzi": "一般",
+    "pinyin": "yī bān",
+    "definition": "一般的だ、普通だ"
+  },
+  {
+    "id": 564,
+    "level": 3,
+    "hanzi": "一边",
+    "pinyin": "yī biān",
+    "definition": "～しながら～する；片側"
+  },
+  {
+    "id": 565,
+    "level": 3,
+    "hanzi": "一直",
+    "pinyin": "yī zhí",
+    "definition": "ずっと；まっすぐ"
+  },
+  {
+    "id": 566,
+    "level": 3,
+    "hanzi": "音乐",
+    "pinyin": "yīn yuè",
+    "definition": "音楽"
+  },
+  {
+    "id": 567,
+    "level": 3,
+    "hanzi": "银行",
+    "pinyin": "yín háng",
+    "definition": "銀行"
+  },
+  {
+    "id": 568,
+    "level": 3,
+    "hanzi": "应该",
+    "pinyin": "yīng gāi",
+    "definition": "～すべきだ、～のはずだ"
+  },
+  {
+    "id": 569,
+    "level": 3,
+    "hanzi": "影响",
+    "pinyin": "yǐng xiǎng",
+    "definition": "影響；影響する"
+  },
+  {
+    "id": 570,
+    "level": 3,
+    "hanzi": "用",
+    "pinyin": "yòng",
+    "definition": "使う、用いる"
+  },
+  {
+    "id": 571,
+    "level": 3,
+    "hanzi": "游戏",
+    "pinyin": "yóu xì",
+    "definition": "ゲーム、遊び"
+  },
+  {
+    "id": 572,
+    "level": 3,
+    "hanzi": "有名",
+    "pinyin": "yǒu míng",
+    "definition": "有名だ"
+  },
+  {
+    "id": 573,
+    "level": 3,
+    "hanzi": "又",
+    "pinyin": "yòu",
+    "definition": "また、再び"
+  },
+  {
+    "id": 574,
+    "level": 3,
+    "hanzi": "遇到",
+    "pinyin": "yù dào",
+    "definition": "出会う、出くわす"
+  },
+  {
+    "id": 575,
+    "level": 3,
+    "hanzi": "愿意",
+    "pinyin": "yuàn yì",
+    "definition": "～したいと願う、進んで～する"
+  },
+  {
+    "id": 576,
+    "level": 3,
+    "hanzi": "越",
+    "pinyin": "yuè",
+    "definition": "～すればするほど（越～越～）"
+  },
+  {
+    "id": 577,
+    "level": 3,
+    "hanzi": "月亮",
+    "pinyin": "yuè liang",
+    "definition": "月"
+  },
+  {
+    "id": 578,
+    "level": 3,
+    "hanzi": "云",
+    "pinyin": "yún",
+    "definition": "雲"
+  },
+  {
+    "id": 579,
+    "level": 3,
+    "hanzi": "站",
+    "pinyin": "zhàn",
+    "definition": "立つ；駅、停留所"
+  },
+  {
+    "id": 580,
+    "level": 3,
+    "hanzi": "着急",
+    "pinyin": "zháo jí",
+    "definition": "焦る、気をもむ"
+  },
+  {
+    "id": 581,
+    "level": 3,
+    "hanzi": "照顾",
+    "pinyin": "zhào gu",
+    "definition": "世話をする、面倒を見る"
+  },
+  {
+    "id": 582,
+    "level": 3,
+    "hanzi": "照片",
+    "pinyin": "zhào piàn",
+    "definition": "写真"
+  },
+  {
+    "id": 583,
+    "level": 3,
+    "hanzi": "照相机",
+    "pinyin": "zhào xiàng jī",
+    "definition": "カメラ"
+  },
+  {
+    "id": 584,
+    "level": 3,
+    "hanzi": "只",
+    "pinyin": "zhī",
+    "definition": "（量詞）～匹、～羽；片方の"
+  },
+  {
+    "id": 585,
+    "level": 3,
+    "hanzi": "只",
+    "pinyin": "zhǐ",
+    "definition": "ただ～だけ"
+  },
+  {
+    "id": 586,
+    "level": 3,
+    "hanzi": "终于",
+    "pinyin": "zhōng yú",
+    "definition": "ついに、とうとう"
+  },
+  {
+    "id": 587,
+    "level": 3,
+    "hanzi": "中间",
+    "pinyin": "zhōng jiān",
+    "definition": "中間、真ん中"
+  },
+  {
+    "id": 588,
+    "level": 3,
+    "hanzi": "种",
+    "pinyin": "zhǒng",
+    "definition": "（量詞）～種類"
+  },
+  {
+    "id": 589,
+    "level": 3,
+    "hanzi": "重要",
+    "pinyin": "zhòng yào",
+    "definition": "重要だ"
+  },
+  {
+    "id": 590,
+    "level": 3,
+    "hanzi": "周末",
+    "pinyin": "zhōu mò",
+    "definition": "週末"
+  },
+  {
+    "id": 591,
+    "level": 3,
+    "hanzi": "主要",
+    "pinyin": "zhǔ yào",
+    "definition": "主要な、主な"
+  },
+  {
+    "id": 592,
+    "level": 3,
+    "hanzi": "祝",
+    "pinyin": "zhù",
+    "definition": "祈る、願う"
+  },
+  {
+    "id": 593,
+    "level": 3,
+    "hanzi": "注意",
+    "pinyin": "zhù yì",
+    "definition": "注意する、気をつける"
+  },
+  {
+    "id": 594,
+    "level": 3,
+    "hanzi": "字典",
+    "pinyin": "zì diǎn",
+    "definition": "字典、辞書"
+  },
+  {
+    "id": 595,
+    "level": 3,
+    "hanzi": "自己",
+    "pinyin": "zì jǐ",
+    "definition": "自分、自身"
+  },
+  {
+    "id": 596,
+    "level": 3,
+    "hanzi": "总是",
+    "pinyin": "zǒng shì",
+    "definition": "いつも"
+  },
+  {
+    "id": 597,
+    "level": 3,
+    "hanzi": "最近",
+    "pinyin": "zuì jìn",
+    "definition": "最近"
+  },
+  {
+    "id": 598,
+    "level": 3,
+    "hanzi": "作业",
+    "pinyin": "zuò yè",
+    "definition": "宿題"
+  },
+  {
+    "id": 599,
+    "level": 3,
+    "hanzi": "作用",
+    "pinyin": "zuò yòng",
+    "definition": "作用、働き、役割"
+  },
+  {
+    "id": 600,
+    "level": 4,
+    "hanzi": "爱情",
+    "pinyin": "ài qíng",
+    "definition": "（男女間の）愛情、恋愛"
+  },
+  {
+    "id": 601,
+    "level": 4,
+    "hanzi": "安排",
+    "pinyin": "ān pái",
+    "definition": "手配する、段取りをつける"
+  },
+  {
+    "id": 602,
+    "level": 4,
+    "hanzi": "安全",
+    "pinyin": "ān quán",
+    "definition": "安全だ；安全"
+  },
+  {
+    "id": 603,
+    "level": 4,
+    "hanzi": "暗",
+    "pinyin": "àn",
+    "definition": "暗い"
+  },
+  {
+    "id": 604,
+    "level": 4,
+    "hanzi": "按时",
+    "pinyin": "àn shí",
+    "definition": "時間どおりに、期限どおりに"
+  },
+  {
+    "id": 605,
+    "level": 4,
+    "hanzi": "按照",
+    "pinyin": "àn zhào",
+    "definition": "～に基づいて、～に従って"
+  },
+  {
+    "id": 606,
+    "level": 4,
+    "hanzi": "包括",
+    "pinyin": "bāo kuò",
+    "definition": "含む、包括する"
+  },
+  {
+    "id": 607,
+    "level": 4,
+    "hanzi": "保护",
+    "pinyin": "bǎo hù",
+    "definition": "保護する、守る"
+  },
+  {
+    "id": 608,
+    "level": 4,
+    "hanzi": "保证",
+    "pinyin": "bǎo zhèng",
+    "definition": "保証する、請け合う"
+  },
+  {
+    "id": 609,
+    "level": 4,
+    "hanzi": "抱",
+    "pinyin": "bào",
+    "definition": "抱く、抱える"
+  },
+  {
+    "id": 610,
+    "level": 4,
+    "hanzi": "抱歉",
+    "pinyin": "bào qiàn",
+    "definition": "申し訳なく思う、すみません"
+  },
+  {
+    "id": 611,
+    "level": 4,
+    "hanzi": "报道",
+    "pinyin": "bào dào",
+    "definition": "報道する；報道"
+  },
+  {
+    "id": 612,
+    "level": 4,
+    "hanzi": "报名",
+    "pinyin": "bào míng",
+    "definition": "申し込む、エントリーする"
+  },
+  {
+    "id": 613,
+    "level": 4,
+    "hanzi": "倍",
+    "pinyin": "bèi",
+    "definition": "～倍"
+  },
+  {
+    "id": 614,
+    "level": 4,
+    "hanzi": "本来",
+    "pinyin": "běn lái",
+    "definition": "本来、もともと"
+  },
+  {
+    "id": 615,
+    "level": 4,
+    "hanzi": "笨",
+    "pinyin": "bèn",
+    "definition": "愚かだ、不器用だ"
+  },
+  {
+    "id": 616,
+    "level": 4,
+    "hanzi": "笔记本",
+    "pinyin": "bǐ jì běn",
+    "definition": "ノート；ノートパソコン"
+  },
+  {
+    "id": 617,
+    "level": 4,
+    "hanzi": "毕业",
+    "pinyin": "bì yè",
+    "definition": "卒業する"
+  },
+  {
+    "id": 618,
+    "level": 4,
+    "hanzi": "遍",
+    "pinyin": "biàn",
+    "definition": "（量詞）～回、～遍（始めから終わりまで通して）"
+  },
+  {
+    "id": 619,
+    "level": 4,
+    "hanzi": "标准",
+    "pinyin": "biāo zhǔn",
+    "definition": "標準、基準；標準的だ"
+  },
+  {
+    "id": 620,
+    "level": 4,
+    "hanzi": "表达",
+    "pinyin": "biǎo dá",
+    "definition": "（考え・気持ちを）表現する、伝える"
+  },
+  {
+    "id": 621,
+    "level": 4,
+    "hanzi": "表格",
+    "pinyin": "biǎo gé",
+    "definition": "表、書式、用紙"
+  },
+  {
+    "id": 622,
+    "level": 4,
+    "hanzi": "表扬",
+    "pinyin": "biǎo yáng",
+    "definition": "褒める、表彰する"
+  },
+  {
+    "id": 623,
+    "level": 4,
+    "hanzi": "饼干",
+    "pinyin": "bǐng gān",
+    "definition": "ビスケット、クッキー"
+  },
+  {
+    "id": 624,
+    "level": 4,
+    "hanzi": "并且",
+    "pinyin": "bìng qiě",
+    "definition": "かつ、しかも"
+  },
+  {
+    "id": 625,
+    "level": 4,
+    "hanzi": "博士",
+    "pinyin": "bó shì",
+    "definition": "博士"
+  },
+  {
+    "id": 626,
+    "level": 4,
+    "hanzi": "不但",
+    "pinyin": "bù dàn",
+    "definition": "～ばかりでなく"
+  },
+  {
+    "id": 627,
+    "level": 4,
+    "hanzi": "不过",
+    "pinyin": "bù guò",
+    "definition": "ただし、でも；ただ～にすぎない"
+  },
+  {
+    "id": 628,
+    "level": 4,
+    "hanzi": "不得不",
+    "pinyin": "bù dé bù",
+    "definition": "～せざるを得ない"
+  },
+  {
+    "id": 629,
+    "level": 4,
+    "hanzi": "不管",
+    "pinyin": "bù guǎn",
+    "definition": "～にかかわらず、たとえ～でも"
+  },
+  {
+    "id": 630,
+    "level": 4,
+    "hanzi": "不仅",
+    "pinyin": "bù jǐn",
+    "definition": "～だけでなく"
+  },
+  {
+    "id": 631,
+    "level": 4,
+    "hanzi": "部分",
+    "pinyin": "bù fèn",
+    "definition": "部分"
+  },
+  {
+    "id": 632,
+    "level": 4,
+    "hanzi": "擦",
+    "pinyin": "cā",
+    "definition": "拭く、こする"
+  },
+  {
+    "id": 633,
+    "level": 4,
+    "hanzi": "猜",
+    "pinyin": "cāi",
+    "definition": "推測する、当てる"
+  },
+  {
+    "id": 634,
+    "level": 4,
+    "hanzi": "材料",
+    "pinyin": "cái liào",
+    "definition": "材料；資料"
+  },
+  {
+    "id": 635,
+    "level": 4,
+    "hanzi": "参观",
+    "pinyin": "cān guān",
+    "definition": "見学する、参観する"
+  },
+  {
+    "id": 636,
+    "level": 4,
+    "hanzi": "差不多",
+    "pinyin": "chà bu duō",
+    "definition": "ほとんど同じだ；だいたい"
+  },
+  {
+    "id": 637,
+    "level": 4,
+    "hanzi": "长城",
+    "pinyin": "Cháng chéng",
+    "definition": "万里の長城"
+  },
+  {
+    "id": 638,
+    "level": 4,
+    "hanzi": "长江",
+    "pinyin": "Cháng Jiāng",
+    "definition": "長江（揚子江）"
+  },
+  {
+    "id": 639,
+    "level": 4,
+    "hanzi": "尝",
+    "pinyin": "cháng",
+    "definition": "味わう、味見する"
+  },
+  {
+    "id": 640,
+    "level": 4,
+    "hanzi": "场",
+    "pinyin": "chǎng",
+    "definition": "（量詞）～回（試合・上演など）；場所"
+  },
+  {
+    "id": 641,
+    "level": 4,
+    "hanzi": "超过",
+    "pinyin": "chāo guò",
+    "definition": "超える、上回る"
+  },
+  {
+    "id": 642,
+    "level": 4,
+    "hanzi": "吵",
+    "pinyin": "chǎo",
+    "definition": "騒がしい；口げんかする"
+  },
+  {
+    "id": 643,
+    "level": 4,
+    "hanzi": "乘坐",
+    "pinyin": "chéng zuò",
+    "definition": "（乗り物に）乗る"
+  },
+  {
+    "id": 644,
+    "level": 4,
+    "hanzi": "成功",
+    "pinyin": "chéng gōng",
+    "definition": "成功する；成功"
+  },
+  {
+    "id": 645,
+    "level": 4,
+    "hanzi": "成熟",
+    "pinyin": "chéng shú",
+    "definition": "成熟する、熟す"
+  },
+  {
+    "id": 646,
+    "level": 4,
+    "hanzi": "成为",
+    "pinyin": "chéng wéi",
+    "definition": "～になる"
+  },
+  {
+    "id": 647,
+    "level": 4,
+    "hanzi": "诚实",
+    "pinyin": "chéng shí",
+    "definition": "誠実だ、正直だ"
+  },
+  {
+    "id": 648,
+    "level": 4,
+    "hanzi": "吃惊",
+    "pinyin": "chī jīng",
+    "definition": "驚く、びっくりする"
+  },
+  {
+    "id": 649,
+    "level": 4,
+    "hanzi": "重新",
+    "pinyin": "chóng xīn",
+    "definition": "もう一度、改めて"
+  },
+  {
+    "id": 650,
+    "level": 4,
+    "hanzi": "抽烟",
+    "pinyin": "chōu yān",
+    "definition": "タバコを吸う"
+  },
+  {
+    "id": 651,
+    "level": 4,
+    "hanzi": "出差",
+    "pinyin": "chū chāi",
+    "definition": "出張する"
+  },
+  {
+    "id": 652,
+    "level": 4,
+    "hanzi": "出发",
+    "pinyin": "chū fā",
+    "definition": "出発する"
+  },
+  {
+    "id": 653,
+    "level": 4,
+    "hanzi": "出生",
+    "pinyin": "chū shēng",
+    "definition": "生まれる"
+  },
+  {
+    "id": 654,
+    "level": 4,
+    "hanzi": "传真",
+    "pinyin": "chuán zhēn",
+    "definition": "ファックス"
+  },
+  {
+    "id": 655,
+    "level": 4,
+    "hanzi": "窗户",
+    "pinyin": "chuāng hu",
+    "definition": "窓"
+  },
+  {
+    "id": 656,
+    "level": 4,
+    "hanzi": "词典",
+    "pinyin": "cí diǎn",
+    "definition": "辞書、辞典"
+  },
+  {
+    "id": 657,
+    "level": 4,
+    "hanzi": "从来",
+    "pinyin": "cóng lái",
+    "definition": "これまで、今まで（多く否定と共に）"
+  },
+  {
+    "id": 658,
+    "level": 4,
+    "hanzi": "粗心",
+    "pinyin": "cū xīn",
+    "definition": "不注意だ、そそっかしい"
+  },
+  {
+    "id": 659,
+    "level": 4,
+    "hanzi": "答案",
+    "pinyin": "dá àn",
+    "definition": "答え、解答"
+  },
+  {
+    "id": 660,
+    "level": 4,
+    "hanzi": "打扮",
+    "pinyin": "dǎ ban",
+    "definition": "着飾る、装う"
+  },
+  {
+    "id": 661,
+    "level": 4,
+    "hanzi": "打扰",
+    "pinyin": "dǎ rǎo",
+    "definition": "邪魔をする"
+  },
+  {
+    "id": 662,
+    "level": 4,
+    "hanzi": "打印",
+    "pinyin": "dǎ yìn",
+    "definition": "印刷する、プリントアウトする"
+  },
+  {
+    "id": 663,
+    "level": 4,
+    "hanzi": "打折",
+    "pinyin": "dǎ zhé",
+    "definition": "割引する"
+  },
+  {
+    "id": 664,
+    "level": 4,
+    "hanzi": "打针",
+    "pinyin": "dǎ zhēn",
+    "definition": "注射する"
+  },
+  {
+    "id": 665,
+    "level": 4,
+    "hanzi": "大概",
+    "pinyin": "dà gài",
+    "definition": "たぶん、おおよそ"
+  },
+  {
+    "id": 666,
+    "level": 4,
+    "hanzi": "大使馆",
+    "pinyin": "dà shǐ guǎn",
+    "definition": "大使館"
+  },
+  {
+    "id": 667,
+    "level": 4,
+    "hanzi": "大约",
+    "pinyin": "dà yuē",
+    "definition": "約、およそ"
+  },
+  {
+    "id": 668,
+    "level": 4,
+    "hanzi": "戴",
+    "pinyin": "dài",
+    "definition": "（眼鏡・帽子などを）身につける"
+  },
+  {
+    "id": 669,
+    "level": 4,
+    "hanzi": "代表",
+    "pinyin": "dài biǎo",
+    "definition": "代表；代表する"
+  },
+  {
+    "id": 670,
+    "level": 4,
+    "hanzi": "代替",
+    "pinyin": "dài tì",
+    "definition": "代わりをする、取って代わる"
+  },
+  {
+    "id": 671,
+    "level": 4,
+    "hanzi": "大夫",
+    "pinyin": "dài fu",
+    "definition": "医者（口語的な呼び方）"
+  },
+  {
+    "id": 672,
+    "level": 4,
+    "hanzi": "当",
+    "pinyin": "dāng",
+    "definition": "～になる、～を務める"
+  },
+  {
+    "id": 673,
+    "level": 4,
+    "hanzi": "当地",
+    "pinyin": "dāng dì",
+    "definition": "現地、地元"
+  },
+  {
+    "id": 674,
+    "level": 4,
+    "hanzi": "当时",
+    "pinyin": "dāng shí",
+    "definition": "当時、その時"
+  },
+  {
+    "id": 675,
+    "level": 4,
+    "hanzi": "刀",
+    "pinyin": "dāo",
+    "definition": "刃物、ナイフ"
+  },
+  {
+    "id": 676,
+    "level": 4,
+    "hanzi": "导游",
+    "pinyin": "dǎo yóu",
+    "definition": "ガイド、観光案内人"
+  },
+  {
+    "id": 677,
+    "level": 4,
+    "hanzi": "到处",
+    "pinyin": "dào chù",
+    "definition": "至る所、あちこち"
+  },
+  {
+    "id": 678,
+    "level": 4,
+    "hanzi": "到底",
+    "pinyin": "dào dǐ",
+    "definition": "いったい；ついに"
+  },
+  {
+    "id": 679,
+    "level": 4,
+    "hanzi": "道歉",
+    "pinyin": "dào qiàn",
+    "definition": "謝る、謝罪する"
+  },
+  {
+    "id": 680,
+    "level": 4,
+    "hanzi": "得意",
+    "pinyin": "dé yì",
+    "definition": "得意になる、得意げだ"
+  },
+  {
+    "id": 681,
+    "level": 4,
+    "hanzi": "等",
+    "pinyin": "děng",
+    "definition": "待つ"
+  },
+  {
+    "id": 682,
+    "level": 4,
+    "hanzi": "等",
+    "pinyin": "děng",
+    "definition": "など、等"
+  },
+  {
+    "id": 683,
+    "level": 4,
+    "hanzi": "底",
+    "pinyin": "dǐ",
+    "definition": "底；末（月末・年末など）"
+  },
+  {
+    "id": 684,
+    "level": 4,
+    "hanzi": "地球",
+    "pinyin": "dì qiú",
+    "definition": "地球"
+  },
+  {
+    "id": 685,
+    "level": 4,
+    "hanzi": "地址",
+    "pinyin": "dì zhǐ",
+    "definition": "住所、アドレス"
+  },
+  {
+    "id": 686,
+    "level": 4,
+    "hanzi": "掉",
+    "pinyin": "diào",
+    "definition": "落ちる、落とす"
+  },
+  {
+    "id": 687,
+    "level": 4,
+    "hanzi": "调查",
+    "pinyin": "diào chá",
+    "definition": "調査する；調査"
+  },
+  {
+    "id": 688,
+    "level": 4,
+    "hanzi": "丢",
+    "pinyin": "diū",
+    "definition": "なくす、紛失する"
+  },
+  {
+    "id": 689,
+    "level": 4,
+    "hanzi": "动作",
+    "pinyin": "dòng zuò",
+    "definition": "動作"
+  },
+  {
+    "id": 690,
+    "level": 4,
+    "hanzi": "堵车",
+    "pinyin": "dǔ chē",
+    "definition": "渋滞する；交通渋滞"
+  },
+  {
+    "id": 691,
+    "level": 4,
+    "hanzi": "肚子",
+    "pinyin": "dù zi",
+    "definition": "おなか"
+  },
+  {
+    "id": 692,
+    "level": 4,
+    "hanzi": "断",
+    "pinyin": "duàn",
+    "definition": "切る、断つ；切れる"
+  },
+  {
+    "id": 693,
+    "level": 4,
+    "hanzi": "对",
+    "pinyin": "duì",
+    "definition": "正しい、合っている"
+  },
+  {
+    "id": 694,
+    "level": 4,
+    "hanzi": "对",
+    "pinyin": "duì",
+    "definition": "～に対して、～に向かって"
+  },
+  {
+    "id": 695,
+    "level": 4,
+    "hanzi": "对话",
+    "pinyin": "duì huà",
+    "definition": "対話、会話"
+  },
+  {
+    "id": 696,
+    "level": 4,
+    "hanzi": "对面",
+    "pinyin": "duì miàn",
+    "definition": "向かい側、正面"
+  },
+  {
+    "id": 697,
+    "level": 4,
+    "hanzi": "顿",
+    "pinyin": "dùn",
+    "definition": "（量詞）～回（食事・叱責など）"
+  },
+  {
+    "id": 698,
+    "level": 4,
+    "hanzi": "朵",
+    "pinyin": "duǒ",
+    "definition": "（量詞）～輪（花）、～片（雲）"
+  },
+  {
+    "id": 699,
+    "level": 4,
+    "hanzi": "而",
+    "pinyin": "ér",
+    "definition": "そして；しかし（文語的な接続詞）"
+  },
+  {
+    "id": 700,
+    "level": 4,
+    "hanzi": "儿童",
+    "pinyin": "ér tóng",
+    "definition": "児童、子供"
+  },
+  {
+    "id": 701,
+    "level": 4,
+    "hanzi": "发",
+    "pinyin": "fā",
+    "definition": "送る、発送する；発生する"
+  },
+  {
+    "id": 702,
+    "level": 4,
+    "hanzi": "发生",
+    "pinyin": "fā shēng",
+    "definition": "発生する、起こる"
+  },
+  {
+    "id": 703,
+    "level": 4,
+    "hanzi": "发展",
+    "pinyin": "fā zhǎn",
+    "definition": "発展する；発展"
+  },
+  {
+    "id": 704,
+    "level": 4,
+    "hanzi": "法律",
+    "pinyin": "fǎ lǜ",
+    "definition": "法律"
+  },
+  {
+    "id": 705,
+    "level": 4,
+    "hanzi": "翻译",
+    "pinyin": "fān yì",
+    "definition": "翻訳する、通訳する；翻訳者"
+  },
+  {
+    "id": 706,
+    "level": 4,
+    "hanzi": "烦恼",
+    "pinyin": "fán nǎo",
+    "definition": "悩む；悩み"
+  },
+  {
+    "id": 707,
+    "level": 4,
+    "hanzi": "反对",
+    "pinyin": "fǎn duì",
+    "definition": "反対する"
+  },
+  {
+    "id": 708,
+    "level": 4,
+    "hanzi": "反映",
+    "pinyin": "fǎn yìng",
+    "definition": "反映する"
+  },
+  {
+    "id": 709,
+    "level": 4,
+    "hanzi": "范围",
+    "pinyin": "fàn wéi",
+    "definition": "範囲"
+  },
+  {
+    "id": 710,
+    "level": 4,
+    "hanzi": "方法",
+    "pinyin": "fāng fǎ",
+    "definition": "方法"
+  },
+  {
+    "id": 711,
+    "level": 4,
+    "hanzi": "方面",
+    "pinyin": "fāng miàn",
+    "definition": "方面、側面"
+  },
+  {
+    "id": 712,
+    "level": 4,
+    "hanzi": "方向",
+    "pinyin": "fāng xiàng",
+    "definition": "方向"
+  },
+  {
+    "id": 713,
+    "level": 4,
+    "hanzi": "访问",
+    "pinyin": "fǎng wèn",
+    "definition": "訪問する"
+  },
+  {
+    "id": 714,
+    "level": 4,
+    "hanzi": "放弃",
+    "pinyin": "fàng qì",
+    "definition": "放棄する、あきらめる"
+  },
+  {
+    "id": 715,
+    "level": 4,
+    "hanzi": "放暑假",
+    "pinyin": "fàng shǔ jià",
+    "definition": "夏休みになる"
+  },
+  {
+    "id": 716,
+    "level": 4,
+    "hanzi": "分之",
+    "pinyin": "fēn zhī",
+    "definition": "～分の～（分数を表す）"
+  },
+  {
+    "id": 717,
+    "level": 4,
+    "hanzi": "份",
+    "pinyin": "fèn",
+    "definition": "（量詞）～部、～人前、～セット"
+  },
+  {
+    "id": 718,
+    "level": 4,
+    "hanzi": "风景",
+    "pinyin": "fēng jǐng",
+    "definition": "風景、景色"
+  },
+  {
+    "id": 719,
+    "level": 4,
+    "hanzi": "丰富",
+    "pinyin": "fēng fù",
+    "definition": "豊富だ；豊かにする"
+  },
+  {
+    "id": 720,
+    "level": 4,
+    "hanzi": "否则",
+    "pinyin": "fǒu zé",
+    "definition": "さもなければ"
+  },
+  {
+    "id": 721,
+    "level": 4,
+    "hanzi": "符合",
+    "pinyin": "fú hé",
+    "definition": "合致する、符合する"
+  },
+  {
+    "id": 722,
+    "level": 4,
+    "hanzi": "富",
+    "pinyin": "fù",
+    "definition": "豊かだ、裕福だ"
+  },
+  {
+    "id": 723,
+    "level": 4,
+    "hanzi": "负责",
+    "pinyin": "fù zé",
+    "definition": "責任を負う、担当する"
+  },
+  {
+    "id": 724,
+    "level": 4,
+    "hanzi": "复印",
+    "pinyin": "fù yìn",
+    "definition": "コピーする"
+  },
+  {
+    "id": 725,
+    "level": 4,
+    "hanzi": "复杂",
+    "pinyin": "fù zá",
+    "definition": "複雑だ"
+  },
+  {
+    "id": 726,
+    "level": 4,
+    "hanzi": "父亲",
+    "pinyin": "fù qīn",
+    "definition": "父、父親"
+  },
+  {
+    "id": 727,
+    "level": 4,
+    "hanzi": "改变",
+    "pinyin": "gǎi biàn",
+    "definition": "変える、変わる"
+  },
+  {
+    "id": 728,
+    "level": 4,
+    "hanzi": "干杯",
+    "pinyin": "gān bēi",
+    "definition": "乾杯する"
+  },
+  {
+    "id": 729,
+    "level": 4,
+    "hanzi": "干燥",
+    "pinyin": "gān zào",
+    "definition": "乾燥している"
+  },
+  {
+    "id": 730,
+    "level": 4,
+    "hanzi": "感动",
+    "pinyin": "gǎn dòng",
+    "definition": "感動する、感動させる"
+  },
+  {
+    "id": 731,
+    "level": 4,
+    "hanzi": "感觉",
+    "pinyin": "gǎn jué",
+    "definition": "感じる；感覚"
+  },
+  {
+    "id": 732,
+    "level": 4,
+    "hanzi": "感情",
+    "pinyin": "gǎn qíng",
+    "definition": "感情；愛情"
+  },
+  {
+    "id": 733,
+    "level": 4,
+    "hanzi": "感谢",
+    "pinyin": "gǎn xiè",
+    "definition": "感謝する"
+  },
+  {
+    "id": 734,
+    "level": 4,
+    "hanzi": "干",
+    "pinyin": "gàn",
+    "definition": "する、やる"
+  },
+  {
+    "id": 735,
+    "level": 4,
+    "hanzi": "刚刚",
+    "pinyin": "gāng gang",
+    "definition": "たった今、ちょうど"
+  },
+  {
+    "id": 736,
+    "level": 4,
+    "hanzi": "高级",
+    "pinyin": "gāo jí",
+    "definition": "高級な、上級の"
+  },
+  {
+    "id": 737,
+    "level": 4,
+    "hanzi": "个子",
+    "pinyin": "gè zi",
+    "definition": "背丈、身長"
+  },
+  {
+    "id": 738,
+    "level": 4,
+    "hanzi": "各",
+    "pinyin": "gè",
+    "definition": "それぞれの、各～"
+  },
+  {
+    "id": 739,
+    "level": 4,
+    "hanzi": "公里",
+    "pinyin": "gōng lǐ",
+    "definition": "キロメートル"
+  },
+  {
+    "id": 740,
+    "level": 4,
+    "hanzi": "工具",
+    "pinyin": "gōng jù",
+    "definition": "道具、工具"
+  },
+  {
+    "id": 741,
+    "level": 4,
+    "hanzi": "工资",
+    "pinyin": "gōng zī",
+    "definition": "給料、賃金"
+  },
+  {
+    "id": 742,
+    "level": 4,
+    "hanzi": "共同",
+    "pinyin": "gòng tóng",
+    "definition": "共通の；共同で"
+  },
+  {
+    "id": 743,
+    "level": 4,
+    "hanzi": "够",
+    "pinyin": "gòu",
+    "definition": "十分だ、足りる"
+  },
+  {
+    "id": 744,
+    "level": 4,
+    "hanzi": "购物",
+    "pinyin": "gòu wù",
+    "definition": "買い物をする"
+  },
+  {
+    "id": 745,
+    "level": 4,
+    "hanzi": "孤单",
+    "pinyin": "gū dān",
+    "definition": "孤独だ、寂しい"
+  },
+  {
+    "id": 746,
+    "level": 4,
+    "hanzi": "估计",
+    "pinyin": "gū jì",
+    "definition": "見積もる、推測する"
+  },
+  {
+    "id": 747,
+    "level": 4,
+    "hanzi": "鼓励",
+    "pinyin": "gǔ lì",
+    "definition": "励ます、奨励する"
+  },
+  {
+    "id": 748,
+    "level": 4,
+    "hanzi": "鼓掌",
+    "pinyin": "gǔ zhǎng",
+    "definition": "拍手する"
+  },
+  {
+    "id": 749,
+    "level": 4,
+    "hanzi": "顾客",
+    "pinyin": "gù kè",
+    "definition": "顧客、客"
+  },
+  {
+    "id": 750,
+    "level": 4,
+    "hanzi": "故意",
+    "pinyin": "gù yì",
+    "definition": "わざと、故意に"
+  },
+  {
+    "id": 751,
+    "level": 4,
+    "hanzi": "挂",
+    "pinyin": "guà",
+    "definition": "掛ける、吊るす；（電話を）切る"
+  },
+  {
+    "id": 752,
+    "level": 4,
+    "hanzi": "关键",
+    "pinyin": "guān jiàn",
+    "definition": "鍵、要点、キーポイント"
+  },
+  {
+    "id": 753,
+    "level": 4,
+    "hanzi": "观众",
+    "pinyin": "guān zhòng",
+    "definition": "観衆、観客、視聴者"
+  },
+  {
+    "id": 754,
+    "level": 4,
+    "hanzi": "管理",
+    "pinyin": "guǎn lǐ",
+    "definition": "管理する"
+  },
+  {
+    "id": 755,
+    "level": 4,
+    "hanzi": "光",
+    "pinyin": "guāng",
+    "definition": "光；～だけ；何も残っていない"
+  },
+  {
+    "id": 756,
+    "level": 4,
+    "hanzi": "广播",
+    "pinyin": "guǎng bō",
+    "definition": "放送する；放送"
+  },
+  {
+    "id": 757,
+    "level": 4,
+    "hanzi": "广告",
+    "pinyin": "guǎng gào",
+    "definition": "広告、コマーシャル"
+  },
+  {
+    "id": 758,
+    "level": 4,
+    "hanzi": "逛",
+    "pinyin": "guàng",
+    "definition": "ぶらつく、見て回る"
+  },
+  {
+    "id": 759,
+    "level": 4,
+    "hanzi": "规定",
+    "pinyin": "guī dìng",
+    "definition": "規定する；規定"
+  },
+  {
+    "id": 760,
+    "level": 4,
+    "hanzi": "国际",
+    "pinyin": "guó jì",
+    "definition": "国際的な、国際"
+  },
+  {
+    "id": 761,
+    "level": 4,
+    "hanzi": "果然",
+    "pinyin": "guǒ rán",
+    "definition": "果たして、案の定"
+  },
+  {
+    "id": 762,
+    "level": 4,
+    "hanzi": "过",
+    "pinyin": "guò",
+    "definition": "過ごす；通る、渡る"
+  },
+  {
+    "id": 763,
+    "level": 4,
+    "hanzi": "过",
+    "pinyin": "guo",
+    "definition": "～したことがある（経験の助詞）"
+  },
+  {
+    "id": 764,
+    "level": 4,
+    "hanzi": "过程",
+    "pinyin": "guò chéng",
+    "definition": "過程、プロセス"
+  },
+  {
+    "id": 765,
+    "level": 4,
+    "hanzi": "海洋",
+    "pinyin": "hǎi yáng",
+    "definition": "海洋"
+  },
+  {
+    "id": 766,
+    "level": 4,
+    "hanzi": "害羞",
+    "pinyin": "hài xiū",
+    "definition": "恥ずかしがる、はにかむ"
+  },
+  {
+    "id": 767,
+    "level": 4,
+    "hanzi": "寒假",
+    "pinyin": "hán jià",
+    "definition": "冬休み"
+  },
+  {
+    "id": 768,
+    "level": 4,
+    "hanzi": "汗",
+    "pinyin": "hàn",
+    "definition": "汗"
+  },
+  {
+    "id": 769,
+    "level": 4,
+    "hanzi": "航班",
+    "pinyin": "háng bān",
+    "definition": "（飛行機の）便、フライト"
+  },
+  {
+    "id": 770,
+    "level": 4,
+    "hanzi": "好处",
+    "pinyin": "hǎo chu",
+    "definition": "利点、メリット"
+  },
+  {
+    "id": 771,
+    "level": 4,
+    "hanzi": "好像",
+    "pinyin": "hǎo xiàng",
+    "definition": "～のようだ、～みたいだ"
+  },
+  {
+    "id": 772,
+    "level": 4,
+    "hanzi": "号码",
+    "pinyin": "hào mǎ",
+    "definition": "番号"
+  },
+  {
+    "id": 773,
+    "level": 4,
+    "hanzi": "合格",
+    "pinyin": "hé gé",
+    "definition": "合格する、基準に合う"
+  },
+  {
+    "id": 774,
+    "level": 4,
+    "hanzi": "合适",
+    "pinyin": "hé shì",
+    "definition": "ちょうどよい、ふさわしい"
+  },
+  {
+    "id": 775,
+    "level": 4,
+    "hanzi": "盒子",
+    "pinyin": "hé zi",
+    "definition": "箱、ケース"
+  },
+  {
+    "id": 776,
+    "level": 4,
+    "hanzi": "猴子",
+    "pinyin": "hóu zi",
+    "definition": "猿"
+  },
+  {
+    "id": 777,
+    "level": 4,
+    "hanzi": "厚",
+    "pinyin": "hòu",
+    "definition": "厚い"
+  },
+  {
+    "id": 778,
+    "level": 4,
+    "hanzi": "后悔",
+    "pinyin": "hòu huǐ",
+    "definition": "後悔する"
+  },
+  {
+    "id": 779,
+    "level": 4,
+    "hanzi": "后来",
+    "pinyin": "hòu lái",
+    "definition": "その後、それから"
+  },
+  {
+    "id": 780,
+    "level": 4,
+    "hanzi": "忽然",
+    "pinyin": "hū rán",
+    "definition": "突然、ふと"
+  },
+  {
+    "id": 781,
+    "level": 4,
+    "hanzi": "互相",
+    "pinyin": "hù xiāng",
+    "definition": "互いに"
+  },
+  {
+    "id": 782,
+    "level": 4,
+    "hanzi": "护士",
+    "pinyin": "hù shi",
+    "definition": "看護師"
+  },
+  {
+    "id": 783,
+    "level": 4,
+    "hanzi": "怀疑",
+    "pinyin": "huái yí",
+    "definition": "疑う"
+  },
+  {
+    "id": 784,
+    "level": 4,
+    "hanzi": "回忆",
+    "pinyin": "huí yì",
+    "definition": "回想する；思い出"
+  },
+  {
+    "id": 785,
+    "level": 4,
+    "hanzi": "活动",
+    "pinyin": "huó dòng",
+    "definition": "活動；体を動かす"
+  },
+  {
+    "id": 786,
+    "level": 4,
+    "hanzi": "活泼",
+    "pinyin": "huó po",
+    "definition": "活発だ、生き生きしている"
+  },
+  {
+    "id": 787,
+    "level": 4,
+    "hanzi": "火",
+    "pinyin": "huǒ",
+    "definition": "火"
+  },
+  {
+    "id": 788,
+    "level": 4,
+    "hanzi": "获得",
+    "pinyin": "huò dé",
+    "definition": "獲得する、得る"
+  },
+  {
+    "id": 789,
+    "level": 4,
+    "hanzi": "基础",
+    "pinyin": "jī chǔ",
+    "definition": "基礎、土台"
+  },
+  {
+    "id": 790,
+    "level": 4,
+    "hanzi": "激动",
+    "pinyin": "jī dòng",
+    "definition": "感激する、興奮する"
+  },
+  {
+    "id": 791,
+    "level": 4,
+    "hanzi": "积极",
+    "pinyin": "jī jí",
+    "definition": "積極的だ"
+  },
+  {
+    "id": 792,
+    "level": 4,
+    "hanzi": "积累",
+    "pinyin": "jī lěi",
+    "definition": "蓄積する、積み重ねる"
+  },
+  {
+    "id": 793,
+    "level": 4,
+    "hanzi": "极其",
+    "pinyin": "jí qí",
+    "definition": "極めて"
+  },
+  {
+    "id": 794,
+    "level": 4,
+    "hanzi": "即使",
+    "pinyin": "jí shǐ",
+    "definition": "たとえ～でも"
+  },
+  {
+    "id": 795,
+    "level": 4,
+    "hanzi": "及时",
+    "pinyin": "jí shí",
+    "definition": "タイミングよく、すぐに"
+  },
+  {
+    "id": 796,
+    "level": 4,
+    "hanzi": "集合",
+    "pinyin": "jí hé",
+    "definition": "集合する、集まる"
+  },
+  {
+    "id": 797,
+    "level": 4,
+    "hanzi": "寄",
+    "pinyin": "jì",
+    "definition": "郵送する"
+  },
+  {
+    "id": 798,
+    "level": 4,
+    "hanzi": "继续",
+    "pinyin": "jì xù",
+    "definition": "継続する、続ける"
+  },
+  {
+    "id": 799,
+    "level": 4,
+    "hanzi": "记者",
+    "pinyin": "jì zhě",
+    "definition": "記者"
+  },
+  {
+    "id": 800,
+    "level": 4,
+    "hanzi": "计划",
+    "pinyin": "jì huà",
+    "definition": "計画；計画する"
+  },
+  {
+    "id": 801,
+    "level": 4,
+    "hanzi": "技术",
+    "pinyin": "jì shù",
+    "definition": "技術"
+  },
+  {
+    "id": 802,
+    "level": 4,
+    "hanzi": "既然",
+    "pinyin": "jì rán",
+    "definition": "～である以上、～したからには"
+  },
+  {
+    "id": 803,
+    "level": 4,
+    "hanzi": "家具",
+    "pinyin": "jiā jù",
+    "definition": "家具"
+  },
+  {
+    "id": 804,
+    "level": 4,
+    "hanzi": "加班",
+    "pinyin": "jiā bān",
+    "definition": "残業する"
+  },
+  {
+    "id": 805,
+    "level": 4,
+    "hanzi": "加油站",
+    "pinyin": "jiā yóu zhàn",
+    "definition": "ガソリンスタンド"
+  },
+  {
+    "id": 806,
+    "level": 4,
+    "hanzi": "假",
+    "pinyin": "jiǎ",
+    "definition": "偽の、うその"
+  },
+  {
+    "id": 807,
+    "level": 4,
+    "hanzi": "价格",
+    "pinyin": "jià gé",
+    "definition": "価格、値段"
+  },
+  {
+    "id": 808,
+    "level": 4,
+    "hanzi": "坚持",
+    "pinyin": "jiān chí",
+    "definition": "堅持する、やり通す"
+  },
+  {
+    "id": 809,
+    "level": 4,
+    "hanzi": "减肥",
+    "pinyin": "jiǎn féi",
+    "definition": "ダイエットする"
+  },
+  {
+    "id": 810,
+    "level": 4,
+    "hanzi": "减少",
+    "pinyin": "jiǎn shǎo",
+    "definition": "減少する、減らす"
+  },
+  {
+    "id": 811,
+    "level": 4,
+    "hanzi": "将来",
+    "pinyin": "jiāng lái",
+    "definition": "将来"
+  },
+  {
+    "id": 812,
+    "level": 4,
+    "hanzi": "奖金",
+    "pinyin": "jiǎng jīn",
+    "definition": "ボーナス、賞金"
+  },
+  {
+    "id": 813,
+    "level": 4,
+    "hanzi": "降低",
+    "pinyin": "jiàng dī",
+    "definition": "下げる、下がる"
+  },
+  {
+    "id": 814,
+    "level": 4,
+    "hanzi": "交",
+    "pinyin": "jiāo",
+    "definition": "手渡す、提出する；（友達を）作る"
+  },
+  {
+    "id": 815,
+    "level": 4,
+    "hanzi": "交流",
+    "pinyin": "jiāo liú",
+    "definition": "交流する"
+  },
+  {
+    "id": 816,
+    "level": 4,
+    "hanzi": "交通",
+    "pinyin": "jiāo tōng",
+    "definition": "交通"
+  },
+  {
+    "id": 817,
+    "level": 4,
+    "hanzi": "骄傲",
+    "pinyin": "jiāo ào",
+    "definition": "誇りに思う；傲慢だ"
+  },
+  {
+    "id": 818,
+    "level": 4,
+    "hanzi": "饺子",
+    "pinyin": "jiǎo zi",
+    "definition": "ギョーザ"
+  },
+  {
+    "id": 819,
+    "level": 4,
+    "hanzi": "教授",
+    "pinyin": "jiào shòu",
+    "definition": "教授"
+  },
+  {
+    "id": 820,
+    "level": 4,
+    "hanzi": "教育",
+    "pinyin": "jiào yù",
+    "definition": "教育；教育する"
+  },
+  {
+    "id": 821,
+    "level": 4,
+    "hanzi": "接受",
+    "pinyin": "jiē shòu",
+    "definition": "受け入れる、受け取る"
+  },
+  {
+    "id": 822,
+    "level": 4,
+    "hanzi": "节约",
+    "pinyin": "jié yuē",
+    "definition": "節約する"
+  },
+  {
+    "id": 823,
+    "level": 4,
+    "hanzi": "结果",
+    "pinyin": "jié guǒ",
+    "definition": "結果"
+  },
+  {
+    "id": 824,
+    "level": 4,
+    "hanzi": "解释",
+    "pinyin": "jiě shì",
+    "definition": "説明する、解釈する"
+  },
+  {
+    "id": 825,
+    "level": 4,
+    "hanzi": "紧张",
+    "pinyin": "jǐn zhāng",
+    "definition": "緊張している；（状況が）ひっ迫している"
+  },
+  {
+    "id": 826,
+    "level": 4,
+    "hanzi": "尽管",
+    "pinyin": "jǐn guǎn",
+    "definition": "～にもかかわらず；遠慮なく"
+  },
+  {
+    "id": 827,
+    "level": 4,
+    "hanzi": "进行",
+    "pinyin": "jìn xíng",
+    "definition": "行う、進める"
+  },
+  {
+    "id": 828,
+    "level": 4,
+    "hanzi": "禁止",
+    "pinyin": "jìn zhǐ",
+    "definition": "禁止する"
+  },
+  {
+    "id": 829,
+    "level": 4,
+    "hanzi": "精彩",
+    "pinyin": "jīng cǎi",
+    "definition": "素晴らしい、見事だ"
+  },
+  {
+    "id": 830,
+    "level": 4,
+    "hanzi": "精神",
+    "pinyin": "jīng shén",
+    "definition": "精神；元気だ"
+  },
+  {
+    "id": 831,
+    "level": 4,
+    "hanzi": "经济",
+    "pinyin": "jīng jì",
+    "definition": "経済"
+  },
+  {
+    "id": 832,
+    "level": 4,
+    "hanzi": "经历",
+    "pinyin": "jīng lì",
+    "definition": "経験する；経歴"
+  },
+  {
+    "id": 833,
+    "level": 4,
+    "hanzi": "经验",
+    "pinyin": "jīng yàn",
+    "definition": "経験、ノウハウ"
+  },
+  {
+    "id": 834,
+    "level": 4,
+    "hanzi": "京剧",
+    "pinyin": "Jīng jù",
+    "definition": "京劇"
+  },
+  {
+    "id": 835,
+    "level": 4,
+    "hanzi": "警察",
+    "pinyin": "jǐng chá",
+    "definition": "警察、警察官"
+  },
+  {
+    "id": 836,
+    "level": 4,
+    "hanzi": "竟然",
+    "pinyin": "jìng rán",
+    "definition": "意外にも、なんと"
+  },
+  {
+    "id": 837,
+    "level": 4,
+    "hanzi": "竞争",
+    "pinyin": "jìng zhēng",
+    "definition": "競争する；競争"
+  },
+  {
+    "id": 838,
+    "level": 4,
+    "hanzi": "镜子",
+    "pinyin": "jìng zi",
+    "definition": "鏡"
+  },
+  {
+    "id": 839,
+    "level": 4,
+    "hanzi": "究竟",
+    "pinyin": "jiū jìng",
+    "definition": "いったい、結局"
+  },
+  {
+    "id": 840,
+    "level": 4,
+    "hanzi": "举办",
+    "pinyin": "jǔ bàn",
+    "definition": "開催する、催す"
+  },
+  {
+    "id": 841,
+    "level": 4,
+    "hanzi": "拒绝",
+    "pinyin": "jù jué",
+    "definition": "拒絶する、断る"
+  },
+  {
+    "id": 842,
+    "level": 4,
+    "hanzi": "距离",
+    "pinyin": "jù lí",
+    "definition": "距離；隔たる"
+  },
+  {
+    "id": 843,
+    "level": 4,
+    "hanzi": "开玩笑",
+    "pinyin": "kāi wán xiào",
+    "definition": "冗談を言う、からかう"
+  },
+  {
+    "id": 844,
+    "level": 4,
+    "hanzi": "看法",
+    "pinyin": "kàn fǎ",
+    "definition": "見方、見解"
+  },
+  {
+    "id": 845,
+    "level": 4,
+    "hanzi": "考虑",
+    "pinyin": "kǎo lǜ",
+    "definition": "考慮する"
+  },
+  {
+    "id": 846,
+    "level": 4,
+    "hanzi": "棵",
+    "pinyin": "kē",
+    "definition": "（量詞）～本（木・草）"
+  },
+  {
+    "id": 847,
+    "level": 4,
+    "hanzi": "科学",
+    "pinyin": "kē xué",
+    "definition": "科学；科学的だ"
+  },
+  {
+    "id": 848,
+    "level": 4,
+    "hanzi": "咳嗽",
+    "pinyin": "ké sou",
+    "definition": "咳をする"
+  },
+  {
+    "id": 849,
+    "level": 4,
+    "hanzi": "可怜",
+    "pinyin": "kě lián",
+    "definition": "かわいそうだ"
+  },
+  {
+    "id": 850,
+    "level": 4,
+    "hanzi": "可是",
+    "pinyin": "kě shì",
+    "definition": "しかし、でも"
+  },
+  {
+    "id": 851,
+    "level": 4,
+    "hanzi": "可惜",
+    "pinyin": "kě xī",
+    "definition": "惜しい、残念だ"
+  },
+  {
+    "id": 852,
+    "level": 4,
+    "hanzi": "肯定",
+    "pinyin": "kěn dìng",
+    "definition": "きっと、間違いなく；肯定する"
+  },
+  {
+    "id": 853,
+    "level": 4,
+    "hanzi": "空气",
+    "pinyin": "kōng qì",
+    "definition": "空気"
+  },
+  {
+    "id": 854,
+    "level": 4,
+    "hanzi": "恐怕",
+    "pinyin": "kǒng pà",
+    "definition": "おそらく～だろう（よくないことの推測）"
+  },
+  {
+    "id": 855,
+    "level": 4,
+    "hanzi": "苦",
+    "pinyin": "kǔ",
+    "definition": "苦い；苦しい"
+  },
+  {
+    "id": 856,
+    "level": 4,
+    "hanzi": "宽",
+    "pinyin": "kuān",
+    "definition": "（幅が）広い"
+  },
+  {
+    "id": 857,
+    "level": 4,
+    "hanzi": "困",
+    "pinyin": "kùn",
+    "definition": "眠い"
+  },
+  {
+    "id": 858,
+    "level": 4,
+    "hanzi": "困难",
+    "pinyin": "kùn nan",
+    "definition": "困難だ；困難"
+  },
+  {
+    "id": 859,
+    "level": 4,
+    "hanzi": "扩大",
+    "pinyin": "kuò dà",
+    "definition": "拡大する"
+  },
+  {
+    "id": 860,
+    "level": 4,
+    "hanzi": "拉",
+    "pinyin": "lā",
+    "definition": "引く、引っ張る"
+  },
+  {
+    "id": 861,
+    "level": 4,
+    "hanzi": "垃圾桶",
+    "pinyin": "lā jī tǒng",
+    "definition": "ごみ箱"
+  },
+  {
+    "id": 862,
+    "level": 4,
+    "hanzi": "辣",
+    "pinyin": "là",
+    "definition": "辛い"
+  },
+  {
+    "id": 863,
+    "level": 4,
+    "hanzi": "来不及",
+    "pinyin": "lái bu jí",
+    "definition": "間に合わない"
+  },
+  {
+    "id": 864,
+    "level": 4,
+    "hanzi": "来得及",
+    "pinyin": "lái de jí",
+    "definition": "間に合う"
+  },
+  {
+    "id": 865,
+    "level": 4,
+    "hanzi": "懒",
+    "pinyin": "lǎn",
+    "definition": "怠惰だ、無精だ"
+  },
+  {
+    "id": 866,
+    "level": 4,
+    "hanzi": "浪费",
+    "pinyin": "làng fèi",
+    "definition": "浪費する、無駄にする"
+  },
+  {
+    "id": 867,
+    "level": 4,
+    "hanzi": "浪漫",
+    "pinyin": "làng màn",
+    "definition": "ロマンチックだ"
+  },
+  {
+    "id": 868,
+    "level": 4,
+    "hanzi": "老虎",
+    "pinyin": "lǎo hǔ",
+    "definition": "トラ"
+  },
+  {
+    "id": 869,
+    "level": 4,
+    "hanzi": "冷静",
+    "pinyin": "lěng jìng",
+    "definition": "冷静だ"
+  },
+  {
+    "id": 870,
+    "level": 4,
+    "hanzi": "礼貌",
+    "pinyin": "lǐ mào",
+    "definition": "礼儀；礼儀正しい"
+  },
+  {
+    "id": 871,
+    "level": 4,
+    "hanzi": "理发",
+    "pinyin": "lǐ fà",
+    "definition": "散髪する"
+  },
+  {
+    "id": 872,
+    "level": 4,
+    "hanzi": "理解",
+    "pinyin": "lǐ jiě",
+    "definition": "理解する"
+  },
+  {
+    "id": 873,
+    "level": 4,
+    "hanzi": "理想",
+    "pinyin": "lǐ xiǎng",
+    "definition": "理想"
+  },
+  {
+    "id": 874,
+    "level": 4,
+    "hanzi": "厉害",
+    "pinyin": "lì hai",
+    "definition": "すごい；ひどい、激しい"
+  },
+  {
+    "id": 875,
+    "level": 4,
+    "hanzi": "力气",
+    "pinyin": "lì qi",
+    "definition": "力、体力"
+  },
+  {
+    "id": 876,
+    "level": 4,
+    "hanzi": "例如",
+    "pinyin": "lì rú",
+    "definition": "例えば"
+  },
+  {
+    "id": 877,
+    "level": 4,
+    "hanzi": "俩",
+    "pinyin": "liǎ",
+    "definition": "2人、2つ"
+  },
+  {
+    "id": 878,
+    "level": 4,
+    "hanzi": "连",
+    "pinyin": "lián",
+    "definition": "～さえも（連～都/也）；つながる"
+  },
+  {
+    "id": 879,
+    "level": 4,
+    "hanzi": "联系",
+    "pinyin": "lián xì",
+    "definition": "連絡する；関係、つながり"
+  },
+  {
+    "id": 880,
+    "level": 4,
+    "hanzi": "凉快",
+    "pinyin": "liáng kuai",
+    "definition": "涼しい"
+  },
+  {
+    "id": 881,
+    "level": 4,
+    "hanzi": "亮",
+    "pinyin": "liàng",
+    "definition": "明るい"
+  },
+  {
+    "id": 882,
+    "level": 4,
+    "hanzi": "聊天",
+    "pinyin": "liáo tiān",
+    "definition": "おしゃべりする、雑談する"
+  },
+  {
+    "id": 883,
+    "level": 4,
+    "hanzi": "另外",
+    "pinyin": "lìng wài",
+    "definition": "ほかに、別に"
+  },
+  {
+    "id": 884,
+    "level": 4,
+    "hanzi": "留",
+    "pinyin": "liú",
+    "definition": "残る、とどまる；残す"
+  },
+  {
+    "id": 885,
+    "level": 4,
+    "hanzi": "留学",
+    "pinyin": "liú xué",
+    "definition": "留学する"
+  },
+  {
+    "id": 886,
+    "level": 4,
+    "hanzi": "流泪",
+    "pinyin": "liú lèi",
+    "definition": "涙を流す"
+  },
+  {
+    "id": 887,
+    "level": 4,
+    "hanzi": "流利",
+    "pinyin": "liú lì",
+    "definition": "流暢だ"
+  },
+  {
+    "id": 888,
+    "level": 4,
+    "hanzi": "流行",
+    "pinyin": "liú xíng",
+    "definition": "流行する"
+  },
+  {
+    "id": 889,
+    "level": 4,
+    "hanzi": "乱",
+    "pinyin": "luàn",
+    "definition": "乱れている、散らかっている"
+  },
+  {
+    "id": 890,
+    "level": 4,
+    "hanzi": "律师",
+    "pinyin": "lǜ shī",
+    "definition": "弁護士"
+  },
+  {
+    "id": 891,
+    "level": 4,
+    "hanzi": "麻烦",
+    "pinyin": "má fan",
+    "definition": "面倒だ；面倒をかける"
+  },
+  {
+    "id": 892,
+    "level": 4,
+    "hanzi": "马虎",
+    "pinyin": "mǎ hu",
+    "definition": "いいかげんだ、そそっかしい"
+  },
+  {
+    "id": 893,
+    "level": 4,
+    "hanzi": "满",
+    "pinyin": "mǎn",
+    "definition": "満ちている、いっぱいだ"
+  },
+  {
+    "id": 894,
+    "level": 4,
+    "hanzi": "毛巾",
+    "pinyin": "máo jīn",
+    "definition": "タオル"
+  },
+  {
+    "id": 895,
+    "level": 4,
+    "hanzi": "美丽",
+    "pinyin": "měi lì",
+    "definition": "美しい"
+  },
+  {
+    "id": 896,
+    "level": 4,
+    "hanzi": "梦",
+    "pinyin": "mèng",
+    "definition": "夢"
+  },
+  {
+    "id": 897,
+    "level": 4,
+    "hanzi": "密码",
+    "pinyin": "mì mǎ",
+    "definition": "暗証番号、パスワード"
+  },
+  {
+    "id": 898,
+    "level": 4,
+    "hanzi": "免费",
+    "pinyin": "miǎn fèi",
+    "definition": "無料の、ただ"
+  },
+  {
+    "id": 899,
+    "level": 4,
+    "hanzi": "民族",
+    "pinyin": "mín zú",
+    "definition": "民族"
+  },
+  {
+    "id": 900,
+    "level": 4,
+    "hanzi": "母亲",
+    "pinyin": "mǔ qīn",
+    "definition": "母、母親"
+  },
+  {
+    "id": 901,
+    "level": 4,
+    "hanzi": "目的",
+    "pinyin": "mù dì",
+    "definition": "目的"
+  },
+  {
+    "id": 902,
+    "level": 4,
+    "hanzi": "耐心",
+    "pinyin": "nài xīn",
+    "definition": "根気強い；忍耐力"
+  },
+  {
+    "id": 903,
+    "level": 4,
+    "hanzi": "难道",
+    "pinyin": "nán dào",
+    "definition": "まさか～ではあるまい"
+  },
+  {
+    "id": 904,
+    "level": 4,
+    "hanzi": "难受",
+    "pinyin": "nán shòu",
+    "definition": "（体・気分が）つらい、苦しい"
+  },
+  {
+    "id": 905,
+    "level": 4,
+    "hanzi": "内",
+    "pinyin": "nèi",
+    "definition": "内、中"
+  },
+  {
+    "id": 906,
+    "level": 4,
+    "hanzi": "内容",
+    "pinyin": "nèi róng",
+    "definition": "内容"
+  },
+  {
+    "id": 907,
+    "level": 4,
+    "hanzi": "能力",
+    "pinyin": "néng lì",
+    "definition": "能力"
+  },
+  {
+    "id": 908,
+    "level": 4,
+    "hanzi": "年龄",
+    "pinyin": "nián líng",
+    "definition": "年齢"
+  },
+  {
+    "id": 909,
+    "level": 4,
+    "hanzi": "农村",
+    "pinyin": "nóng cūn",
+    "definition": "農村"
+  },
+  {
+    "id": 910,
+    "level": 4,
+    "hanzi": "弄",
+    "pinyin": "nòng",
+    "definition": "いじる；する、やる"
+  },
+  {
+    "id": 911,
+    "level": 4,
+    "hanzi": "暖和",
+    "pinyin": "nuǎn huo",
+    "definition": "暖かい"
+  },
+  {
+    "id": 912,
+    "level": 4,
+    "hanzi": "偶尔",
+    "pinyin": "ǒu ěr",
+    "definition": "たまに、時折"
+  },
+  {
+    "id": 913,
+    "level": 4,
+    "hanzi": "排列",
+    "pinyin": "pái liè",
+    "definition": "並べる、配列する"
+  },
+  {
+    "id": 914,
+    "level": 4,
+    "hanzi": "判断",
+    "pinyin": "pàn duàn",
+    "definition": "判断する；判断"
+  },
+  {
+    "id": 915,
+    "level": 4,
+    "hanzi": "陪",
+    "pinyin": "péi",
+    "definition": "付き添う、お供をする"
+  },
+  {
+    "id": 916,
+    "level": 4,
+    "hanzi": "批评",
+    "pinyin": "pī píng",
+    "definition": "批判する、叱る"
+  },
+  {
+    "id": 917,
+    "level": 4,
+    "hanzi": "皮肤",
+    "pinyin": "pí fū",
+    "definition": "皮膚、肌"
+  },
+  {
+    "id": 918,
+    "level": 4,
+    "hanzi": "脾气",
+    "pinyin": "pí qi",
+    "definition": "気性、性格；かんしゃく"
+  },
+  {
+    "id": 919,
+    "level": 4,
+    "hanzi": "篇",
+    "pinyin": "piān",
+    "definition": "（量詞）～編（文章）"
+  },
+  {
+    "id": 920,
+    "level": 4,
+    "hanzi": "骗",
+    "pinyin": "piàn",
+    "definition": "だます"
+  },
+  {
+    "id": 921,
+    "level": 4,
+    "hanzi": "乒乓球",
+    "pinyin": "pīng pāng qiú",
+    "definition": "卓球"
+  },
+  {
+    "id": 922,
+    "level": 4,
+    "hanzi": "平时",
+    "pinyin": "píng shí",
+    "definition": "普段、平素"
+  },
+  {
+    "id": 923,
+    "level": 4,
+    "hanzi": "瓶子",
+    "pinyin": "píng zi",
+    "definition": "瓶"
+  },
+  {
+    "id": 924,
+    "level": 4,
+    "hanzi": "破",
+    "pinyin": "pò",
+    "definition": "破れる、壊れる；破れた"
+  },
+  {
+    "id": 925,
+    "level": 4,
+    "hanzi": "普遍",
+    "pinyin": "pǔ biàn",
+    "definition": "普遍的だ、広く行き渡っている"
+  },
+  {
+    "id": 926,
+    "level": 4,
+    "hanzi": "其次",
+    "pinyin": "qí cì",
+    "definition": "次に、その次"
+  },
+  {
+    "id": 927,
+    "level": 4,
+    "hanzi": "其中",
+    "pinyin": "qí zhōng",
+    "definition": "その中"
+  },
+  {
+    "id": 928,
+    "level": 4,
+    "hanzi": "起飞",
+    "pinyin": "qǐ fēi",
+    "definition": "離陸する"
+  },
+  {
+    "id": 929,
+    "level": 4,
+    "hanzi": "起来",
+    "pinyin": "qǐ lai",
+    "definition": "（動詞の後で）～し始める；起き上がる"
+  },
+  {
+    "id": 930,
+    "level": 4,
+    "hanzi": "气候",
+    "pinyin": "qì hòu",
+    "definition": "気候"
+  },
+  {
+    "id": 931,
+    "level": 4,
+    "hanzi": "千万",
+    "pinyin": "qiān wàn",
+    "definition": "くれぐれも、絶対に；千万"
+  },
+  {
+    "id": 932,
+    "level": 4,
+    "hanzi": "签证",
+    "pinyin": "qiān zhèng",
+    "definition": "ビザ、査証"
+  },
+  {
+    "id": 933,
+    "level": 4,
+    "hanzi": "墙",
+    "pinyin": "qiáng",
+    "definition": "壁、塀"
+  },
+  {
+    "id": 934,
+    "level": 4,
+    "hanzi": "敲",
+    "pinyin": "qiāo",
+    "definition": "たたく、ノックする"
+  },
+  {
+    "id": 935,
+    "level": 4,
+    "hanzi": "桥",
+    "pinyin": "qiáo",
+    "definition": "橋"
+  },
+  {
+    "id": 936,
+    "level": 4,
+    "hanzi": "巧克力",
+    "pinyin": "qiǎo kè lì",
+    "definition": "チョコレート"
+  },
+  {
+    "id": 937,
+    "level": 4,
+    "hanzi": "亲戚",
+    "pinyin": "qīn qi",
+    "definition": "親戚"
+  },
+  {
+    "id": 938,
+    "level": 4,
+    "hanzi": "轻",
+    "pinyin": "qīng",
+    "definition": "軽い"
+  },
+  {
+    "id": 939,
+    "level": 4,
+    "hanzi": "轻松",
+    "pinyin": "qīng sōng",
+    "definition": "気楽だ、リラックスしている"
+  },
+  {
+    "id": 940,
+    "level": 4,
+    "hanzi": "情况",
+    "pinyin": "qíng kuàng",
+    "definition": "状況、事情"
+  },
+  {
+    "id": 941,
+    "level": 4,
+    "hanzi": "请假",
+    "pinyin": "qǐng jià",
+    "definition": "休暇を取る、休みをもらう"
+  },
+  {
+    "id": 942,
+    "level": 4,
+    "hanzi": "请客",
+    "pinyin": "qǐng kè",
+    "definition": "おごる、ごちそうする"
+  },
+  {
+    "id": 943,
+    "level": 4,
+    "hanzi": "穷",
+    "pinyin": "qióng",
+    "definition": "貧しい"
+  },
+  {
+    "id": 944,
+    "level": 4,
+    "hanzi": "区别",
+    "pinyin": "qū bié",
+    "definition": "区別；違い"
+  },
+  {
+    "id": 945,
+    "level": 4,
+    "hanzi": "取",
+    "pinyin": "qǔ",
+    "definition": "取る、受け取る"
+  },
+  {
+    "id": 946,
+    "level": 4,
+    "hanzi": "全部",
+    "pinyin": "quán bù",
+    "definition": "全部、すべて"
+  },
+  {
+    "id": 947,
+    "level": 4,
+    "hanzi": "缺点",
+    "pinyin": "quē diǎn",
+    "definition": "欠点"
+  },
+  {
+    "id": 948,
+    "level": 4,
+    "hanzi": "缺少",
+    "pinyin": "quē shǎo",
+    "definition": "不足する、欠ける"
+  },
+  {
+    "id": 949,
+    "level": 4,
+    "hanzi": "却",
+    "pinyin": "què",
+    "definition": "かえって、ところが"
+  },
+  {
+    "id": 950,
+    "level": 4,
+    "hanzi": "确实",
+    "pinyin": "què shí",
+    "definition": "確かに；確かだ"
+  },
+  {
+    "id": 951,
+    "level": 4,
+    "hanzi": "群",
+    "pinyin": "qún",
+    "definition": "（量詞）～群れ；群れ"
+  },
+  {
+    "id": 952,
+    "level": 4,
+    "hanzi": "然而",
+    "pinyin": "rán ér",
+    "definition": "しかしながら"
+  },
+  {
+    "id": 953,
+    "level": 4,
+    "hanzi": "热闹",
+    "pinyin": "rè nao",
+    "definition": "にぎやかだ"
+  },
+  {
+    "id": 954,
+    "level": 4,
+    "hanzi": "人民币",
+    "pinyin": "rén mín bì",
+    "definition": "人民元"
+  },
+  {
+    "id": 955,
+    "level": 4,
+    "hanzi": "任何",
+    "pinyin": "rèn hé",
+    "definition": "いかなる、どんな"
+  },
+  {
+    "id": 956,
+    "level": 4,
+    "hanzi": "任务",
+    "pinyin": "rèn wu",
+    "definition": "任務"
+  },
+  {
+    "id": 957,
+    "level": 4,
+    "hanzi": "扔",
+    "pinyin": "rēng",
+    "definition": "投げる；捨てる"
+  },
+  {
+    "id": 958,
+    "level": 4,
+    "hanzi": "仍然",
+    "pinyin": "réng rán",
+    "definition": "依然として、相変わらず"
+  },
+  {
+    "id": 959,
+    "level": 4,
+    "hanzi": "日记",
+    "pinyin": "rì jì",
+    "definition": "日記"
+  },
+  {
+    "id": 960,
+    "level": 4,
+    "hanzi": "入口",
+    "pinyin": "rù kǒu",
+    "definition": "入口"
+  },
+  {
+    "id": 961,
+    "level": 4,
+    "hanzi": "软",
+    "pinyin": "ruǎn",
+    "definition": "柔らかい"
+  },
+  {
+    "id": 962,
+    "level": 4,
+    "hanzi": "散步",
+    "pinyin": "sàn bù",
+    "definition": "散歩する"
+  },
+  {
+    "id": 963,
+    "level": 4,
+    "hanzi": "森林",
+    "pinyin": "sēn lín",
+    "definition": "森林"
+  },
+  {
+    "id": 964,
+    "level": 4,
+    "hanzi": "沙发",
+    "pinyin": "shā fā",
+    "definition": "ソファー"
+  },
+  {
+    "id": 965,
+    "level": 4,
+    "hanzi": "商量",
+    "pinyin": "shāng liang",
+    "definition": "相談する"
+  },
+  {
+    "id": 966,
+    "level": 4,
+    "hanzi": "伤心",
+    "pinyin": "shāng xīn",
+    "definition": "悲しむ、心を痛める"
+  },
+  {
+    "id": 967,
+    "level": 4,
+    "hanzi": "稍微",
+    "pinyin": "shāo wēi",
+    "definition": "少し、やや"
+  },
+  {
+    "id": 968,
+    "level": 4,
+    "hanzi": "社会",
+    "pinyin": "shè huì",
+    "definition": "社会"
+  },
+  {
+    "id": 969,
+    "level": 4,
+    "hanzi": "深",
+    "pinyin": "shēn",
+    "definition": "深い"
+  },
+  {
+    "id": 970,
+    "level": 4,
+    "hanzi": "申请",
+    "pinyin": "shēn qǐng",
+    "definition": "申請する"
+  },
+  {
+    "id": 971,
+    "level": 4,
+    "hanzi": "甚至",
+    "pinyin": "shèn zhì",
+    "definition": "～さえ、ひいては"
+  },
+  {
+    "id": 972,
+    "level": 4,
+    "hanzi": "生活",
+    "pinyin": "shēng huó",
+    "definition": "生活；生活する"
+  },
+  {
+    "id": 973,
+    "level": 4,
+    "hanzi": "生命",
+    "pinyin": "shēng mìng",
+    "definition": "生命、命"
+  },
+  {
+    "id": 974,
+    "level": 4,
+    "hanzi": "省",
+    "pinyin": "shěng",
+    "definition": "節約する；省"
+  },
+  {
+    "id": 975,
+    "level": 4,
+    "hanzi": "剩",
+    "pinyin": "shèng",
+    "definition": "残る、余る"
+  },
+  {
+    "id": 976,
+    "level": 4,
+    "hanzi": "失败",
+    "pinyin": "shī bài",
+    "definition": "失敗する；失敗"
+  },
+  {
+    "id": 977,
+    "level": 4,
+    "hanzi": "失望",
+    "pinyin": "shī wàng",
+    "definition": "失望する、がっかりする"
+  },
+  {
+    "id": 978,
+    "level": 4,
+    "hanzi": "师傅",
+    "pinyin": "shī fu",
+    "definition": "師匠；（職人・運転手などへの呼称）"
+  },
+  {
+    "id": 979,
+    "level": 4,
+    "hanzi": "湿润",
+    "pinyin": "shī rùn",
+    "definition": "湿っている、しっとりしている"
+  },
+  {
+    "id": 980,
+    "level": 4,
+    "hanzi": "狮子",
+    "pinyin": "shī zi",
+    "definition": "ライオン"
+  },
+  {
+    "id": 981,
+    "level": 4,
+    "hanzi": "十分",
+    "pinyin": "shí fēn",
+    "definition": "非常に、十分に"
+  },
+  {
+    "id": 982,
+    "level": 4,
+    "hanzi": "实际",
+    "pinyin": "shí jì",
+    "definition": "実際；実際的だ"
+  },
+  {
+    "id": 983,
+    "level": 4,
+    "hanzi": "实在",
+    "pinyin": "shí zài",
+    "definition": "本当に、実に"
+  },
+  {
+    "id": 984,
+    "level": 4,
+    "hanzi": "食品",
+    "pinyin": "shí pǐn",
+    "definition": "食品"
+  },
+  {
+    "id": 985,
+    "level": 4,
+    "hanzi": "使用",
+    "pinyin": "shǐ yòng",
+    "definition": "使用する"
+  },
+  {
+    "id": 986,
+    "level": 4,
+    "hanzi": "试",
+    "pinyin": "shì",
+    "definition": "試す"
+  },
+  {
+    "id": 987,
+    "level": 4,
+    "hanzi": "市场",
+    "pinyin": "shì chǎng",
+    "definition": "市場（いちば）、マーケット"
+  },
+  {
+    "id": 988,
+    "level": 4,
+    "hanzi": "世纪",
+    "pinyin": "shì jì",
+    "definition": "世紀"
+  },
+  {
+    "id": 989,
+    "level": 4,
+    "hanzi": "适合",
+    "pinyin": "shì hé",
+    "definition": "適合する、ぴったり合う"
+  },
+  {
+    "id": 990,
+    "level": 4,
+    "hanzi": "适应",
+    "pinyin": "shì yìng",
+    "definition": "適応する、慣れる"
+  },
+  {
+    "id": 991,
+    "level": 4,
+    "hanzi": "收",
+    "pinyin": "shōu",
+    "definition": "受け取る；片付ける"
+  },
+  {
+    "id": 992,
+    "level": 4,
+    "hanzi": "收入",
+    "pinyin": "shōu rù",
+    "definition": "収入"
+  },
+  {
+    "id": 993,
+    "level": 4,
+    "hanzi": "收拾",
+    "pinyin": "shōu shi",
+    "definition": "片付ける、整理する"
+  },
+  {
+    "id": 994,
+    "level": 4,
+    "hanzi": "首都",
+    "pinyin": "shǒu dū",
+    "definition": "首都"
+  },
+  {
+    "id": 995,
+    "level": 4,
+    "hanzi": "首先",
+    "pinyin": "shǒu xiān",
+    "definition": "まず、最初に"
+  },
+  {
+    "id": 996,
+    "level": 4,
+    "hanzi": "受不了",
+    "pinyin": "shòu bù liǎo",
+    "definition": "たまらない、耐えられない"
+  },
+  {
+    "id": 997,
+    "level": 4,
+    "hanzi": "受到",
+    "pinyin": "shòu dào",
+    "definition": "受ける、こうむる"
+  },
+  {
+    "id": 998,
+    "level": 4,
+    "hanzi": "售货员",
+    "pinyin": "shòu huò yuán",
+    "definition": "店員、販売員"
+  },
+  {
+    "id": 999,
+    "level": 4,
+    "hanzi": "输",
+    "pinyin": "shū",
+    "definition": "負ける"
+  },
+  {
+    "id": 1000,
+    "level": 4,
+    "hanzi": "熟悉",
+    "pinyin": "shú xī",
+    "definition": "よく知っている、熟知する"
+  },
+  {
+    "id": 1001,
+    "level": 4,
+    "hanzi": "数量",
+    "pinyin": "shù liàng",
+    "definition": "数量"
+  },
+  {
+    "id": 1002,
+    "level": 4,
+    "hanzi": "数字",
+    "pinyin": "shù zì",
+    "definition": "数字"
+  },
+  {
+    "id": 1003,
+    "level": 4,
+    "hanzi": "帅",
+    "pinyin": "shuài",
+    "definition": "かっこいい、ハンサムだ"
+  },
+  {
+    "id": 1004,
+    "level": 4,
+    "hanzi": "顺便",
+    "pinyin": "shùn biàn",
+    "definition": "ついでに"
+  },
+  {
+    "id": 1005,
+    "level": 4,
+    "hanzi": "顺利",
+    "pinyin": "shùn lì",
+    "definition": "順調だ"
+  },
+  {
+    "id": 1006,
+    "level": 4,
+    "hanzi": "顺序",
+    "pinyin": "shùn xù",
+    "definition": "順序"
+  },
+  {
+    "id": 1007,
+    "level": 4,
+    "hanzi": "说明",
+    "pinyin": "shuō míng",
+    "definition": "説明する；説明"
+  },
+  {
+    "id": 1008,
+    "level": 4,
+    "hanzi": "硕士",
+    "pinyin": "shuò shì",
+    "definition": "修士"
+  },
+  {
+    "id": 1009,
+    "level": 4,
+    "hanzi": "死",
+    "pinyin": "sǐ",
+    "definition": "死ぬ"
+  },
+  {
+    "id": 1010,
+    "level": 4,
+    "hanzi": "速度",
+    "pinyin": "sù dù",
+    "definition": "速度、スピード"
+  },
+  {
+    "id": 1011,
+    "level": 4,
+    "hanzi": "塑料袋",
+    "pinyin": "sù liào dài",
+    "definition": "ビニール袋"
+  },
+  {
+    "id": 1012,
+    "level": 4,
+    "hanzi": "酸",
+    "pinyin": "suān",
+    "definition": "酸っぱい"
+  },
+  {
+    "id": 1013,
+    "level": 4,
+    "hanzi": "算",
+    "pinyin": "suàn",
+    "definition": "数える、計算する；～とみなす"
+  },
+  {
+    "id": 1014,
+    "level": 4,
+    "hanzi": "随便",
+    "pinyin": "suí biàn",
+    "definition": "気軽に、好きなように；いいかげんだ"
+  },
+  {
+    "id": 1015,
+    "level": 4,
+    "hanzi": "随着",
+    "pinyin": "suí zhe",
+    "definition": "～につれて"
+  },
+  {
+    "id": 1016,
+    "level": 4,
+    "hanzi": "孙子",
+    "pinyin": "sūn zi",
+    "definition": "孫（息子の息子）"
+  },
+  {
+    "id": 1017,
+    "level": 4,
+    "hanzi": "所有",
+    "pinyin": "suǒ yǒu",
+    "definition": "すべての"
+  },
+  {
+    "id": 1018,
+    "level": 4,
+    "hanzi": "抬",
+    "pinyin": "tái",
+    "definition": "持ち上げる、（2人以上で）担ぐ"
+  },
+  {
+    "id": 1019,
+    "level": 4,
+    "hanzi": "台",
+    "pinyin": "tái",
+    "definition": "（量詞）～台（機械など）；台"
+  },
+  {
+    "id": 1020,
+    "level": 4,
+    "hanzi": "态度",
+    "pinyin": "tài du",
+    "definition": "態度"
+  },
+  {
+    "id": 1021,
+    "level": 4,
+    "hanzi": "谈",
+    "pinyin": "tán",
+    "definition": "話す、語り合う"
+  },
+  {
+    "id": 1022,
+    "level": 4,
+    "hanzi": "弹",
+    "pinyin": "tán",
+    "definition": "（楽器を）弾く"
+  },
+  {
+    "id": 1023,
+    "level": 4,
+    "hanzi": "汤",
+    "pinyin": "tāng",
+    "definition": "スープ"
+  },
+  {
+    "id": 1024,
+    "level": 4,
+    "hanzi": "躺",
+    "pinyin": "tǎng",
+    "definition": "横になる、寝そべる"
+  },
+  {
+    "id": 1025,
+    "level": 4,
+    "hanzi": "趟",
+    "pinyin": "tàng",
+    "definition": "（量詞）～回（往復の回数）"
+  },
+  {
+    "id": 1026,
+    "level": 4,
+    "hanzi": "讨论",
+    "pinyin": "tǎo lùn",
+    "definition": "討論する、議論する"
+  },
+  {
+    "id": 1027,
+    "level": 4,
+    "hanzi": "讨厌",
+    "pinyin": "tǎo yàn",
+    "definition": "嫌う；嫌だ"
+  },
+  {
+    "id": 1028,
+    "level": 4,
+    "hanzi": "特点",
+    "pinyin": "tè diǎn",
+    "definition": "特徴"
+  },
+  {
+    "id": 1029,
+    "level": 4,
+    "hanzi": "提供",
+    "pinyin": "tí gōng",
+    "definition": "提供する"
+  },
+  {
+    "id": 1030,
+    "level": 4,
+    "hanzi": "提前",
+    "pinyin": "tí qián",
+    "definition": "（予定を）繰り上げる、前もって"
+  },
+  {
+    "id": 1031,
+    "level": 4,
+    "hanzi": "提醒",
+    "pinyin": "tí xǐng",
+    "definition": "注意を促す、気づかせる"
+  },
+  {
+    "id": 1032,
+    "level": 4,
+    "hanzi": "填空",
+    "pinyin": "tián kòng",
+    "definition": "空欄を埋める"
+  },
+  {
+    "id": 1033,
+    "level": 4,
+    "hanzi": "条件",
+    "pinyin": "tiáo jiàn",
+    "definition": "条件"
+  },
+  {
+    "id": 1034,
+    "level": 4,
+    "hanzi": "停止",
+    "pinyin": "tíng zhǐ",
+    "definition": "停止する、止める"
+  },
+  {
+    "id": 1035,
+    "level": 4,
+    "hanzi": "挺",
+    "pinyin": "tǐng",
+    "definition": "なかなか、とても"
+  },
+  {
+    "id": 1036,
+    "level": 4,
+    "hanzi": "通过",
+    "pinyin": "tōng guò",
+    "definition": "～を通じて；通過する"
+  },
+  {
+    "id": 1037,
+    "level": 4,
+    "hanzi": "通知",
+    "pinyin": "tōng zhī",
+    "definition": "通知する；通知"
+  },
+  {
+    "id": 1038,
+    "level": 4,
+    "hanzi": "同情",
+    "pinyin": "tóng qíng",
+    "definition": "同情する"
+  },
+  {
+    "id": 1039,
+    "level": 4,
+    "hanzi": "推",
+    "pinyin": "tuī",
+    "definition": "押す"
+  },
+  {
+    "id": 1040,
+    "level": 4,
+    "hanzi": "推迟",
+    "pinyin": "tuī chí",
+    "definition": "延期する、遅らせる"
+  },
+  {
+    "id": 1041,
+    "level": 4,
+    "hanzi": "脱",
+    "pinyin": "tuō",
+    "definition": "脱ぐ"
+  },
+  {
+    "id": 1042,
+    "level": 4,
+    "hanzi": "袜子",
+    "pinyin": "wà zi",
+    "definition": "靴下"
+  },
+  {
+    "id": 1043,
+    "level": 4,
+    "hanzi": "完全",
+    "pinyin": "wán quán",
+    "definition": "完全に、すっかり"
+  },
+  {
+    "id": 1044,
+    "level": 4,
+    "hanzi": "往",
+    "pinyin": "wǎng",
+    "definition": "～へ、～に向かって"
+  },
+  {
+    "id": 1045,
+    "level": 4,
+    "hanzi": "往往",
+    "pinyin": "wǎng wǎng",
+    "definition": "往々にして、しばしば"
+  },
+  {
+    "id": 1046,
+    "level": 4,
+    "hanzi": "网球",
+    "pinyin": "wǎng qiú",
+    "definition": "テニス"
+  },
+  {
+    "id": 1047,
+    "level": 4,
+    "hanzi": "网站",
+    "pinyin": "wǎng zhàn",
+    "definition": "ウェブサイト"
+  },
+  {
+    "id": 1048,
+    "level": 4,
+    "hanzi": "危险",
+    "pinyin": "wēi xiǎn",
+    "definition": "危険だ；危険"
+  },
+  {
+    "id": 1049,
+    "level": 4,
+    "hanzi": "味道",
+    "pinyin": "wèi dao",
+    "definition": "味"
+  },
+  {
+    "id": 1050,
+    "level": 4,
+    "hanzi": "温度",
+    "pinyin": "wēn dù",
+    "definition": "温度"
+  },
+  {
+    "id": 1051,
+    "level": 4,
+    "hanzi": "文章",
+    "pinyin": "wén zhāng",
+    "definition": "文章"
+  },
+  {
+    "id": 1052,
+    "level": 4,
+    "hanzi": "握手",
+    "pinyin": "wò shǒu",
+    "definition": "握手する"
+  },
+  {
+    "id": 1053,
+    "level": 4,
+    "hanzi": "污染",
+    "pinyin": "wū rǎn",
+    "definition": "汚染；汚染する"
+  },
+  {
+    "id": 1054,
+    "level": 4,
+    "hanzi": "无",
+    "pinyin": "wú",
+    "definition": "無い"
+  },
+  {
+    "id": 1055,
+    "level": 4,
+    "hanzi": "无聊",
+    "pinyin": "wú liáo",
+    "definition": "退屈だ、つまらない"
+  },
+  {
+    "id": 1056,
+    "level": 4,
+    "hanzi": "无论",
+    "pinyin": "wú lùn",
+    "definition": "～にかかわらず"
+  },
+  {
+    "id": 1057,
+    "level": 4,
+    "hanzi": "误会",
+    "pinyin": "wù huì",
+    "definition": "誤解する；誤解"
+  },
+  {
+    "id": 1058,
+    "level": 4,
+    "hanzi": "西红柿",
+    "pinyin": "xī hóng shì",
+    "definition": "トマト"
+  },
+  {
+    "id": 1059,
+    "level": 4,
+    "hanzi": "吸引",
+    "pinyin": "xī yǐn",
+    "definition": "引きつける、魅了する"
+  },
+  {
+    "id": 1060,
+    "level": 4,
+    "hanzi": "洗衣机",
+    "pinyin": "xǐ yī jī",
+    "definition": "洗濯機"
+  },
+  {
+    "id": 1061,
+    "level": 4,
+    "hanzi": "咸",
+    "pinyin": "xián",
+    "definition": "塩辛い、しょっぱい"
+  },
+  {
+    "id": 1062,
+    "level": 4,
+    "hanzi": "现代",
+    "pinyin": "xiàn dài",
+    "definition": "現代"
+  },
+  {
+    "id": 1063,
+    "level": 4,
+    "hanzi": "羡慕",
+    "pinyin": "xiàn mù",
+    "definition": "うらやむ"
+  },
+  {
+    "id": 1064,
+    "level": 4,
+    "hanzi": "限制",
+    "pinyin": "xiàn zhì",
+    "definition": "制限する；制限"
+  },
+  {
+    "id": 1065,
+    "level": 4,
+    "hanzi": "香",
+    "pinyin": "xiāng",
+    "definition": "香りがよい、おいしい"
+  },
+  {
+    "id": 1066,
+    "level": 4,
+    "hanzi": "相反",
+    "pinyin": "xiāng fǎn",
+    "definition": "反対だ；逆に"
+  },
+  {
+    "id": 1067,
+    "level": 4,
+    "hanzi": "详细",
+    "pinyin": "xiáng xì",
+    "definition": "詳細だ、詳しい"
+  },
+  {
+    "id": 1068,
+    "level": 4,
+    "hanzi": "响",
+    "pinyin": "xiǎng",
+    "definition": "鳴る、響く"
+  },
+  {
+    "id": 1069,
+    "level": 4,
+    "hanzi": "消息",
+    "pinyin": "xiāo xi",
+    "definition": "知らせ、情報"
+  },
+  {
+    "id": 1070,
+    "level": 4,
+    "hanzi": "小说",
+    "pinyin": "xiǎo shuō",
+    "definition": "小説"
+  },
+  {
+    "id": 1071,
+    "level": 4,
+    "hanzi": "笑话",
+    "pinyin": "xiào huà",
+    "definition": "笑い話、冗談；笑う"
+  },
+  {
+    "id": 1072,
+    "level": 4,
+    "hanzi": "效果",
+    "pinyin": "xiào guǒ",
+    "definition": "効果"
+  },
+  {
+    "id": 1073,
+    "level": 4,
+    "hanzi": "心情",
+    "pinyin": "xīn qíng",
+    "definition": "気持ち、気分"
+  },
+  {
+    "id": 1074,
+    "level": 4,
+    "hanzi": "辛苦",
+    "pinyin": "xīn kǔ",
+    "definition": "苦労する；ご苦労さま"
+  },
+  {
+    "id": 1075,
+    "level": 4,
+    "hanzi": "信任",
+    "pinyin": "xìn rèn",
+    "definition": "信任する、信頼する"
+  },
+  {
+    "id": 1076,
+    "level": 4,
+    "hanzi": "信心",
+    "pinyin": "xìn xīn",
+    "definition": "自信、確信"
+  },
+  {
+    "id": 1077,
+    "level": 4,
+    "hanzi": "信用卡",
+    "pinyin": "xìn yòng kǎ",
+    "definition": "クレジットカード"
+  },
+  {
+    "id": 1078,
+    "level": 4,
+    "hanzi": "兴奋",
+    "pinyin": "xīng fèn",
+    "definition": "興奮している"
+  },
+  {
+    "id": 1079,
+    "level": 4,
+    "hanzi": "行",
+    "pinyin": "xíng",
+    "definition": "よろしい、大丈夫だ；歩く"
+  },
+  {
+    "id": 1080,
+    "level": 4,
+    "hanzi": "醒",
+    "pinyin": "xǐng",
+    "definition": "目が覚める"
+  },
+  {
+    "id": 1081,
+    "level": 4,
+    "hanzi": "性别",
+    "pinyin": "xìng bié",
+    "definition": "性別"
+  },
+  {
+    "id": 1082,
+    "level": 4,
+    "hanzi": "性格",
+    "pinyin": "xìng gé",
+    "definition": "性格"
+  },
+  {
+    "id": 1083,
+    "level": 4,
+    "hanzi": "幸福",
+    "pinyin": "xìng fú",
+    "definition": "幸福だ；幸せ"
+  },
+  {
+    "id": 1084,
+    "level": 4,
+    "hanzi": "修",
+    "pinyin": "xiū",
+    "definition": "修理する"
+  },
+  {
+    "id": 1085,
+    "level": 4,
+    "hanzi": "许多",
+    "pinyin": "xǔ duō",
+    "definition": "多くの、たくさんの"
+  },
+  {
+    "id": 1086,
+    "level": 4,
+    "hanzi": "血",
+    "pinyin": "xuè",
+    "definition": "血"
+  },
+  {
+    "id": 1087,
+    "level": 4,
+    "hanzi": "压力",
+    "pinyin": "yā lì",
+    "definition": "プレッシャー、ストレス；圧力"
+  },
+  {
+    "id": 1088,
+    "level": 4,
+    "hanzi": "牙膏",
+    "pinyin": "yá gāo",
+    "definition": "歯磨き粉"
+  },
+  {
+    "id": 1089,
+    "level": 4,
+    "hanzi": "亚洲",
+    "pinyin": "Yà zhōu",
+    "definition": "アジア"
+  },
+  {
+    "id": 1090,
+    "level": 4,
+    "hanzi": "呀",
+    "pinyin": "ya",
+    "definition": "（驚き・感嘆を表す語気助詞）"
+  },
+  {
+    "id": 1091,
+    "level": 4,
+    "hanzi": "盐",
+    "pinyin": "yán",
+    "definition": "塩"
+  },
+  {
+    "id": 1092,
+    "level": 4,
+    "hanzi": "严格",
+    "pinyin": "yán gé",
+    "definition": "厳格だ、厳しい"
+  },
+  {
+    "id": 1093,
+    "level": 4,
+    "hanzi": "严重",
+    "pinyin": "yán zhòng",
+    "definition": "深刻だ、重大だ"
+  },
+  {
+    "id": 1094,
+    "level": 4,
+    "hanzi": "研究生",
+    "pinyin": "yán jiū shēng",
+    "definition": "大学院生"
+  },
+  {
+    "id": 1095,
+    "level": 4,
+    "hanzi": "演出",
+    "pinyin": "yǎn chū",
+    "definition": "上演する、公演する"
+  },
+  {
+    "id": 1096,
+    "level": 4,
+    "hanzi": "演员",
+    "pinyin": "yǎn yuán",
+    "definition": "俳優、役者"
+  },
+  {
+    "id": 1097,
+    "level": 4,
+    "hanzi": "阳光",
+    "pinyin": "yáng guāng",
+    "definition": "日光、日差し"
+  },
+  {
+    "id": 1098,
+    "level": 4,
+    "hanzi": "养成",
+    "pinyin": "yǎng chéng",
+    "definition": "（習慣を）身につける、養う"
+  },
+  {
+    "id": 1099,
+    "level": 4,
+    "hanzi": "样子",
+    "pinyin": "yàng zi",
+    "definition": "様子、格好"
+  },
+  {
+    "id": 1100,
+    "level": 4,
+    "hanzi": "邀请",
+    "pinyin": "yāo qǐng",
+    "definition": "招待する；招待"
+  },
+  {
+    "id": 1101,
+    "level": 4,
+    "hanzi": "钥匙",
+    "pinyin": "yào shi",
+    "definition": "鍵"
+  },
+  {
+    "id": 1102,
+    "level": 4,
+    "hanzi": "也许",
+    "pinyin": "yě xǔ",
+    "definition": "もしかしたら～かもしれない"
+  },
+  {
+    "id": 1103,
+    "level": 4,
+    "hanzi": "页",
+    "pinyin": "yè",
+    "definition": "ページ"
+  },
+  {
+    "id": 1104,
+    "level": 4,
+    "hanzi": "叶子",
+    "pinyin": "yè zi",
+    "definition": "葉"
+  },
+  {
+    "id": 1105,
+    "level": 4,
+    "hanzi": "一切",
+    "pinyin": "yī qiè",
+    "definition": "一切、すべて"
+  },
+  {
+    "id": 1106,
+    "level": 4,
+    "hanzi": "以",
+    "pinyin": "yǐ",
+    "definition": "～で、～をもって"
+  },
+  {
+    "id": 1107,
+    "level": 4,
+    "hanzi": "亿",
+    "pinyin": "yì",
+    "definition": "億"
+  },
+  {
+    "id": 1108,
+    "level": 4,
+    "hanzi": "意见",
+    "pinyin": "yì jiàn",
+    "definition": "意見；不満"
+  },
+  {
+    "id": 1109,
+    "level": 4,
+    "hanzi": "艺术",
+    "pinyin": "yì shù",
+    "definition": "芸術"
+  },
+  {
+    "id": 1110,
+    "level": 4,
+    "hanzi": "因此",
+    "pinyin": "yīn cǐ",
+    "definition": "それゆえ、そのため"
+  },
+  {
+    "id": 1111,
+    "level": 4,
+    "hanzi": "引起",
+    "pinyin": "yǐn qǐ",
+    "definition": "引き起こす"
+  },
+  {
+    "id": 1112,
+    "level": 4,
+    "hanzi": "饮料",
+    "pinyin": "yǐn liào",
+    "definition": "飲み物、飲料"
+  },
+  {
+    "id": 1113,
+    "level": 4,
+    "hanzi": "印象",
+    "pinyin": "yìn xiàng",
+    "definition": "印象"
+  },
+  {
+    "id": 1114,
+    "level": 4,
+    "hanzi": "赢",
+    "pinyin": "yíng",
+    "definition": "勝つ"
+  },
+  {
+    "id": 1115,
+    "level": 4,
+    "hanzi": "硬",
+    "pinyin": "yìng",
+    "definition": "硬い"
+  },
+  {
+    "id": 1116,
+    "level": 4,
+    "hanzi": "勇敢",
+    "pinyin": "yǒng gǎn",
+    "definition": "勇敢だ"
+  },
+  {
+    "id": 1117,
+    "level": 4,
+    "hanzi": "永远",
+    "pinyin": "yǒng yuǎn",
+    "definition": "永遠に、いつまでも"
+  },
+  {
+    "id": 1118,
+    "level": 4,
+    "hanzi": "优点",
+    "pinyin": "yōu diǎn",
+    "definition": "長所、利点"
+  },
+  {
+    "id": 1119,
+    "level": 4,
+    "hanzi": "优秀",
+    "pinyin": "yōu xiù",
+    "definition": "優秀だ"
+  },
+  {
+    "id": 1120,
+    "level": 4,
+    "hanzi": "幽默",
+    "pinyin": "yōu mò",
+    "definition": "ユーモアのある；ユーモア"
+  },
+  {
+    "id": 1121,
+    "level": 4,
+    "hanzi": "由",
+    "pinyin": "yóu",
+    "definition": "～から；～によって"
+  },
+  {
+    "id": 1122,
+    "level": 4,
+    "hanzi": "由于",
+    "pinyin": "yóu yú",
+    "definition": "～によって、～のため"
+  },
+  {
+    "id": 1123,
+    "level": 4,
+    "hanzi": "尤其",
+    "pinyin": "yóu qí",
+    "definition": "特に、とりわけ"
+  },
+  {
+    "id": 1124,
+    "level": 4,
+    "hanzi": "有趣",
+    "pinyin": "yǒu qù",
+    "definition": "面白い"
+  },
+  {
+    "id": 1125,
+    "level": 4,
+    "hanzi": "友好",
+    "pinyin": "yǒu hǎo",
+    "definition": "友好的だ"
+  },
+  {
+    "id": 1126,
+    "level": 4,
+    "hanzi": "友谊",
+    "pinyin": "yǒu yì",
+    "definition": "友情、友誼"
+  },
+  {
+    "id": 1127,
+    "level": 4,
+    "hanzi": "愉快",
+    "pinyin": "yú kuài",
+    "definition": "愉快だ、楽しい"
+  },
+  {
+    "id": 1128,
+    "level": 4,
+    "hanzi": "于是",
+    "pinyin": "yú shì",
+    "definition": "そこで、それで"
+  },
+  {
+    "id": 1129,
+    "level": 4,
+    "hanzi": "与",
+    "pinyin": "yǔ",
+    "definition": "～と（書き言葉的）"
+  },
+  {
+    "id": 1130,
+    "level": 4,
+    "hanzi": "语法",
+    "pinyin": "yǔ fǎ",
+    "definition": "文法"
+  },
+  {
+    "id": 1131,
+    "level": 4,
+    "hanzi": "语言",
+    "pinyin": "yǔ yán",
+    "definition": "言語、言葉"
+  },
+  {
+    "id": 1132,
+    "level": 4,
+    "hanzi": "羽毛球",
+    "pinyin": "yǔ máo qiú",
+    "definition": "バドミントン"
+  },
+  {
+    "id": 1133,
+    "level": 4,
+    "hanzi": "预习",
+    "pinyin": "yù xí",
+    "definition": "予習する"
+  },
+  {
+    "id": 1134,
+    "level": 4,
+    "hanzi": "圆",
+    "pinyin": "yuán",
+    "definition": "丸い"
+  },
+  {
+    "id": 1135,
+    "level": 4,
+    "hanzi": "原来",
+    "pinyin": "yuán lái",
+    "definition": "もともと；なんだ～だったのか"
+  },
+  {
+    "id": 1136,
+    "level": 4,
+    "hanzi": "原谅",
+    "pinyin": "yuán liàng",
+    "definition": "許す、容赦する"
+  },
+  {
+    "id": 1137,
+    "level": 4,
+    "hanzi": "原因",
+    "pinyin": "yuán yīn",
+    "definition": "原因"
+  },
+  {
+    "id": 1138,
+    "level": 4,
+    "hanzi": "约会",
+    "pinyin": "yuē huì",
+    "definition": "デート；会う約束"
+  },
+  {
+    "id": 1139,
+    "level": 4,
+    "hanzi": "阅读",
+    "pinyin": "yuè dú",
+    "definition": "閲読する、読む"
+  },
+  {
+    "id": 1140,
+    "level": 4,
+    "hanzi": "允许",
+    "pinyin": "yǔn xǔ",
+    "definition": "許す、許可する"
+  },
+  {
+    "id": 1141,
+    "level": 4,
+    "hanzi": "杂志",
+    "pinyin": "zá zhì",
+    "definition": "雑誌"
+  },
+  {
+    "id": 1142,
+    "level": 4,
+    "hanzi": "咱们",
+    "pinyin": "zán men",
+    "definition": "私たち（聞き手を含む）"
+  },
+  {
+    "id": 1143,
+    "level": 4,
+    "hanzi": "暂时",
+    "pinyin": "zàn shí",
+    "definition": "しばらく、一時的に"
+  },
+  {
+    "id": 1144,
+    "level": 4,
+    "hanzi": "脏",
+    "pinyin": "zāng",
+    "definition": "汚い"
+  },
+  {
+    "id": 1145,
+    "level": 4,
+    "hanzi": "责任",
+    "pinyin": "zé rèn",
+    "definition": "責任"
+  },
+  {
+    "id": 1146,
+    "level": 4,
+    "hanzi": "增加",
+    "pinyin": "zēng jiā",
+    "definition": "増加する、増やす"
+  },
+  {
+    "id": 1147,
+    "level": 4,
+    "hanzi": "增长",
+    "pinyin": "zēng zhǎng",
+    "definition": "増大する、伸びる"
+  },
+  {
+    "id": 1148,
+    "level": 4,
+    "hanzi": "窄",
+    "pinyin": "zhǎi",
+    "definition": "狭い"
+  },
+  {
+    "id": 1149,
+    "level": 4,
+    "hanzi": "招聘",
+    "pinyin": "zhāo pìn",
+    "definition": "募集する、招聘する"
+  },
+  {
+    "id": 1150,
+    "level": 4,
+    "hanzi": "真正",
+    "pinyin": "zhēn zhèng",
+    "definition": "真の、本当の"
+  },
+  {
+    "id": 1151,
+    "level": 4,
+    "hanzi": "整理",
+    "pinyin": "zhěng lǐ",
+    "definition": "整理する"
+  },
+  {
+    "id": 1152,
+    "level": 4,
+    "hanzi": "整齐",
+    "pinyin": "zhěng qí",
+    "definition": "整っている、きちんとしている"
+  },
+  {
+    "id": 1153,
+    "level": 4,
+    "hanzi": "正常",
+    "pinyin": "zhèng cháng",
+    "definition": "正常だ"
+  },
+  {
+    "id": 1154,
+    "level": 4,
+    "hanzi": "正好",
+    "pinyin": "zhèng hǎo",
+    "definition": "ちょうどよい；ちょうど"
+  },
+  {
+    "id": 1155,
+    "level": 4,
+    "hanzi": "正确",
+    "pinyin": "zhèng què",
+    "definition": "正確だ、正しい"
+  },
+  {
+    "id": 1156,
+    "level": 4,
+    "hanzi": "正式",
+    "pinyin": "zhèng shì",
+    "definition": "正式の"
+  },
+  {
+    "id": 1157,
+    "level": 4,
+    "hanzi": "证明",
+    "pinyin": "zhèng míng",
+    "definition": "証明する；証明書"
+  },
+  {
+    "id": 1158,
+    "level": 4,
+    "hanzi": "之",
+    "pinyin": "zhī",
+    "definition": "～の（文語的な助詞）"
+  },
+  {
+    "id": 1159,
+    "level": 4,
+    "hanzi": "支持",
+    "pinyin": "zhī chí",
+    "definition": "支持する、応援する"
+  },
+  {
+    "id": 1160,
+    "level": 4,
+    "hanzi": "知识",
+    "pinyin": "zhī shi",
+    "definition": "知識"
+  },
+  {
+    "id": 1161,
+    "level": 4,
+    "hanzi": "直接",
+    "pinyin": "zhí jiē",
+    "definition": "直接的だ；直接"
+  },
+  {
+    "id": 1162,
+    "level": 4,
+    "hanzi": "值得",
+    "pinyin": "zhí de",
+    "definition": "～する価値がある"
+  },
+  {
+    "id": 1163,
+    "level": 4,
+    "hanzi": "职业",
+    "pinyin": "zhí yè",
+    "definition": "職業"
+  },
+  {
+    "id": 1164,
+    "level": 4,
+    "hanzi": "植物",
+    "pinyin": "zhí wù",
+    "definition": "植物"
+  },
+  {
+    "id": 1165,
+    "level": 4,
+    "hanzi": "指",
+    "pinyin": "zhǐ",
+    "definition": "指；指す"
+  },
+  {
+    "id": 1166,
+    "level": 4,
+    "hanzi": "只好",
+    "pinyin": "zhǐ hǎo",
+    "definition": "～するほかない"
+  },
+  {
+    "id": 1167,
+    "level": 4,
+    "hanzi": "只要",
+    "pinyin": "zhǐ yào",
+    "definition": "～しさえすれば"
+  },
+  {
+    "id": 1168,
+    "level": 4,
+    "hanzi": "制造",
+    "pinyin": "zhì zào",
+    "definition": "製造する"
+  },
+  {
+    "id": 1169,
+    "level": 4,
+    "hanzi": "至少",
+    "pinyin": "zhì shǎo",
+    "definition": "少なくとも"
+  },
+  {
+    "id": 1170,
+    "level": 4,
+    "hanzi": "质量",
+    "pinyin": "zhì liàng",
+    "definition": "品質、質"
+  },
+  {
+    "id": 1171,
+    "level": 4,
+    "hanzi": "中文",
+    "pinyin": "Zhōng wén",
+    "definition": "中国語（主に書き言葉を指す）"
+  },
+  {
+    "id": 1172,
+    "level": 4,
+    "hanzi": "重点",
+    "pinyin": "zhòng diǎn",
+    "definition": "重点"
+  },
+  {
+    "id": 1173,
+    "level": 4,
+    "hanzi": "重视",
+    "pinyin": "zhòng shì",
+    "definition": "重視する"
+  },
+  {
+    "id": 1174,
+    "level": 4,
+    "hanzi": "周围",
+    "pinyin": "zhōu wéi",
+    "definition": "周囲、まわり"
+  },
+  {
+    "id": 1175,
+    "level": 4,
+    "hanzi": "猪",
+    "pinyin": "zhū",
+    "definition": "豚"
+  },
+  {
+    "id": 1176,
+    "level": 4,
+    "hanzi": "逐渐",
+    "pinyin": "zhú jiàn",
+    "definition": "次第に、だんだん"
+  },
+  {
+    "id": 1177,
+    "level": 4,
+    "hanzi": "主动",
+    "pinyin": "zhǔ dòng",
+    "definition": "自発的だ、積極的だ"
+  },
+  {
+    "id": 1178,
+    "level": 4,
+    "hanzi": "主意",
+    "pinyin": "zhǔ yi",
+    "definition": "考え、アイデア"
+  },
+  {
+    "id": 1179,
+    "level": 4,
+    "hanzi": "祝贺",
+    "pinyin": "zhù hè",
+    "definition": "祝う；おめでとう"
+  },
+  {
+    "id": 1180,
+    "level": 4,
+    "hanzi": "著名",
+    "pinyin": "zhù míng",
+    "definition": "著名だ、有名だ"
+  },
+  {
+    "id": 1181,
+    "level": 4,
+    "hanzi": "专门",
+    "pinyin": "zhuān mén",
+    "definition": "専門の；わざわざ"
+  },
+  {
+    "id": 1182,
+    "level": 4,
+    "hanzi": "专业",
+    "pinyin": "zhuān yè",
+    "definition": "専攻、専門"
+  },
+  {
+    "id": 1183,
+    "level": 4,
+    "hanzi": "赚",
+    "pinyin": "zhuàn",
+    "definition": "（お金を）稼ぐ、もうける"
+  },
+  {
+    "id": 1184,
+    "level": 4,
+    "hanzi": "撞",
+    "pinyin": "zhuàng",
+    "definition": "ぶつかる、衝突する"
+  },
+  {
+    "id": 1185,
+    "level": 4,
+    "hanzi": "准确",
+    "pinyin": "zhǔn què",
+    "definition": "正確だ"
+  },
+  {
+    "id": 1186,
+    "level": 4,
+    "hanzi": "准时",
+    "pinyin": "zhǔn shí",
+    "definition": "時間どおりだ"
+  },
+  {
+    "id": 1187,
+    "level": 4,
+    "hanzi": "仔细",
+    "pinyin": "zǐ xì",
+    "definition": "注意深い、細心だ"
+  },
+  {
+    "id": 1188,
+    "level": 4,
+    "hanzi": "自然",
+    "pinyin": "zì rán",
+    "definition": "自然；当然"
+  },
+  {
+    "id": 1189,
+    "level": 4,
+    "hanzi": "总结",
+    "pinyin": "zǒng jié",
+    "definition": "総括する、まとめる"
+  },
+  {
+    "id": 1190,
+    "level": 4,
+    "hanzi": "租",
+    "pinyin": "zū",
+    "definition": "賃借りする、レンタルする"
+  },
+  {
+    "id": 1191,
+    "level": 4,
+    "hanzi": "组成",
+    "pinyin": "zǔ chéng",
+    "definition": "構成する、組織する"
+  },
+  {
+    "id": 1192,
+    "level": 4,
+    "hanzi": "组织",
+    "pinyin": "zǔ zhī",
+    "definition": "組織する；組織"
+  },
+  {
+    "id": 1193,
+    "level": 4,
+    "hanzi": "嘴",
+    "pinyin": "zuǐ",
+    "definition": "口"
+  },
+  {
+    "id": 1194,
+    "level": 4,
+    "hanzi": "最好",
+    "pinyin": "zuì hǎo",
+    "definition": "～したほうがよい；最もよい"
+  },
+  {
+    "id": 1195,
+    "level": 4,
+    "hanzi": "最后",
+    "pinyin": "zuì hòu",
+    "definition": "最後"
+  },
+  {
+    "id": 1196,
+    "level": 4,
+    "hanzi": "尊重",
+    "pinyin": "zūn zhòng",
+    "definition": "尊重する"
+  },
+  {
+    "id": 1197,
+    "level": 4,
+    "hanzi": "做生意",
+    "pinyin": "zuò shēng yì",
+    "definition": "商売をする"
+  },
+  {
+    "id": 1198,
+    "level": 4,
+    "hanzi": "座",
+    "pinyin": "zuò",
+    "definition": "（量詞）～基（山・建物など大型のもの）"
+  },
+  {
+    "id": 1199,
+    "level": 4,
+    "hanzi": "座位",
+    "pinyin": "zuò wèi",
+    "definition": "座席"
+  },
+  {
+    "id": 1200,
+    "level": 4,
+    "hanzi": "作者",
+    "pinyin": "zuò zhě",
+    "definition": "作者"
+  }
+]
