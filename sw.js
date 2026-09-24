@@ -1,10 +1,10 @@
 /* =====================================================================
-   錦囊妙語 HSK4 — Service Worker（オフライン対応）
+   HSK4級単語帳 — Service Worker（オフライン対応）
    ・初回アクセス時にアプリ本体・単語データ・アイコンを保存
    ・以降はネットがなくても保存済みのファイルで動く
    ・ファイルを更新したら CACHE_VERSION の数字を1つ上げてからアップロードすると確実
    ===================================================================== */
-const CACHE_VERSION = 'hsk4-v1';
+const CACHE_VERSION = 'hsk4-v3';
 const APP_CACHE  = `${CACHE_VERSION}-app`;
 const FONT_CACHE = 'hsk4-fonts';
 
