@@ -1,6 +1,6 @@
 {
-  "name": "錦囊妙語 HSK4 単語帳",
-  "short_name": "錦囊 HSK4",
+  "name": "HSK4級単語帳",
+  "short_name": "HSK4級単語帳",
   "description": "HSK4級（1200語）の単語カード・4択クイズ",
   "lang": "ja",
   "start_url": "./index.html",
