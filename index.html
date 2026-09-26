@@ -906,7 +906,8 @@ function getFilteredVocab(mode){
 }
 
 function renderCardPanel(){
-  cardList = getFilteredVocab(cardMode);
+  // 単語カードは毎回ランダムな順番で表示（起動時・級やモードを切り替えたとき）
+  cardList = shuffle(getFilteredVocab(cardMode));
   cardIndex = 0;
   if(cardList.length === 0){
     cardContent.style.display = 'none';
