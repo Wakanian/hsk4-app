@@ -4,7 +4,7 @@
    ・以降はネットがなくても保存済みのファイルで動く
    ・ファイルを更新したら CACHE_VERSION の数字を1つ上げてからアップロードすると確実
    ===================================================================== */
-const CACHE_VERSION = 'hsk4-v5';
+const CACHE_VERSION = 'hsk4-v6';
 const APP_CACHE  = `${CACHE_VERSION}-app`;
 const FONT_CACHE = 'hsk4-fonts';
 

@@ -948,7 +948,7 @@ function renderCard(autoSpeak = true){
   backWrongFlag.classList.toggle('show', isWrong(w.id));
   document.getElementById('frontLevel').textContent = `HSK ${w.level}級`;
   cardProgress.textContent = `${cardIndex+1} / ${cardList.length}`;
-  if(autoSpeak && !ja2zh) speakChinese(w.hanzi);
+  // 表面では自動再生しない（裏返してピンイン・和訳が出たときに再生する）
 }
 
 flipCard.addEventListener('click', (e)=>{
